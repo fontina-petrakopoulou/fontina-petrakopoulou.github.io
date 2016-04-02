@@ -1,12 +1,8 @@
 ---
 layout: page
-title: Publications
+title: My publications
 permalink: /publications/
 ---
-
-My publications
-------------------------
-
 
 4 ISI articles
 7 other publications
