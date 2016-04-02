@@ -1,11 +1,8 @@
 ---
-layout: default
+layout: page
+title: About me
+permalink: /about/
 ---
-
-![Fontina Petrakopoulou](fontina_profile.jpg)
-
-About me
-===========
 
 I received my undergraduate degree in Mechanical Engineering
 (Technical University of Crete, 2005) and my Ph.D. in Energy Engineering
