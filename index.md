@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Fontina Petrakopoulou](fontina_profile.jpg)
+![Fontina Petrakopoulou](/files/fontina_profile.jpg)
 
 About me
 ===========
