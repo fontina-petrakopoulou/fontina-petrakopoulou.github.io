@@ -23,8 +23,3 @@ I have been honoured with a best paper award and my Ph.D. thesis was chosen
 as one the three best in Germany by RWE AG. I am the author of 22 journal articles,
 2 book chapters and have participated in various international conferences
 and workshops.
-
-Collaborations
-===============
-
-I collaborate with many people.
