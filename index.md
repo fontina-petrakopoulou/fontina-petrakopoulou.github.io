@@ -4,18 +4,20 @@ layout: default
 
 ![Fontina Petrakopoulou](/files/fontina_profile.jpg)
 
-Research focus
-===========
+I am researcher at the Universidad Carlos III de Madrid
+---
 
-I am researcher at the Universidad Carlos III de Madrid since July 2015.
-
+I work on the simulation, evaluation and optimization of energy conversion processes
+based both on conventional and renewable resources.
 I am particularly interested in:
 
-- The simulation of novel advanced energy conversion
-systems,
+- The simulation of novel hybrid energy conversion systems (also for polygeneration),
 
-- The application of thermodynamic, economic and environmental
-analyses
-for maximizing the operational efficiency, minimizing costs and
-environmental impacts (including water usage) and the development of new tools
-for power plant optimization.
+- The investigation of regional energy autonomy for social and environmental
+benefits,
+
+- The application of exergy-based thermodynamic, economic and environmental
+analyses for efficiency maximization and costs and
+environmental impact (including water usage) minimization and
+
+- The development of new tools for power plant optimization.
