@@ -5,7 +5,7 @@ layout: default
 ![Fontina Petrakopoulou](/files/fontina_profile.jpg)
 
 Research focus
-----
+===========
 
 I am researcher at the Universidad Carlos III de Madrid since July 2015.
 
