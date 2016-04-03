@@ -4,7 +4,7 @@ layout: default
 
 ![Fontina Petrakopoulou](/files/fontina_profile.jpg)
 
-I am researcher at the Universidad Carlos III de Madrid
+Researcher at the Universidad Carlos III de Madrid
 ---
 
 I work on the simulation, evaluation and optimization of energy conversion processes
