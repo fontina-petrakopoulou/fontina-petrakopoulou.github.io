@@ -4,8 +4,8 @@ layout: default
 
 ![Fontina Petrakopoulou](/files/fontina_profile.jpg)
 
-Researcher at the Universidad Carlos III de Madrid - Thermal and Fluids Engineering Department
----
+**Universidad Carlos III de Madrid** *(Department of Thermal and Fluids Engineering)*
+
 
 I work on the simulation, evaluation and optimization of energy conversion processes
 based both on conventional and renewable resources.
