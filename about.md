@@ -4,8 +4,6 @@ title: About me
 permalink: /about/
 ---
 
-![Fontina Petrakopoulou](/files/fontina_profile.jpg)
-
 I received my undergraduate degree in Production Engineering and Management
 (Mechanical Engineering) from the Technical University of Crete (2005) and my Ph.D. in
 Energy Engineering from the Technical University of Berlin (2010).
