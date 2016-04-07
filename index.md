@@ -2,9 +2,9 @@
 layout: default
 ---
 
-![Fontina Petrakopoulou](/files/fontina_profile.jpg)
+[//]: # ![Fontina Petrakopoulou](/files/fontina_profile.jpg)
 
-**Universidad Carlos III de Madrid** *(Department of Thermal and Fluids Engineering)*
+[//]: # **Universidad Carlos III de Madrid** *(Department of Thermal and Fluids Engineering)*
 
 
 I work on the simulation, evaluation and optimization of energy conversion processes
