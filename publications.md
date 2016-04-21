@@ -17,9 +17,9 @@ permalink: /publications/
 
 25. 	**Petrakopoulou F.**, Robinson A., Loizidou M., 2016. [“Simulation and analysis of a stand-alone solar-wind and pumped-storage hydropower plant”, Energy – The International Journal 96, 676-683.](/files/articles/2016_Energy_Hybrid-SolarWindHydropower.pdf)
 
-24.	**Petrakopoulou F.**, Robinson A., Loizidou M., 2016. [“Exergetic analysis and dynamic simula-tion of a solar-wind power plant with electricity storage and hydrogen generation”, Journal of Cleaner Production 113, 450-458.](/files/articles/2016_JClPr_hybrid-solarwind.pdf)
+24.	**Petrakopoulou F.**, Robinson A., Loizidou M., 2016. [“Exergetic analysis and dynamic simulation of a solar-wind power plant with electricity storage and hydrogen generation”, Journal of Cleaner Production 113, 450-458.](/files/articles/2016_JClPr_hybrid-solarwind.pdf)
 
-23. 	**Petrakopoulou F.**, Sanz-Bermejo J., Dufour J., Romero, M., 2016. [“Exergetic Analysis of Hy-brid Power Plants with Biomass and Photovoltaics Coupled with a Solid-Oxide Electrolysis System”, Energy – The International Journal 94, 304-315.](/files/articles/2016_Energy.pdf)
+23. 	**Petrakopoulou F.**, Sanz-Bermejo J., Dufour J., Romero, M., 2016. [“Exergetic Analysis of Hybrid Power Plants with Biomass and Photovoltaics Coupled with a Solid-Oxide Electrolysis System”, Energy – The International Journal 94, 304-315.](/files/articles/2016_Energy.pdf)
 
 22. **Petrakopoulou F.**, Tsatsaronis G., Morosuk T., 2015. [“Advanced Exergoeconomic Analysis of a Power Plant with CO2 Capture”, Energy Procedia 75, 2253-2260.](/files/articles/2015_EnProc.pdf)
 
