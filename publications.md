@@ -13,6 +13,8 @@ permalink: /publications/
 
 ### Journal publications
 
+27. 	**Petrakopoulou F.**, Robinson A., Loizidou M., 2016. [“Simulation and evaluation of a hybrid concentrating-solar and wind power plant for energy autonomy on islands”, Journal of Renewable Energy 96, 863-871.](/files/articles/2016_JRE_HybridCSP.pdf)
+
 26. 	**Petrakopoulou F.**, 2016. [“On the economics of stand-alone renewable hybrid power plants in remote regions”, Energy Conversion and Management 118, 63-74.](/files/articles/2016_ECM_economics_hybrid.pdf)
 
 25. 	**Petrakopoulou F.**, Robinson A., Loizidou M., 2016. [“Simulation and analysis of a stand-alone solar-wind and pumped-storage hydropower plant”, Energy – The International Journal 96, 676-683.](/files/articles/2016_Energy_Hybrid-SolarWindHydropower.pdf)
