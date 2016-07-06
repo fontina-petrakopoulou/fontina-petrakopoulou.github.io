@@ -29,5 +29,5 @@ articles and book chapters and have participated in numerous international
 conferences and workshops.
 
 According to Google Scholar, my h-index is 13 and my i10-index is 15.
-According to Scopus and excluding self-citations, , my h-index is 9 and my
-i10-index is 8. 
+According to Scopus and excluding self-citations, my h-index is 9 and my
+i10-index is 8.
