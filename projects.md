@@ -4,7 +4,6 @@ title: My projects
 permalink: /projects/
 ---
 
-OPTIHYP
 -----------------
 07/2015 – 09/2018   
 **Hybrid Power Plants for Polygeneration – OPTIHYP**   
