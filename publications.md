@@ -3,6 +3,29 @@ layout: page
 title: My publications
 permalink: /publications/
 ---
+h-index: 13 and i10-index: 15 (source: Google scholar). h-index: 9 and i10-index: 8 (source: Scopus, excluding self-citations).
+
+### Technical reports
+
+**Petrakopoulou F.**, 2015. “Review of laws and regulations concerning renewable energy policy”, Technical report, prepared for the FP7 project GENERGIS (IEF-2012-332028).
+
+**Petrakopoulou F.**, 2015. “Energy statistics and renewable energy potential of Greece”, Technical report, prepared for the FP7 project GENERGIS (IEF-2012-332028).
+
+**Petrakopoulou F.**, 2015. “Demographics, geography, economy and energy statistics of Skyros”, Technical report, prepared for the FP7 project GENERGIS (IEF-2012-332028).
+
+**Petrakopoulou F.**, 2015. “Current energy use on Skyros: statistical, economic and environmental analysis”, Technical report, prepared for the FP7 project GENERGIS (IEF-2012-332028).
+
+**Petrakopoulou F.**, 2015. “Description, economics and environmental issues of renewable energy technologies”, Technical report, prepared for the FP7 project GENERGIS (IEF-2012-332028).
+
+**Petrakopoulou F.**, 2015. “Scenarios for the sustainable development of energy autonomy of Skyros”, Technical report, prepared for the FP7 project GENERGIS (IEF-2012-332028).
+
+**Petrakopoulou F.**, 2015. “Guidelines for sustainable development of stand-alone energy networks”, Technical report, prepared for the FP7 project GENERGIS (IEF-2012-332028).
+
+### Lecture notes
+
+**Petrakopoulou F.**, Nikolos I., 2014. “Lecture notes and exercises of the class Heat Transfer” (in Greek: «Σημειώσεις και ασκήσεις μαθήματος Μετάδοση Θερμότητας»), Undergraduate class “Heat Transfer”, 7th semester, Technical University of Crete.
+
+**Petrakopoulou F.**, 2008. “Instructions for EbsilonProfessional 6.0” (in English), Undergraduate class “Entwurf, Analyse und Optimierung von Energieumwandlungsanlagen” (“Design, analysis and optimization of energy conversion systems”), Technical University of Berlin.
 
 ### Chapters in books
 
