@@ -21,3 +21,5 @@ analyses for efficiency maximization and costs and
 environmental impact (including water usage) minimization and
 
 - The development of new tools for power plant optimization.
+
+![Fontina Petrakopoulou](/files/simulation_profile.jpg){:style="float: center;margin-right: 10px;margin-top: 7px;"}
