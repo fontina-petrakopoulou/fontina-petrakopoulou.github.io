@@ -36,6 +36,12 @@ h-index: 13 and i10-index: 15 (source: Google scholar). h-index: 9 and i10-index
 
 ### Journal publications
 
+30. **Petrakopoulou F.**, 2017. [“The Social Perspective on the Renewable Energy Autonomy of Geographically Isolated Communities: Evidence from a Mediterranean Island”, Sustainability 9(3), 327; doi:10.3390/su9030327.](/files/articles/2017_sustainability-09-00327_questionnaire.pdf)
+
+29. 	González-Gómez P.A., **Petrakopoulou F.**, Briongos J.V., Santana D., 2017. [“Cost-based design optimization of the heat exchangers in a parabolic trough concentrating solar power plant”, Energy – The International Journal 123, 314-325.](/files/articles/2017_JRE_HXOptCSP.pdf)
+
+28. 	Alhammadi M., Alblooshi M., **Petrakopoulou F.**, Dadach Z., 2016. [“Effects of summer weather conditions on the environmental impact of a power plant in the UAE”, International Journal of Energy Engineering 6 (2), 29-42.](/files/articles/2017_HTC_exergoenvirGT.pdf)
+
 27. 	**Petrakopoulou F.**, Robinson A., Loizidou M., 2016. [“Simulation and evaluation of a hybrid concentrating-solar and wind power plant for energy autonomy on islands”, Journal of Renewable Energy 96, 863-871.](/files/articles/2016_JRE_HybridCSP.pdf)
 
 26. 	**Petrakopoulou F.**, 2016. [“On the economics of stand-alone renewable hybrid power plants in remote regions”, Energy Conversion and Management 118, 63-74.](/files/articles/2016_ECM_economics_hybrid.pdf)
