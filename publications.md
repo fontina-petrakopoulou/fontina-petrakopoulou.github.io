@@ -3,7 +3,7 @@ layout: page
 title: My publications
 permalink: /publications/
 ---
-h-index: 13 and i10-index: 15 (source: Google scholar). h-index: 9 and i10-index: 8 (source: Scopus, excluding self-citations).
+h-index: 14 and i10-index: 16 (source: Google scholar). h-index and i10-index: 9 (source: Scopus, excluding self-citations).
 
 ### Technical reports
 
