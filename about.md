@@ -31,4 +31,5 @@ conferences and workshops.
 According to Google Scholar, my h-index is 14 and my i10-index is 16.
 According to Scopus and excluding self-citations, my h-index and my i10-index are 9.
 
-[Detailed CV] (/files/CurriculumVitae_Petrakopoulou.pdf)
+[Detailed CV]
+(/files/CurriculumVitae_Petrakopoulou.pdf)
