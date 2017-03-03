@@ -11,14 +11,13 @@ I work on the simulation, evaluation and optimization of energy conversion proce
 based both on conventional and renewable resources.
 I am particularly interested in:
 
-- The simulation of novel hybrid energy conversion systems (also for polygeneration),
+- The simulation of novel hybrid and other advanced energy conversion systems (also for polygeneration),
 
-- The investigation of regional energy autonomy for social and environmental
-benefits,
+- Estimation of present and future water use in conventional, renewable and hybrid power plants and water minimization strategies,
 
-- The application of exergy-based thermodynamic, economic and environmental
-analyses for efficiency maximization and costs and
-environmental impact (including water usage) minimization and
+- Regional renewable energy autonomy for social and environmental benefits,
+
+- The application of exergy-based thermodynamic, economic and environmental analyses for efficiency maximization and costs and environmental impact minimization and
 
 - The development of new tools for power plant optimization.
 
