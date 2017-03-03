@@ -31,5 +31,6 @@ conferences and workshops.
 According to Google Scholar, my h-index is 14 and my i10-index is 16.
 According to Scopus and excluding self-citations, my h-index and my i10-index are 9.
 
-[Detailed CV]     
-(/files/CurriculumVitae_Petrakopoulou.pdf)
+[Detailed CV](/files/CurriculumVitae_Petrakopoulou.pdf)
+
+27. 	**Petrakopoulou F.**, Robinson A., Loizidou M., 2016. [“Simulation and evaluation of a hybrid concentrating-solar and wind power plant for energy autonomy on islands”, Journal of Renewable Energy 96, 863-871.](/files/articles/2016_JRE_HybridCSP.pdf)
