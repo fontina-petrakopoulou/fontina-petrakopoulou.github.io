@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-![Fontina Petrakopoulou](/files/fontina_profile.jpg){:style="float: left;margin-right: 20px;margin-top: 7px;"} [Detailed CV] (/files/CurriculumVitae_Petrakopoulou.pdf)
+![Fontina Petrakopoulou](/files/fontina_profile.jpg){:style="float: left;margin-right: 20px;margin-top: 7px;"} 
 
 I received my undergraduate degree in Production Engineering and Management
 (Mechanical Engineering) from the Technical University of Crete (2005) and my Ph.D. in
@@ -30,3 +30,5 @@ conferences and workshops.
 
 According to Google Scholar, my h-index is 14 and my i10-index is 16.
 According to Scopus and excluding self-citations, my h-index and my i10-index are 9.
+
+[Detailed CV] (/files/CurriculumVitae_Petrakopoulou.pdf)
