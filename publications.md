@@ -3,7 +3,7 @@ layout: page
 title: My publications
 permalink: /publications/
 ---
-h-index: 14 and i10-index: 16 (source: Google scholar). h-index and i10-index: 9 (source: Scopus, excluding self-citations).
+h-index: 14 and i10-index: 18 (source: Google scholar). h-index: 12 (source: Scopus).
 
 ### Technical reports
 
@@ -36,9 +36,13 @@ h-index: 14 and i10-index: 16 (source: Google scholar). h-index and i10-index: 9
 
 ### Journal publications
 
-30. 	González-Gómez P.A., **Petrakopoulou F.**, Briongos J.V., Santana D., 2017. [“Cost-based design optimization of the heat exchangers in a parabolic trough concentrating solar power plant”, Energy – The International Journal 123, 314-325.](/files/articles/2017_JRE_HXOptCSP.pdf)
+32. Yolanda L., **Petrakopoulou F.**, Morosuk T., Boyano A., Tsatsaronis G., “The Relationship Between Costs and Environmental Impacts in Power Plants: An Exergy-Based Study”, in revision.
 
-29. **Petrakopoulou F.**, 2017. [“The Social Perspective on the Renewable Energy Autonomy of Geographically Isolated Communities: Evidence from a Mediterranean Island”, Sustainability 9(3), 327; doi:10.3390/su9030327.](/files/articles/2017_sustainability-09-00327_questionnaire.pdf)
+31. **Petrakopoulou F.**, 2017. “Economic and environmental considerations for zero-emission transport and thermal energy generation on an energy autonomous island”, accepted for publication, European Journal of Sustainable Development Research.
+
+30. **Petrakopoulou F.**, 2017. [“The Social Perspective on the Renewable Energy Autonomy of Geographically Isolated Communities: Evidence from a Mediterranean Island”, Sustainability 9(3), 327; doi:10.3390/su9030327.](/files/articles/2017_sustainability-09-00327_questionnaire.pdf)
+
+29. 	González-Gómez P.A., **Petrakopoulou F.**, Briongos J.V., Santana D., 2017. [“Cost-based design optimization of the heat exchangers in a parabolic trough concentrating solar power plant”, Energy – The International Journal 123, 314-325.](/files/articles/2017_JRE_HXOptCSP.pdf)
 
 28. 	Alhammadi M., Alblooshi M., **Petrakopoulou F.**, Dadach Z., 2016. [“Effects of summer weather conditions on the environmental impact of a power plant in the UAE”, International Journal of Energy Engineering 6 (2), 29-42.](/files/articles/2017_HTC_exergoenvirGT.pdf)
 
