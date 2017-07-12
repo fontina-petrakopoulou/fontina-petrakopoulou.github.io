@@ -11,6 +11,19 @@ Of potential interest, below you can see all open and future calls that can allo
 
 **--------------------------------------------------OPEN CALLS---------------------------------------------------------**
 
+**EUROPEAN GRANTS FOR POSTDOCTORAL RESEARCHERS (MARIE CURIE INDIVIDUAL FELLOWSHIPS)**
+
+_Parties interested in applying for these highly competitive grants and fulfil the requirements of the call can email their CV to fpetrako@ing.uc3m.es as soon as possible._
+
+The goal of the Individual Fellowships is to enhance the creative and innovative potential of experienced researchers, wishing to diversify their individual competence in terms of skill acquisition through advanced training, international and intersectoral mobility. Individual Fellowships provide opportunities to acquire and transfer new knowledge and to work on research and innovation in a European context (EU Member States and Associated Countries) or outside Europe. The scheme particularly supports the return and reintegration of researchers from outside Europe who have previously worked here. It also develops or helps to restart the careers of individual researchers that show great potential, considering their experience.
+
+**FINAL SUBMISSION:** 14/09/2017   
+
+**REQUIREMENTS:**
+A) Only experienced researchers can apply. This means you will have your doctoral degree or at least four years’ full-time research experience by the time of the call deadline.
+
+B) The researcher must not have resided or carried out his/her main activity (work, studies, etc.) in the country of the host organisation for more than 12 months in the 3 years immediately prior to the deadline for submission of proposals. Compulsory national service and/or short stays such as holidays are not taken into account. 
+
 **GRANTS FOR THE RECRUITMENT OF PREDOCTORAL AND POSTDOCTORAL RESEARCHERS. Call 2017.**
 
 _All interested parties that fulfil the requirements of the call can email their CV to fpetrako@ing.uc3m.es by July 20._
