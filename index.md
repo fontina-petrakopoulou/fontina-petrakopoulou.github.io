@@ -8,7 +8,10 @@ layout: default
 
 
 I work on the simulation, evaluation and optimization of energy conversion processes
-based both on conventional and renewable resources.
+based both on conventional and renewable resources. 
+
+![See available positions at our university] (/http://fontina-petrakopoulou.github.io/available-positions/) 
+
 I am particularly interested in:
 
 - The simulation of novel hybrid and other advanced energy conversion systems (also for polygeneration),
