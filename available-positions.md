@@ -4,7 +4,12 @@ title: Available positions
 permalink: /available-positions/
 ---
 
-Below you can see all open and future calls that can allow the contracting of personel under my supervision. If you have any further questions related to application or hiring requirements, contact me at fpetrako@ing.uc3m.es. 
+I am looking for  motivated, creative and well qualified Ph.D. and postdoctoral students to come work with me and be part of a forward thinking group on the cutting edge of energy and water research. I am open to new ideas and I am willing to support innovative and attractive proposals. 
+
+If you have any further questions related to application or hiring requirements and possibilities, contact me at fpetrako@ing.uc3m.es. 
+
+Of potential interest, below you can see all open and future calls that can allow the contracting of personnel. 
+
 
 **--------------------------------------------------OPEN CALLS---------------------------------------------------------**
 
