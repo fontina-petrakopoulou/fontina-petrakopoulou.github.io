@@ -4,6 +4,8 @@ title: Available positions
 permalink: /available-positions/
 ---
 
+Below you can see all open and future calls that can allow the contracting of personel under my supervision. If you have any further questions related to application or hiring requirements, contact me at fpetrako@ing.uc3m.es. 
+
 **--------------------------------------------------OPEN CALLS---------------------------------------------------------**
 
 **GRANTS FOR THE RECRUITMENT OF PREDOCTORAL AND POSTDOCTORAL RESEARCHERS. Call 2017.**
