@@ -5,6 +5,7 @@ permalink: /available-positions/
 ---
   
 **GRANTS FOR THE RECRUITMENT OF PREDOCTORAL AND POSTDOCTORAL RESEARCHERS. Call 2017.**
+
 _All interested parties that fulfil the requirements of the call can email their CV to fpetrako@ing.uc3m.es by July 20._
 
 **DEADLINE:** 20/07/2017   
