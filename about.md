@@ -28,8 +28,8 @@ as one the three best in Germany by RWE AG. I am the author of various journal
 articles and book chapters and have participated in numerous international
 conferences and workshops.
 
-According to Google Scholar, my h-index is 14 and my i10-index is 16.
-According to Scopus and excluding self-citations, my h-index and my i10-index are 9.
+According to Google Scholar, my h-index is 14 and my i10-index is 18.
+According to Scopus and excluding self-citations, my h-index is 12.
 
 My **detailed CV** can be seen [here](/files/CurriculumVitae_Petrakopoulou.pdf).
 
