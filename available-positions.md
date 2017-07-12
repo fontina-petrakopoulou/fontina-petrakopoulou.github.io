@@ -22,7 +22,7 @@ BOCM: http://w3.bocm.es/boletin/CM_Orden_BOCM/2017/07/10/BOCM-20170710-13.PDF
 
 **Other calls:**
 
-** Call for the recruitment of research assistants and laboratory technicians co-financed by the European Social Fund through the Youth Employment Operational Program and the Youth Employment Initiative (YEI)**
+**Call for the recruitment of research assistants and laboratory technicians co-financed by the European Social Fund through the Youth Employment Operational Program and the Youth Employment Initiative (YEI)**
 
 *Convocatoria de ayudas para la contratación de ayudantes de investigación y técnicos de laboratorio cofinanciadas por Fondo Social Europeo a través del Programa Operativo de Empleo Juvenil y la Iniciativa de Empleo Juvenil (YEI)*
 
