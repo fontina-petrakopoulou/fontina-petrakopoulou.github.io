@@ -4,7 +4,7 @@ title: Available positions
 permalink: /available-positions/
 ---
 
-**----------------------------------------------------OPEN CALLS------------------------------------------------------------**
+**--------------------------------------------------OPEN CALLS---------------------------------------------------------**
 
 **GRANTS FOR THE RECRUITMENT OF PREDOCTORAL AND POSTDOCTORAL RESEARCHERS. Call 2017.**
 
@@ -20,7 +20,7 @@ C) To promote synergy with other actions that have received funding from the com
 BOCM: http://w3.bocm.es/boletin/CM_Orden_BOCM/2017/07/10/BOCM-20170710-13.PDF
 
 
-**----------------------------------------------------OTHER CALLS-----------------------------------------------------------**
+**--------------------------------------------------OTHER CALLS--------------------------------------------------------**
 
 **Call for the recruitment of research assistants and laboratory technicians co-financed by the European Social Fund through the Youth Employment Operational Program and the Youth Employment Initiative (YEI)**
 
