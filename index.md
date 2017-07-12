@@ -22,7 +22,7 @@ I am particularly interested in:
 
 - The development of new tools for power plant optimization.
 
-I am always looking for motivated, creative and well qualified students to come work with me. I am open to new ideas and willing to support innovative and attractive proposals.
+I am always looking for motivated, creative and well qualified students to come work with me. I am open to new ideas and willing to support innovative and attractive proposals. Please feel free to contact me at fpetrako@ing.uc3m.es.
 **[See open positions at our university](http://fontina-petrakopoulou.github.io/available-positions/)**
 
 ![Fontina Petrakopoulou](/files/simulation_profile.jpg){:style="float: center;margin-right: 10px;margin-top: 7px;"}
