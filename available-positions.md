@@ -11,7 +11,7 @@ Of potential interest, below you can see all open and future calls that can allo
 
 **--------------------------------------------------OPEN CALLS---------------------------------------------------------**
 
-**EUROPEAN GRANTS FOR POSTDOCTORAL RESEARCHERS (MARIE CURIE INDIVIDUAL FELLOWSHIPS)**
+- **EUROPEAN GRANTS FOR POSTDOCTORAL RESEARCHERS (MARIE CURIE INDIVIDUAL FELLOWSHIPS)**
 
 _Parties interested in applying for these highly competitive grants and fulfil the requirements of the call can email their CV to fpetrako@ing.uc3m.es as soon as possible._
 
@@ -24,7 +24,7 @@ A) Only experienced researchers can apply. This means you will have your doctora
 
 B) The researcher must not have resided or carried out his/her main activity (work, studies, etc.) in the country of the host organisation for more than 12 months in the 3 years immediately prior to the deadline for submission of proposals. Compulsory national service and/or short stays such as holidays are not taken into account. 
 
-**GRANTS FOR THE RECRUITMENT OF PREDOCTORAL AND POSTDOCTORAL RESEARCHERS. Call 2017.**
+- **GRANTS FOR THE RECRUITMENT OF PREDOCTORAL AND POSTDOCTORAL RESEARCHERS. Call 2017.**
 
 _All interested parties that fulfil the requirements of the call can email their CV to fpetrako@ing.uc3m.es by July 20._
 
