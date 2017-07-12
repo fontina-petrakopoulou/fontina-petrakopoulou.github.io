@@ -6,6 +6,7 @@ permalink: /available-positions/
 ---
   
 **Grants for the recruitment of Predoctoral Researchers and Postdoctoral Researchers. Call 2017.**
+
 **DEALINE (internal):** 20/07/2017   
 **REQUIREMENTS:** 
 &nbsp;&nbsp;&nbsp;&nbsp;_A) Young people not employed or integrated into education or training systems, over 16 and under 30 years of age that can receive an offer of employment.
