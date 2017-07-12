@@ -6,7 +6,7 @@ permalink: /available-positions/
 
 I am looking for  motivated, creative and well qualified Ph.D. and postdoctoral students to come work with me and be part of a forward thinking group on the cutting edge of energy and water research. I am open to new ideas and I am willing to support innovative and attractive proposals. 
 
-If you have any further questions related to application or hiring requirements and possibilities, contact me at fpetrako@ing.uc3m.es. 
+If you have any further questions or suggestions related to collaboration possibilities feel free to contact me at fpetrako@ing.uc3m.es. 
 
 Of potential interest, below you can see all open and future calls that can allow the contracting of personnel. 
 
