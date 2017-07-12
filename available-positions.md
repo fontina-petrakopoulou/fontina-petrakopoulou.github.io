@@ -9,7 +9,7 @@ permalink: /available-positions/
 
 **DEALINE:** 20/07/2017   
 
-**REQUIREMENTS:** &nbsp;&nbsp;&nbsp;&nbsp;_
+**REQUIREMENTS:**
 A) Young people not employed or integrated into education or training systems, over 16 and under 30 years of age that can receive an offer of employment.  
 B) To strengthen research teams.  
 C) To promote synergy with other actions that have received funding from the competent Directorate-General.
