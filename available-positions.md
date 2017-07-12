@@ -4,7 +4,8 @@ title: Available positions
 permalink: /available-positions/
 ---
   
-**Grants for the recruitment of Predoctoral Researchers and Postdoctoral Researchers. Call 2017.**
+**GRANTS FOR THE RECRUITMENT OF PREDOCTORAL AND POSTDOCTORAL RESEARCHERS. Call 2017.**
+_All interested parties that fulfil the requirements of the call can email their CV to fpetrako@ing.uc3m.es by July 20._
 
 **DEADLINE:** 20/07/2017   
 
@@ -15,4 +16,3 @@ C) To promote synergy with other actions that have received funding from the com
 
 BOCM: http://w3.bocm.es/boletin/CM_Orden_BOCM/2017/07/10/BOCM-20170710-13.PDF
 
-**All interested parties that fulfil the requirements of the call can email their CV to fpetrako@ing.uc3m.es by July 20.**
