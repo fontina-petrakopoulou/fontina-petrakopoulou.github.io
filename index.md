@@ -10,8 +10,6 @@ layout: default
 I work on the simulation, evaluation and optimization of energy conversion processes
 based both on conventional and renewable resources. 
 
-[See available positions at our university](/http://fontina-petrakopoulou.github.io/available-positions/) 
-
 I am particularly interested in:
 
 - The simulation of novel hybrid and other advanced energy conversion systems (also for polygeneration),
@@ -23,5 +21,7 @@ I am particularly interested in:
 - The application of exergy-based thermodynamic, economic and environmental analyses for efficiency maximization and costs and environmental impact minimization and
 
 - The development of new tools for power plant optimization.
+
+[See available positions at our university](/http://fontina-petrakopoulou.github.io/available-positions/) 
 
 ![Fontina Petrakopoulou](/files/simulation_profile.jpg){:style="float: center;margin-right: 10px;margin-top: 7px;"}
