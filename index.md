@@ -10,7 +10,7 @@ layout: default
 I work on the simulation, evaluation and optimization of energy conversion processes
 based both on conventional and renewable resources. 
 
-![See available positions at our university] (/http://fontina-petrakopoulou.github.io/available-positions/) 
+[See available positions at our university](/http://fontina-petrakopoulou.github.io/available-positions/) 
 
 I am particularly interested in:
 
