@@ -22,6 +22,6 @@ I am particularly interested in:
 
 - The development of new tools for power plant optimization.
 
-**[See available positions at our university](/http://fontina-petrakopoulou.github.io/available-positions/)**
+**[See available positions at our university](http://fontina-petrakopoulou.github.io/available-positions/)**
 
 ![Fontina Petrakopoulou](/files/simulation_profile.jpg){:style="float: center;margin-right: 10px;margin-top: 7px;"}
