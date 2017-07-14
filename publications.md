@@ -36,7 +36,7 @@ h-index: 14 and i10-index: 18 (source: Google scholar). h-index: 12 (source: Sco
 
 ### Journal publications
 
-32.  Yolanda L., **Petrakopoulou F.**, Morosuk T., Boyano A., Tsatsaronis G., “The Relationship Between Costs and Environmental Impacts in Power Plants: An Exergy-Based Study”, in revision.
+32.  Yolanda L., **Petrakopoulou F.**, Morosuk T., Boyano A., Tsatsaronis G., “The Relationship Between Costs and Environmental Impacts in Power Plants: An Exergy-Based Study”, accepted for publication, Energy.
 
 31.  **Petrakopoulou F.**, 2017. “Economic and environmental considerations for zero-emission transport and thermal energy generation on an energy autonomous island”, accepted for publication, European Journal of Sustainable Development Research.
 
