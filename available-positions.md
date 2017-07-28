@@ -24,18 +24,18 @@ A) Only experienced researchers can apply. This means you will have your doctora
 
 B) The researcher must not have resided or carried out his/her main activity (work, studies, etc.) in the country of the host organisation for more than 12 months in the 3 years immediately prior to the deadline for submission of proposals. Compulsory national service and/or short stays such as holidays are not taken into account. 
 
-- **GRANTS FOR THE RECRUITMENT OF PREDOCTORAL AND POSTDOCTORAL RESEARCHERS. Call 2017.**
+- **[PREDOCTORAL SCHOLARISHIPS IN THE ENVIRONMENT OF THE FOUNDATION TATIANA PEREZ DE GUZMAN EL BUENO. Call 2017.](http://fundaciontatianapgb.org/convocatorias/becas-investigacion/convocatoria-becas-predoctorales-medioambiente-2017/)**
 
-_All interested parties that fulfil the requirements of the call can email their CV to fpetrako@ing.uc3m.es by July 20._
+_All interested parties can email their CV to fpetrako@ing.uc3m.es by September 20._
 
-**DEADLINE:** 20/07/2017   
+**DEADLINE:** 29/09/2017   
 
-**REQUIREMENTS:**
-A) Young people not employed or integrated into education or training systems, over 16 and under 30 years of age that can receive an offer of employment.  
-B) To strengthen research teams.  
-C) To promote synergy with other actions that have received funding from the competent Directorate-General.
+A) The initial duration of the fellowships is one year, and can be prolonged up to a maximum of three years, if the work plan is realized satisfactory.
 
-BOCM: http://w3.bocm.es/boletin/CM_Orden_BOCM/2017/07/10/BOCM-20170710-13.PDF
+B) The scholarship of the first year is 23,700 € gross. 
+
+
+BOCM: http://fundaciontatianapgb.org/wp-content/uploads/2017/07/F.TATIANA_Convocatoria-Beca-mediambiente-2017_03.pdf
 
 
 **--------------------------------------------------OTHER CALLS-------------------------------------------------------**
