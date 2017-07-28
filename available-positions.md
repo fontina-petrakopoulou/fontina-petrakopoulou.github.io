@@ -35,7 +35,7 @@ A) The initial duration of the fellowships is one year, and can be prolonged up 
 B) The scholarship of the first year is 23,700 € gross. 
 
 
-[BOCM:](http://fundaciontatianapgb.org/wp-content/uploads/2017/07/F.TATIANA_Convocatoria-Beca-mediambiente-2017_03.pdf)
+See BOCM [here](http://fundaciontatianapgb.org/wp-content/uploads/2017/07/F.TATIANA_Convocatoria-Beca-mediambiente-2017_03.pdf)
 
 
 **--------------------------------------------------OTHER CALLS-------------------------------------------------------**
