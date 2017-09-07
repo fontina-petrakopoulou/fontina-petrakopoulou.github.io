@@ -11,8 +11,7 @@ Of potential interest, below you can see all open and future calls that can allo
 
 **--------------------------------------------------OPEN CALLS---------------------------------------------------------**
 
-- **[CALLS FOR THE ATTRACTION OF TALENT (EU-COFUNDED FELLOWSHIPS)]
-(https://gestiona3.madrid.org/quadrivium/portal/portals/0/documentacion/talento/Orden_3112_2017_Talento.pdf/)**
+- **[CALLS FOR THE ATTRACTION OF TALENT (EU-COFUNDED FELLOWSHIPS)](https://gestiona3.madrid.org/quadrivium/portal/portals/0/documentacion/talento/Orden_3112_2017_Talento.pdf/)**
 
 **Modality 1:** Recruitment of _experienced doctors_. 40 fellowships of 4 years with an annual cost of the contract of 55,000 € and an additional endowment of 200,000 €. The applicants must have obtained their doctorate between 1/1/2005 and 12/31/2012 and have worked in foreign centers for at least three years, including during the two of the last three years.
 
