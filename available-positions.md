@@ -11,6 +11,17 @@ Of potential interest, below you can see all open and future calls that can allo
 
 **--------------------------------------------------OPEN CALLS---------------------------------------------------------**
 
+- **[CALLS FOR THE ATTRACTION OF TALENT (EU-COFUNDED FELLOWSHIPS)]
+(https://gestiona3.madrid.org/quadrivium/portal/portals/0/documentacion/talento/Orden_3112_2017_Talento.pdf/)**
+
+**Modality 1:** Recruitment of _experienced doctors_. 40 fellowships of 4 years with an annual cost of the contract of 55,000 € and an additional endowment of 200,000 €. The applicants must have obtained their doctorate between 1/1/2005 and 12/31/2012 and have worked in foreign centers for at least three years, including during the two of the last three years.
+
+**Modality 2:** Recruitment of _young doctors_. 55 fellowships of 4 years with an annual cost of the contract of 40,000 €. The applicants must have ontained their doctoral degree after 1/1/2013 and must have worked at institutions outside Spain for at least one of the last two years.
+
+The call is open from 02/09/2017 to 19/09/2017. 
+**Internal deadline of UC3M:** 14/09/2017.
+
+
 - **[EUROPEAN GRANTS FOR POSTDOCTORAL RESEARCHERS (MARIE CURIE INDIVIDUAL FELLOWSHIPS)](http://ec.europa.eu/research/participants/portal/desktop/en/opportunities/h2020/calls/h2020-msca-if-2017.html#c,topics=callIdentifier/t/H2020-MSCA-IF-2017/1/1/1/default-group&callStatus/t/Forthcoming/1/1/0/default-group&callStatus/t/Open/1/1/0/default-group&callStatus/t/Closed/1/1/0/default-group&+identifier/desc)**
 
 _Parties interested in applying for these highly competitive grants and fulfil the requirements of the call can email their CV to fpetrako@ing.uc3m.es as soon as possible._
