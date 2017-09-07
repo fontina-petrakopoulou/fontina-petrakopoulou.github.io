@@ -36,7 +36,7 @@ A) Only experienced researchers can apply. This means you will have your doctora
 
 B) The researcher must not have resided or carried out his/her main activity (work, studies, etc.) in the country of the host organisation for more than 12 months in the 3 years immediately prior to the deadline for submission of proposals. Compulsory national service and/or short stays such as holidays are not taken into account. 
 
-- **[PREDOCTORAL SCHOLARISHIPS IN THE ENVIRONMENT OF THE FOUNDATION TATIANA PEREZ DE GUZMAN EL BUENO. Call 2017.](http://fundaciontatianapgb.org/convocatorias/becas-investigacion/convocatoria-becas-predoctorales-medioambiente-2017/)**
+- **[PREDOCTORAL SCHOLARSHIPS IN THE ENVIRONMENT OF THE FOUNDATION TATIANA PEREZ DE GUZMAN EL BUENO. Call 2017.](http://fundaciontatianapgb.org/convocatorias/becas-investigacion/convocatoria-becas-predoctorales-medioambiente-2017/)**
 
 _All interested parties can email their CV to fpetrako@ing.uc3m.es by September 20._
 
