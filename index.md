@@ -7,8 +7,12 @@ layout: default
 [//]: # **Universidad Carlos III de Madrid** *(Department of Thermal and Fluids Engineering)*
 
 
+
+
 I work on the simulation, evaluation and optimization of energy conversion processes
 based both on conventional and renewable resources. 
+
+
 
 I am particularly interested in:
 
