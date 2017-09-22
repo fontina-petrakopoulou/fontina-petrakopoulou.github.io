@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[//]: # ![Fontina Petrakopoulou](/files/fontina_profile.jpg)
+![Fontina Petrakopoulou](/files/fontina_profile.jpg)
 
 [//]: # **Universidad Carlos III de Madrid** *(Department of Thermal and Fluids Engineering)*
 
