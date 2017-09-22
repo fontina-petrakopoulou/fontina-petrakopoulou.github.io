@@ -12,9 +12,9 @@ based both on conventional and renewable resources.
 
 I am particularly interested in:
 
-- The simulation of novel hybrid and other advanced energy conversion systems (also for polygeneration),
+- Water-Energy Nexus. Estimation of present and future water use in conventional, renewable and hybrid power plants and water minimization strategies,
 
-- Estimation of present and future water use in conventional, renewable and hybrid power plants and water minimization strategies,
+- The simulation of novel hybrid and other advanced energy conversion systems (also for polygeneration),
 
 - Regional renewable energy autonomy for social and environmental benefits,
 
