@@ -8,8 +8,37 @@ permalink: /available-positions/
 
 Of potential interest, below you can see all open and future calls that can allow the contracting of personnel. 
 
-
 **--------------------------------------------------OPEN CALLS---------------------------------------------------------**
+
+- **[PREDOCTORAL SCHOLARSHIPS IN THE ENVIRONMENT OF THE FOUNDATION TATIANA PEREZ DE GUZMAN EL BUENO. Call 2017.](http://fundaciontatianapgb.org/convocatorias/becas-investigacion/convocatoria-becas-predoctorales-medioambiente-2017/)**
+
+_All interested parties can email their CV to fpetrako@ing.uc3m.es by September 20._
+
+**DEADLINE:** 29/09/2017   
+
+A) The initial duration of the fellowships is one year, and can be prolonged up to a maximum of three years, if the work plan is realized satisfactory.
+
+B) The scholarship of the first year is 23,700 € gross. 
+
+See BOCM [here](http://fundaciontatianapgb.org/wp-content/uploads/2017/07/F.TATIANA_Convocatoria-Beca-mediambiente-2017_03.pdf)
+
+**--------------------------------------------------OTHER CALLS-------------------------------------------------------**
+
+- **Call for the recruitment of research assistants and laboratory technicians co-financed by the European Social Fund through the Youth Employment Operational Program and the Youth Employment Initiative (YEI)**
+
+*Convocatoria de ayudas para la contratación de ayudantes de investigación y técnicos de laboratorio cofinanciadas por Fondo Social Europeo a través del Programa Operativo de Empleo Juvenil y la Iniciativa de Empleo Juvenil (YEI)*
+
+
+- **Talent Attraction Program. Grants for attracting research talent to the Community of Madrid in R&D centers**
+
+*Programa de Atracción de Talento. Ayudas destinadas a la atracción de talento investigador a la Comunidad de Madrid en centros de I+D*
+
+
+- **Technical Support Staff of the State Research Agency (MINECO)**
+
+*Personal Técnico de Apoyo de la Agencia Estatal de Investigación (MINECO)*
+
+**--------------------------------------------------CLOSED CALLS-------------------------------------------------------**
 
 - **[CALLS FOR THE ATTRACTION OF TALENT (EU-COFUNDED FELLOWSHIPS)](https://gestiona3.madrid.org/quadrivium/portal/portals/0/documentacion/talento/Orden_3112_2017_Talento.pdf/)**
 
@@ -36,33 +65,4 @@ A) Only experienced researchers can apply. This means you will have your doctora
 
 B) The researcher must not have resided or carried out his/her main activity (work, studies, etc.) in the country of the host organisation for more than 12 months in the 3 years immediately prior to the deadline for submission of proposals. Compulsory national service and/or short stays such as holidays are not taken into account. 
 
-- **[PREDOCTORAL SCHOLARSHIPS IN THE ENVIRONMENT OF THE FOUNDATION TATIANA PEREZ DE GUZMAN EL BUENO. Call 2017.](http://fundaciontatianapgb.org/convocatorias/becas-investigacion/convocatoria-becas-predoctorales-medioambiente-2017/)**
-
-_All interested parties can email their CV to fpetrako@ing.uc3m.es by September 20._
-
-**DEADLINE:** 29/09/2017   
-
-A) The initial duration of the fellowships is one year, and can be prolonged up to a maximum of three years, if the work plan is realized satisfactory.
-
-B) The scholarship of the first year is 23,700 € gross. 
-
-
-See BOCM [here](http://fundaciontatianapgb.org/wp-content/uploads/2017/07/F.TATIANA_Convocatoria-Beca-mediambiente-2017_03.pdf)
-
-
-**--------------------------------------------------OTHER CALLS-------------------------------------------------------**
-
-- **Call for the recruitment of research assistants and laboratory technicians co-financed by the European Social Fund through the Youth Employment Operational Program and the Youth Employment Initiative (YEI)**
-
-*Convocatoria de ayudas para la contratación de ayudantes de investigación y técnicos de laboratorio cofinanciadas por Fondo Social Europeo a través del Programa Operativo de Empleo Juvenil y la Iniciativa de Empleo Juvenil (YEI)*
-
-
-- **Talent Attraction Program. Grants for attracting research talent to the Community of Madrid in R&D centers**
-
-*Programa de Atracción de Talento. Ayudas destinadas a la atracción de talento investigador a la Comunidad de Madrid en centros de I+D*
-
-
-- **Technical Support Staff of the State Research Agency (MINECO)**
-
-*Personal Técnico de Apoyo de la Agencia Estatal de Investigación (MINECO)*
 
