@@ -14,13 +14,13 @@ based both on conventional and renewable resources.
 
 
 
-I am particularly interested in:
+  I am particularly interested in:
 
-- Water-Energy Nexus. Estimation of present and future water use in conventional, renewable and hybrid power plants and water minimization strategies,
+  - Water-Energy Nexus. Estimation of present and future water use in conventional, renewable and hybrid power plants and   water minimization strategies,
 
-- The simulation of novel hybrid and other advanced energy conversion systems (also for polygeneration),
+  - The simulation of novel hybrid and other advanced energy conversion systems (also for polygeneration),
 
-- Regional renewable energy autonomy for social and environmental benefits,
+  - Regional renewable energy autonomy for social and environmental benefits,
 
 - The application of exergy-based thermodynamic, economic and environmental analyses for efficiency maximization and costs and environmental impact minimization and
 
