@@ -10,23 +10,19 @@ Of potential interest, below you can see all open and future calls that can allo
 
 **--------------------------------------------------OPEN CALLS---------------------------------------------------------**
 
-Call for applications for mobility with Russia, South Africa, India, Indonesia and Iran
-Application deadlines: 2 February 2018 for PhD and staff mobilities, and 22 March 2018 for Bachelor and Master mobilities.
+**Call for applications for mobility with Russia, South Africa, India, Indonesia and Iran**
+
+**Application deadlines:** 2 February 2018 for PhD and staff mobilities, and 22 March 2018 for Bachelor and Master mobilities.
 
 The Alliance 4 Universities has been awarded funds under Erasmus+ International Credit Mobility programme (Action KA107). Through these funds, students and faculty from Russian, South African, Indian, Indonesian and Iranian partner universities and from A4U universities have the opportunity to participate in mobility schemes.
 
-Who can apply? The calls are open to Bachelor, Master and PhD students and staff from the participating universities (the details can be found in the Calls).
+**Who can apply?** The calls are open to Bachelor, Master and PhD students and staff from the participating universities (the details can be found in the Calls).
+**How long can the mobility be?** The mobility period for Bachelor, Master and PhD students can be from a minimum of 3 months to a maximum of 5 months. The mobility period for staff is 5 days plus 2 days for travel. In total, 7 days will be covered by the grant.
+**What expenses are covered by the grant?** Grants provide a monthly/daily allowance according to the category of the mobility and the receiving country, and a fixed travel quota to cover the flight expenses.
+**When can the mobility be carried out?** Mobilities under these calls can be carried out during 2017-2018 and 2018-2019, and should end before 31 July 2019.
+**What are the deadlines?** The deadline for PhD and staff applications is 2 February 2018, and for Bachelor/Master applicants – 22 March 2018.
 
-How long can the mobility be? The mobility period for Bachelor, Master and PhD students can be from a minimum of 3 months to a maximum of 5 months. The mobility period for staff is 5 days plus 2 days for travel. In total, 7 days will be covered by the grant.
-
-What expenses are covered by the grant? Grants provide a monthly/daily allowance according to the category of the mobility and the receiving country, and a fixed travel quota to cover the flight expenses.
-
-When can the mobility be carried out? Mobilities under these calls can be carried out during 2017-2018 and 2018-2019, and should end before 31 July 2019.
-
-What are the deadlines? The deadline for PhD and staff applications is 2 February 2018, and for Bachelor/Master applicants – 22 March 2018.
-
-How to apply?
-
+**How to apply?**
 Read carefully the relevant call for applications
 Check the corresponding applicants’ guide (below) for step-by-step instructions on how to prepare the application.
 Check participating universities factsheets (below, to be published as they become available) for their course/research offer, available services and contact details.
