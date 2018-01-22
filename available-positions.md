@@ -10,17 +10,39 @@ Of potential interest, below you can see all open and future calls that can allo
 
 **--------------------------------------------------OPEN CALLS---------------------------------------------------------**
 
-- **[PREDOCTORAL SCHOLARSHIPS IN THE ENVIRONMENT OF THE FOUNDATION TATIANA PEREZ DE GUZMAN EL BUENO. Call 2017.](http://fundaciontatianapgb.org/convocatorias/becas-investigacion/convocatoria-becas-predoctorales-medioambiente-2017/)**
+Call for applications for mobility with Russia, South Africa, India, Indonesia and Iran
+Application deadlines: 2 February 2018 for PhD and staff mobilities, and 22 March 2018 for Bachelor and Master mobilities.
 
-_All interested parties can email their CV to fpetrako@ing.uc3m.es by September 20._
+The Alliance 4 Universities has been awarded funds under Erasmus+ International Credit Mobility programme (Action KA107). Through these funds, students and faculty from Russian, South African, Indian, Indonesian and Iranian partner universities and from A4U universities have the opportunity to participate in mobility schemes.
 
-**DEADLINE:** 29/09/2017   
+Who can apply? The calls are open to Bachelor, Master and PhD students and staff from the participating universities (the details can be found in the Calls).
 
-A) The initial duration of the fellowships is one year, and can be prolonged up to a maximum of three years, if the work plan is realized satisfactory.
+How long can the mobility be? The mobility period for Bachelor, Master and PhD students can be from a minimum of 3 months to a maximum of 5 months. The mobility period for staff is 5 days plus 2 days for travel. In total, 7 days will be covered by the grant.
 
-B) The scholarship of the first year is 23,700 € gross. 
+What expenses are covered by the grant? Grants provide a monthly/daily allowance according to the category of the mobility and the receiving country, and a fixed travel quota to cover the flight expenses.
 
-See BOCM [here](http://fundaciontatianapgb.org/wp-content/uploads/2017/07/F.TATIANA_Convocatoria-Beca-mediambiente-2017_03.pdf)
+When can the mobility be carried out? Mobilities under these calls can be carried out during 2017-2018 and 2018-2019, and should end before 31 July 2019.
+
+What are the deadlines? The deadline for PhD and staff applications is 2 February 2018, and for Bachelor/Master applicants – 22 March 2018.
+
+How to apply?
+
+Read carefully the relevant call for applications
+Check the corresponding applicants’ guide (below) for step-by-step instructions on how to prepare the application.
+Check participating universities factsheets (below, to be published as they become available) for their course/research offer, available services and contact details.
+Complete the online application form in your category of mobility, attaching the requested documents. Applicants are strongly advised to submit their applications well before the deadline so that their applications can be checked and errors corrected if any.
+
+**[Call for applications for PhD students and staff](http://alliance4universities.eu/wp-content/uploads/2017/11/KA107-2017-Call-Guidelines-for-PhD-students-and-staff.pdf)**
+
+**[Call for applications for Bachelor and Master students](http://alliance4universities.eu/wp-content/uploads/2017/12/KA107-2017-Call-Guidelines-for-Bachelor-and-Master-students.pdf)**
+
+Participating university factsheets:
+*Spain: Universitat Autónoma de Barcelona, Universidad Autónoma de Madrid, Universidad Carlos III de Madrid, Universitat Pompeu Fabra en Barcelona
+Russia: Higher School of Economics, Southern Federal University, Moscow Power Engineering Institute, North-West Institute of Management branch of RANEPA (St. Petersburg), New Economic School
+South Africa: University of the Free State, University of the Western Cape, University of Cape Town
+Iran: Amirkabir University of Technology, University of Tehran
+Indonesia: Airlangga University, Bandung Institute of Technology, BINUS University, Universitas Muhammadiyah Yogyakarta
+India: Indian Institute of Technology Bombay*
 
 **--------------------------------------------------OTHER CALLS-------------------------------------------------------**
 
@@ -39,6 +61,18 @@ See BOCM [here](http://fundaciontatianapgb.org/wp-content/uploads/2017/07/F.TATI
 *Personal Técnico de Apoyo de la Agencia Estatal de Investigación (MINECO)*
 
 **--------------------------------------------------CLOSED CALLS-------------------------------------------------------**
+
+- **[PREDOCTORAL SCHOLARSHIPS IN THE ENVIRONMENT OF THE FOUNDATION TATIANA PEREZ DE GUZMAN EL BUENO. Call 2017.](http://fundaciontatianapgb.org/convocatorias/becas-investigacion/convocatoria-becas-predoctorales-medioambiente-2017/)**
+
+_All interested parties can email their CV to fpetrako@ing.uc3m.es by September 20._
+
+**DEADLINE:** 29/09/2017   
+
+A) The initial duration of the fellowships is one year, and can be prolonged up to a maximum of three years, if the work plan is realized satisfactory.
+
+B) The scholarship of the first year is 23,700 € gross. 
+
+See BOCM [here](http://fundaciontatianapgb.org/wp-content/uploads/2017/07/F.TATIANA_Convocatoria-Beca-mediambiente-2017_03.pdf)
 
 - **[CALLS FOR THE ATTRACTION OF TALENT (EU-COFUNDED FELLOWSHIPS)](https://gestiona3.madrid.org/quadrivium/portal/portals/0/documentacion/talento/Orden_3112_2017_Talento.pdf/)**
 
