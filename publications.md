@@ -31,9 +31,7 @@ h-index: 15 and i10-index: 20 (source: Google scholar). h-index: 14 (source: Sco
 
 **Petrakopoulou F.**, Tsatsaronis G., Boyano, A., Morosuk, T., 2012. [“Post-Combustion CO2 Capture with Monoethanolamine in a Combined-Cycle Power Plant: Exergetic, Economic and Environmental Assessment”, Chapter 21 in Greenhouse Gases - Emission, Measurement and Management (Dr. Guoxiang Liu), InTech (Open Access Publisher), ISBN: 978-953-51-0323-3, pp. 463-484.](/files/articles/2012_Intech.pdf) 
 
-**Petrakopoulou F.**, Tsatsaronis G., Piancanstelli C., Gallio I., Morosuk, T., 2011. [“Exergetic and Exergoeconomic Analyses of an Oxy-Fuel Power Plant with CO2 Capture”, Chapter 9 in Advances in Energy Research, Vol. 6, (Morena J. Acosta), Nova Publishers, ISBN: 978-1-61122-075-9, pp. 229-242.]
-(/files/articles/2011_NovaPublishers.pdf) 
-{: reversed="reversed"}
+**Petrakopoulou F.**, Tsatsaronis G., Piancanstelli C., Gallio I., Morosuk, T., 2011. [“Exergetic and Exergoeconomic Analyses of an Oxy-Fuel Power Plant with CO2 Capture”, Chapter 9 in Advances in Energy Research, Vol. 6, (Morena J. Acosta), Nova Publishers, ISBN: 978-1-61122-075-9, pp. 229-242.](/files/articles/2011_NovaPublishers.pdf) 
 
 ### Journal publications
 
