@@ -28,7 +28,7 @@ as one the three best in Germany by RWE AG. I am the author of various journal
 articles and book chapters and have participated in numerous international
 conferences and workshops.
 
-According to [Google Scholar](https://scholar.google.gr/citations?user=LLgloUsAAAAJ&hl=en), my h-index is 15 and my i10-index is 20. According to [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36158603700) my h-index is 13.
+According to [Google Scholar](https://scholar.google.gr/citations?user=LLgloUsAAAAJ&hl=en), my h-index is 15 and my i10-index is 20. According to [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36158603700) my h-index is 14.
 
 My **detailed CV** can be seen [here](/files/CurriculumVitae_Petrakopoulou.pdf).
 
