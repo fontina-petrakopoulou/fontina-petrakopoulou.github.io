@@ -29,16 +29,20 @@ h-index: 14 and i10-index: 18 (source: Google scholar). h-index: 12 (source: Sco
 
 ### Chapters in books
 
-**Petrakopoulou F.**, Tsatsaronis G., Boyano, A., Morosuk, T., 2012. “Post-Combustion CO2 Capture with Monoethanolamine in a Combined-Cycle Power Plant: Exergetic, Economic and Environmental Assessment”, Chapter 21 in Greenhouse Gases - Emission, Measurement and Management (Dr. Guoxiang Liu), InTech (Open Access Publisher), ISBN: 978-953-51-0323-3, pp. 463-484.
+**Petrakopoulou F.**, Tsatsaronis G., Boyano, A., Morosuk, T., 2012. [“Post-Combustion CO2 Capture with Monoethanolamine in a Combined-Cycle Power Plant: Exergetic, Economic and Environmental Assessment”, Chapter 21 in Greenhouse Gases - Emission, Measurement and Management (Dr. Guoxiang Liu), InTech (Open Access Publisher), ISBN: 978-953-51-0323-3, pp. 463-484.]
+(/files/articles/2012_Intech.pdf) 
 
-**Petrakopoulou F.**, Tsatsaronis G., Piancanstelli C., Gallio I., Morosuk, T., 2011. “Exergetic and Exergoeconomic Analyses of an Oxy-Fuel Power Plant with CO2 Capture”, Chapter 9 in Advances in Energy Research, Vol. 6, (Morena J. Acosta), Nova Publishers, ISBN: 978-1-61122-075-9, pp. 229-242.
+**Petrakopoulou F.**, Tsatsaronis G., Piancanstelli C., Gallio I., Morosuk, T., 2011. [“Exergetic and Exergoeconomic Analyses of an Oxy-Fuel Power Plant with CO2 Capture”, Chapter 9 in Advances in Energy Research, Vol. 6, (Morena J. Acosta), Nova Publishers, ISBN: 978-1-61122-075-9, pp. 229-242.]
+(/files/articles/2011_NovaPublishers.pdf) 
 {: reversed="reversed"}
 
 ### Journal publications
 
-32.  Yolanda L., **Petrakopoulou F.**, Morosuk T., Boyano A., Tsatsaronis G., “The Relationship Between Costs and Environmental Impacts in Power Plants: An Exergy-Based Study”, Energy, DOI: 10.1016/j.energy.2017.07.087.
+32.  **Petrakopoulou F.**, 2018. [“Economic and environmental considerations for zero-emission transport and thermal energy generation on an energy autonomous island”, European Journal of Sustainable Development Research, 2(1), 05.]
+(/files/articles/2018_EurJSDR.pdf) 
 
-31.  **Petrakopoulou F.**, 2017. “Economic and environmental considerations for zero-emission transport and thermal energy generation on an energy autonomous island”, accepted for publication, European Journal of Sustainable Development Research.
+31.  Yolanda L., **Petrakopoulou F.**, Morosuk T., Boyano A., Tsatsaronis G., [“An exergy-based study on the relationship between costs and environmental impacts in power plants”, Energy, 138, 920-928, DOI: 10.1016/j.energy.2017.07.087.]
+(/files/articles/2017_Energy_Lara_etal.pdf)
 
 30.  **Petrakopoulou F.**, 2017. [“The Social Perspective on the Renewable Energy Autonomy of Geographically Isolated Communities: Evidence from a Mediterranean Island”, Sustainability 9(3), 327; doi:10.3390/su9030327.](/files/articles/2017_sustainability-09-00327_questionnaire.pdf)
 
