@@ -10,6 +10,27 @@ Of potential interest, below you can see all open and future calls that can allo
 
 **--------------------------------------------------OPEN CALLS---------------------------------------------------------**
 
+
+
+
+**--------------------------------------------------OTHER CALLS-------------------------------------------------------**
+
+- **Call for the recruitment of research assistants and laboratory technicians co-financed by the European Social Fund through the Youth Employment Operational Program and the Youth Employment Initiative (YEI)**
+
+*Convocatoria de ayudas para la contratación de ayudantes de investigación y técnicos de laboratorio cofinanciadas por Fondo Social Europeo a través del Programa Operativo de Empleo Juvenil y la Iniciativa de Empleo Juvenil (YEI)*
+
+
+- **Talent Attraction Program. Grants for attracting research talent to the Community of Madrid in R&D centers**
+
+*Programa de Atracción de Talento. Ayudas destinadas a la atracción de talento investigador a la Comunidad de Madrid en centros de I+D*
+
+
+- **Technical Support Staff of the State Research Agency (MINECO)**
+
+*Personal Técnico de Apoyo de la Agencia Estatal de Investigación (MINECO)*
+
+**--------------------------------------------------CLOSED CALLS-------------------------------------------------------**
+
 **Call for applications for mobility with Russia, South Africa, India, Indonesia and Iran**
 
 **Application deadlines:** 2 February 2018 for PhD and staff mobilities, and 22 March 2018 for Bachelor and Master mobilities.
@@ -39,24 +60,6 @@ South Africa: University of the Free State, University of the Western Cape, Univ
 Iran: Amirkabir University of Technology, University of Tehran
 Indonesia: Airlangga University, Bandung Institute of Technology, BINUS University, Universitas Muhammadiyah Yogyakarta
 India: Indian Institute of Technology Bombay*
-
-**--------------------------------------------------OTHER CALLS-------------------------------------------------------**
-
-- **Call for the recruitment of research assistants and laboratory technicians co-financed by the European Social Fund through the Youth Employment Operational Program and the Youth Employment Initiative (YEI)**
-
-*Convocatoria de ayudas para la contratación de ayudantes de investigación y técnicos de laboratorio cofinanciadas por Fondo Social Europeo a través del Programa Operativo de Empleo Juvenil y la Iniciativa de Empleo Juvenil (YEI)*
-
-
-- **Talent Attraction Program. Grants for attracting research talent to the Community of Madrid in R&D centers**
-
-*Programa de Atracción de Talento. Ayudas destinadas a la atracción de talento investigador a la Comunidad de Madrid en centros de I+D*
-
-
-- **Technical Support Staff of the State Research Agency (MINECO)**
-
-*Personal Técnico de Apoyo de la Agencia Estatal de Investigación (MINECO)*
-
-**--------------------------------------------------CLOSED CALLS-------------------------------------------------------**
 
 - **[PREDOCTORAL SCHOLARSHIPS IN THE ENVIRONMENT OF THE FOUNDATION TATIANA PEREZ DE GUZMAN EL BUENO. Call 2017.](http://fundaciontatianapgb.org/convocatorias/becas-investigacion/convocatoria-becas-predoctorales-medioambiente-2017/)**
 
