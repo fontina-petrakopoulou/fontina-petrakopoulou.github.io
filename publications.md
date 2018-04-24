@@ -35,11 +35,11 @@ h-index: 15 and i10-index: 20 (source: Google scholar). h-index: 14 (source: Sco
 
 ### Journal publications
 
-33. **Petrakopoulou F.**, Sánchez-Delgado S., Marugán-Cruz C., Santana D., 2017. ["The Relationship Between Costs and Environmental Impacts in Power Plants: An Exergy-Based Study", Energy 138, 920-928.](/files/articles/2017_EnConvMan_SolarCCPP.pdf) 
+33. **Petrakopoulou F.**, Sánchez-Delgado S., Marugán-Cruz C., Santana D., 2017. ["Improving the efficiency of gas turbine systems with volumetric solar receivers", Energy Conversion and Management 149, 579-592] (/files/articles/2017_EnConvMan_SolarCCPP.pdf) 
 
 32.  **Petrakopoulou F.**, 2018. [“Economic and environmental considerations for zero-emission transport and thermal energy generation on an energy autonomous island”, European Journal of Sustainable Development Research, 2(1), 05.](/files/articles/2018_EurJSDR.pdf) 
 
-31.  Yolanda L., **Petrakopoulou F.**, Morosuk T., Boyano A., Tsatsaronis G., [“An exergy-based study on the relationship between costs and environmental impacts in power plants”, Energy, 138, 920-928, DOI: 10.1016/j.energy.2017.07.087.](/files/articles/2017_Energy_Lara_etal.pdf)
+31.  Yolanda L., **Petrakopoulou F.**, Morosuk T., Boyano A., Tsatsaronis G., [“The Relationship Between Costs and Environmental Impacts in Power Plants: An Exergy-Based Study”, Energy, 138, 920-928, DOI: 10.1016/j.energy.2017.07.087.](/files/articles/2017_Energy_Lara_etal.pdf)
 
 30.  **Petrakopoulou F.**, 2017. [“The Social Perspective on the Renewable Energy Autonomy of Geographically Isolated Communities: Evidence from a Mediterranean Island”, Sustainability 9(3), 327; doi:10.3390/su9030327.](/files/articles/2017_sustainability-09-00327_questionnaire.pdf)
 
