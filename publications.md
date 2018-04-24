@@ -35,7 +35,7 @@ h-index: 15 and i10-index: 20 (source: Google scholar). h-index: 14 (source: Sco
 
 ### Journal publications
 
-33. **Petrakopoulou F.**, Sánchez-Delgado S., Marugán-Cruz C., Santana D., 2017. ["Improving the efficiency of gas turbine systems with volumetric solar receivers", Energy Conversion and Management 149, 579-592] (/files/articles/2017_EnConvMan_SolarCCPP.pdf) 
+33. **Petrakopoulou F.**, Sánchez-Delgado S., Marugán-Cruz C., Santana D., 2017. ["Improving the efficiency of gas turbine systems with volumetric solar receivers", Energy Conversion and Management 149, 579-592](/files/articles/2017_EnConvMan_SolarCCPP.pdf) 
 
 32.  **Petrakopoulou F.**, 2018. [“Economic and environmental considerations for zero-emission transport and thermal energy generation on an energy autonomous island”, European Journal of Sustainable Development Research, 2(1), 05.](/files/articles/2018_EurJSDR.pdf) 
 
