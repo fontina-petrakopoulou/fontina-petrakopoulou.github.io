@@ -6,6 +6,10 @@ permalink: /about/
 
 ![Fontina Petrakopoulou](/files/fontina_profile.jpg){:style="float: left;margin-right: 20px;margin-top: 7px;"}
 
+[Google Scholar](https://scholar.google.gr/citations?user=LLgloUsAAAAJ&hl=en) .
+
+[**Detailed CV**](/files/CV_Petrakopoulou.pdf).
+
 I am a tenure-track Professor (Ramón y Cajal) at the Department Thermal and Fluid Engineering of the University Carlos III of Madrid. I am also currently leading the research line Water-Energy Nexus of the Department.
 
 I received my undergraduate degree in Mechanical Engineering from the Technical University of Crete (2005) and my Ph.D. in
@@ -28,9 +32,6 @@ My **research lines** include:
 
 I have taught courses on heat transfer and the optimization of thermodynamic systems and have supervised a large number of bachelor and master theses. I have been honoured with a best paper award and my Ph.D. thesis was chosen as one the three best in Germany by RWE AG. I am the author of various journal articles and book chapters and have participated in numerous international conferences and workshops.
 
-According to [Google Scholar](https://scholar.google.gr/citations?user=LLgloUsAAAAJ&hl=en), my h-index is 16 and my i10-index is 21. According to [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36158603700) my h-index is 14.
-
-My **detailed CV** can be seen [here](/files/CV_Petrakopoulou.pdf).
 
 **FELLOWSHIPS**	
 •	Ramón y Cajal, Ministerio de Economía y Competitividad, Gobierno de España (2017), Score 100/100.
