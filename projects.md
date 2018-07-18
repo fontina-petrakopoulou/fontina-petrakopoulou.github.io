@@ -4,18 +4,16 @@ title: My projects
 permalink: /projects/
 ---
 05/2017 – 04/2018   
-[**Exergoeconomic and exergoenvironmental analyses of a combined-cycle power plant with a solid oxide fuel cell and CO2 capture**](http://fontina-petrakopoulou.github.io/conex/)
+[**Exergoeconomic and exergoenvironmental analyses of a combined-cycle power plant with a solid oxide fuel cell and CO2 capture**  ]
 &nbsp;&nbsp;&nbsp;&nbsp;_Principal investigators:_ Dr. Fontina Petrakopoulou, Dr. Zin Eddine Dadach     
 &nbsp;&nbsp;&nbsp;&nbsp;_Supported by:_ HCT (UAE), UC3M     
 &nbsp;&nbsp;&nbsp;&nbsp;_Project duration:_ 12 months (start May 2017)   
 
 07/2015 – 09/2018   
-**Hybrid Power Plants for Polygeneration – OPTIHYP**   
+[**Hybrid Power Plants for Polygeneration – OPTIHYP**   ](http://fontina-petrakopoulou.github.io/conex/)
 &nbsp;&nbsp;&nbsp;&nbsp;_Principal investigator:_ Dr. Fontina Petrakopoulou   
 &nbsp;&nbsp;&nbsp;&nbsp;_Supported by:_ European Union (MC-COFUND, FP7)   
 &nbsp;&nbsp;&nbsp;&nbsp;_Project duration:_ 36 months (start July 2015)   
-
->OPTIHYP will propose and evaluate novel integrated hybrid-polygeneration systems to support the sustainable energy development of European regions, as well as link strategic energy planning with European policies, social considerations and environmental impacts. Renewable and conventional energy sources will be coupled in advanced systems that incorporate both new and conventional energy conversion technologies. These systems will be optimized using an innovative multi-criteria method focused on efficiency maximization and the minimization of water usage, environmental impacts and costs. Thermodynamic, economic, environmental and water usage estimates will be used to create two original databases. This inter-disciplinary project will produce the first open-access, flexible online tool for regional energy planning based on hybrid-polygeneration systems. This web-based tool will be made available to the scientific community, policymakers and the private sector and will lay the foundation for robust optimization strategies in the energy sector.
 
 01/2016 - 31/12/2018
 **Optimización de centrales termosolares, análisis transitorio y diseño de receptores bayoneta excéntricos – EXTRASOL**   
