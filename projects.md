@@ -10,7 +10,7 @@ permalink: /projects/
 &nbsp;&nbsp;&nbsp;&nbsp;_Project duration:_ 12 months (start May 2017)   
 
 07/2015 – 09/2018   
-[**Hybrid Power Plants for Polygeneration – OPTIHYP**](http://fontina-petrakopoulou.github.io/conex/) 
+[**Hybrid Power Plants for Polygeneration – OPTIHYP**](http://fontina-petrakopoulou.github.io/conex/)   
 &nbsp;&nbsp;&nbsp;&nbsp;_Principal investigator:_ Dr. Fontina Petrakopoulou   
 &nbsp;&nbsp;&nbsp;&nbsp;_Supported by:_ European Union (MC-COFUND, FP7)   
 &nbsp;&nbsp;&nbsp;&nbsp;_Project duration:_ 36 months (start July 2015)   
