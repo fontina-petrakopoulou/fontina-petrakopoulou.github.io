@@ -16,8 +16,7 @@ permalink: /projects/
 &nbsp;&nbsp;&nbsp;&nbsp;_Project duration:_ 36 months (start July 2015)   
 
 01/2016 - 31/12/2018  
-**Optimización de centrales termosolares, análisis transitorio y diseño de receptores bayoneta excéntricos – EXTRASOL**   
-Optimization of solar thermal power plants, transient analysis and design of concentric receivers
+**Optimization of solar thermal power plants, transient analysis and design of concentric receivers (Optimización de centrales termosolares, análisis transitorio y diseño de receptores bayoneta excéntricos) – EXTRASOL**   
 &nbsp;&nbsp;&nbsp;&nbsp;_Supported by:_ Spanish ministry of economy and competitiveness   
 &nbsp;&nbsp;&nbsp;&nbsp;_Project duration:_ 36 months (start January 2016)
 
