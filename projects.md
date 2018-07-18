@@ -4,12 +4,10 @@ title: My projects
 permalink: /projects/
 ---
 05/2017 – 04/2018   
-**Exergoeconomic and exergoenvironmental analyses of a combined-cycle power plant with a solid oxide fuel cell and CO2 capture**    
+[**Exergoeconomic and exergoenvironmental analyses of a combined-cycle power plant with a solid oxide fuel cell and CO2 capture**](http://fontina-petrakopoulou.github.io/conex/)
 &nbsp;&nbsp;&nbsp;&nbsp;_Principal investigators:_ Dr. Fontina Petrakopoulou, Dr. Zin Eddine Dadach     
 &nbsp;&nbsp;&nbsp;&nbsp;_Supported by:_ HCT (UAE), UC3M     
 &nbsp;&nbsp;&nbsp;&nbsp;_Project duration:_ 12 months (start May 2017)   
-
-[CONEX](http://fontina-petrakopoulou.github.io/conex/)
 
 07/2015 – 09/2018   
 **Hybrid Power Plants for Polygeneration – OPTIHYP**   
