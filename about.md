@@ -10,15 +10,14 @@ I received my undergraduate degree in Production Engineering and Management
 (Mechanical Engineering) from the Technical University of Crete (2005) and my Ph.D. in
 Energy Engineering from the Technical University of Berlin (2010).
 I have worked as a researcher in Germany,
-Spain and Greece holding European Fellowships (Marie-Curie Actions).
+Spain and Greece holding European Fellowships (Marie-Curie Actions, 2006-2018).
 
 My work focuses on the simulation and optimization of energy conversion processes
 using thermodynamic, economic and environmental criteria. The energy conversion
 processes I study include, among others, renewable- and fossil-based power plants,
 biofuel generation processes and zero-emission energy processes
-(including CO2 capture). My work includes the investigation of the
-energy autonomy of remote regions fully based on renewable sources.
-I am an expert on exergy-based methods and analytical methods used
+(including CO2 capture). My work includes the investigation of the renewable
+energy autonomy of remote regions. I am an expert on exergy-based methods and analytical methods used
 for the optimization of complex energy systems.
 
 I have taught courses on heat transfer and the optimization of thermodynamic
@@ -28,7 +27,7 @@ as one the three best in Germany by RWE AG. I am the author of various journal
 articles and book chapters and have participated in numerous international
 conferences and workshops.
 
-According to [Google Scholar](https://scholar.google.gr/citations?user=LLgloUsAAAAJ&hl=en), my h-index is 15 and my i10-index is 20. According to [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36158603700) my h-index is 14.
+According to [Google Scholar](https://scholar.google.gr/citations?user=LLgloUsAAAAJ&hl=en), my h-index is 16 and my i10-index is 21. According to [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36158603700) my h-index is 14.
 
-My **detailed CV** can be seen [here](/files/CurriculumVitae_Petrakopoulou.pdf).
+My **detailed CV** can be seen [here](/files/CV_Petrakopoulou.pdf).
 
