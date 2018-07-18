@@ -1,6 +1,7 @@
 ---
 layout: page
-permalink: /conex
+<!--title: CONEX-->
+permalink: /conex/
 ---
 
 OPTIHYP will propose and evaluate novel integrated hybrid-polygeneration systems to support the 
