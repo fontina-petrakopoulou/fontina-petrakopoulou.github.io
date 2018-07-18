@@ -5,34 +5,6 @@ permalink: /publications/
 ---
 h-index: 16 and i10-index: 21 (source: Google scholar). h-index: 14 (source: Scopus).
 
-### Technical reports
-
-**Petrakopoulou F.**, 2015. “Review of laws and regulations concerning renewable energy policy”, Technical report, prepared for the FP7 project GENERGIS (IEF-2012-332028).
-
-**Petrakopoulou F.**, 2015. “Energy statistics and renewable energy potential of Greece”, Technical report, prepared for the FP7 project GENERGIS (IEF-2012-332028).
-
-**Petrakopoulou F.**, 2015. “Demographics, geography, economy and energy statistics of Skyros”, Technical report, prepared for the FP7 project GENERGIS (IEF-2012-332028).
-
-**Petrakopoulou F.**, 2015. “Current energy use on Skyros: statistical, economic and environmental analysis”, Technical report, prepared for the FP7 project GENERGIS (IEF-2012-332028).
-
-**Petrakopoulou F.**, 2015. “Description, economics and environmental issues of renewable energy technologies”, Technical report, prepared for the FP7 project GENERGIS (IEF-2012-332028).
-
-**Petrakopoulou F.**, 2015. “Scenarios for the sustainable development of energy autonomy of Skyros”, Technical report, prepared for the FP7 project GENERGIS (IEF-2012-332028).
-
-**Petrakopoulou F.**, 2015. “Guidelines for sustainable development of stand-alone energy networks”, Technical report, prepared for the FP7 project GENERGIS (IEF-2012-332028).
-
-### Lecture notes
-
-**Petrakopoulou F.**, Nikolos I., 2014. “Lecture notes and exercises of the class Heat Transfer” (in Greek: «Σημειώσεις και ασκήσεις μαθήματος Μετάδοση Θερμότητας»), Undergraduate class “Heat Transfer”, 7th semester, Technical University of Crete.
-
-**Petrakopoulou F.**, 2008. “Instructions for EbsilonProfessional 6.0” (in English), Undergraduate class “Entwurf, Analyse und Optimierung von Energieumwandlungsanlagen” (“Design, analysis and optimization of energy conversion systems”), Technical University of Berlin.
-
-### Chapters in books
-
-**Petrakopoulou F.**, Tsatsaronis G., Boyano, A., Morosuk, T., 2012. [“Post-Combustion CO2 Capture with Monoethanolamine in a Combined-Cycle Power Plant: Exergetic, Economic and Environmental Assessment”, Chapter 21 in Greenhouse Gases - Emission, Measurement and Management (Dr. Guoxiang Liu), InTech (Open Access Publisher), ISBN: 978-953-51-0323-3, pp. 463-484.](/files/articles/2012_Intech.pdf) 
-
-**Petrakopoulou F.**, Tsatsaronis G., Piancanstelli C., Gallio I., Morosuk, T., 2011. [“Exergetic and Exergoeconomic Analyses of an Oxy-Fuel Power Plant with CO2 Capture”, Chapter 9 in Advances in Energy Research, Vol. 6, (Morena J. Acosta), Nova Publishers, ISBN: 978-1-61122-075-9, pp. 229-242.](/files/articles/2011_NovaPublishers.pdf) 
-
 ### Journal publications
 
 33. **Petrakopoulou F.**, Sánchez-Delgado S., Marugán-Cruz C., Santana D., 2017. ["Improving the efficiency of gas turbine systems with volumetric solar receivers", Energy Conversion and Management 149, 579-592](/files/articles/2017_EnConvMan_SolarCCPP.pdf) 
@@ -101,3 +73,31 @@ h-index: 16 and i10-index: 21 (source: Google scholar). h-index: 14 (source: Sco
 
 1.	**Petrakopoulou F.**, Boyano A., Cabrera M., Tsatsaronis G., 2010. [“Exergy-based analyses of an advanced zero emission plant”, International Journal of Low-Carbon Technologies 5 (4), pp. 231-238.](/files/articles/2010_IJLCT.pdf)
 {: reversed="reversed"}
+
+### Technical reports
+
+**Petrakopoulou F.**, 2015. “Review of laws and regulations concerning renewable energy policy”, Technical report, prepared for the FP7 project GENERGIS (IEF-2012-332028).
+
+**Petrakopoulou F.**, 2015. “Energy statistics and renewable energy potential of Greece”, Technical report, prepared for the FP7 project GENERGIS (IEF-2012-332028).
+
+**Petrakopoulou F.**, 2015. “Demographics, geography, economy and energy statistics of Skyros”, Technical report, prepared for the FP7 project GENERGIS (IEF-2012-332028).
+
+**Petrakopoulou F.**, 2015. “Current energy use on Skyros: statistical, economic and environmental analysis”, Technical report, prepared for the FP7 project GENERGIS (IEF-2012-332028).
+
+**Petrakopoulou F.**, 2015. “Description, economics and environmental issues of renewable energy technologies”, Technical report, prepared for the FP7 project GENERGIS (IEF-2012-332028).
+
+**Petrakopoulou F.**, 2015. “Scenarios for the sustainable development of energy autonomy of Skyros”, Technical report, prepared for the FP7 project GENERGIS (IEF-2012-332028).
+
+**Petrakopoulou F.**, 2015. “Guidelines for sustainable development of stand-alone energy networks”, Technical report, prepared for the FP7 project GENERGIS (IEF-2012-332028).
+
+### Lecture notes
+
+**Petrakopoulou F.**, Nikolos I., 2014. “Lecture notes and exercises of the class Heat Transfer” (in Greek: «Σημειώσεις και ασκήσεις μαθήματος Μετάδοση Θερμότητας»), Undergraduate class “Heat Transfer”, 7th semester, Technical University of Crete.
+
+**Petrakopoulou F.**, 2008. “Instructions for EbsilonProfessional 6.0” (in English), Undergraduate class “Entwurf, Analyse und Optimierung von Energieumwandlungsanlagen” (“Design, analysis and optimization of energy conversion systems”), Technical University of Berlin.
+
+### Chapters in books
+
+**Petrakopoulou F.**, Tsatsaronis G., Boyano, A., Morosuk, T., 2012. [“Post-Combustion CO2 Capture with Monoethanolamine in a Combined-Cycle Power Plant: Exergetic, Economic and Environmental Assessment”, Chapter 21 in Greenhouse Gases - Emission, Measurement and Management (Dr. Guoxiang Liu), InTech (Open Access Publisher), ISBN: 978-953-51-0323-3, pp. 463-484.](/files/articles/2012_Intech.pdf) 
+
+**Petrakopoulou F.**, Tsatsaronis G., Piancanstelli C., Gallio I., Morosuk, T., 2011. [“Exergetic and Exergoeconomic Analyses of an Oxy-Fuel Power Plant with CO2 Capture”, Chapter 9 in Advances in Energy Research, Vol. 6, (Morena J. Acosta), Nova Publishers, ISBN: 978-1-61122-075-9, pp. 229-242.](/files/articles/2011_NovaPublishers.pdf) 
