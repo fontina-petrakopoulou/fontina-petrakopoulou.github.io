@@ -1,32 +1,33 @@
 ---
-layout: default
+layout: page
+title: About me
+permalink: /about/
 ---
 
 ![Fontina Petrakopoulou](/files/fontina_profile.jpg){:style="float: left;margin-right: 20px;margin-top: 7px;"}
 
-[//]: # **Universidad Carlos III de Madrid** *(Department of Thermal and Fluids Engineering)*
+I am a tenure-track Professor (Ramón y Cajal) at the Department Thermal and Fluid Engineering of the University Carlos III of Madrid. I am also currently leading the research line Water-Energy Nexus of the Department.
 
+I received my undergraduate degree in Mechanical Engineering from the Technical University of Crete (2005) and my Ph.D. in
+Energy Engineering from the Technical University of Berlin (2010). I have worked as a researcher in Germany,
+Spain and Greece holding European Fellowships (Marie-Curie Actions, 2006-2018).
 
+My work focuses on the simulation and optimization of energy conversion processes using thermodynamic, economic and environmental criteria. The energy conversion processes I study include, among others, renewable- and fossil-based power plants,biofuel generation processes and zero-emission energy processes (including CO2 capture).
 
+My research lines include:
 
-I work on the simulation, evaluation and optimization of energy conversion processes
-based both on conventional and renewable resources. 
+- Energy islands: Regional renewable energy autonomy for social and environmental benefits,
 
+- The Water-Energy Nexus: Estimation of present and future water use in conventional, renewable and hybrid power plants and   water minimization strategies,
 
+- Simulation of novel hybrid and other advanced energy conversion systems (also for polygeneration),
 
-  I am particularly interested in:
+- Exergy-based methods: Application of thermodynamic, economic and environmental analyses for efficiency maximization and costs and environmental impact minimization and
 
-  - Water-Energy Nexus. Estimation of present and future water use in conventional, renewable and hybrid power plants and   water minimization strategies,
+- Development of new tools for energy system optimization, automatization and digitalization of data.
 
-  - The simulation of novel hybrid and other advanced energy conversion systems (also for polygeneration),
+I have taught courses on heat transfer and the optimization of thermodynamic systems and have supervised a large number of bachelor and master theses. I have been honoured with a best paper award and my Ph.D. thesis was chosen as one the three best in Germany by RWE AG. I am the author of various journal articles and book chapters and have participated in numerous international conferences and workshops.
 
-  - Regional renewable energy autonomy for social and environmental benefits,
+According to [Google Scholar](https://scholar.google.gr/citations?user=LLgloUsAAAAJ&hl=en), my h-index is 16 and my i10-index is 21. According to [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36158603700) my h-index is 14.
 
-- The application of exergy-based thermodynamic, economic and environmental analyses for efficiency maximization and costs and environmental impact minimization and
-
-- The development of new tools for power plant optimization.
-
-I am always looking for motivated, creative and well qualified students and researchers to come work with me. I am open to new ideas and willing to support innovative and attractive proposals. Please feel free to contact me at fpetrako@ing.uc3m.es.
-**[See open positions at our university](http://fontina-petrakopoulou.github.io/available-positions/)**
-
-![Fontina Petrakopoulou](/files/simulation_profile.jpg){:style="float: center;margin-right: 10px;margin-top: 7px;"}
+My **detailed CV** can be seen [here](/files/CV_Petrakopoulou.pdf).
