@@ -6,7 +6,7 @@ permalink: /
 
 ![Fontina Petrakopoulou](/files/fontina_profile.jpg){:style="float: left;margin-right: 20px;margin-top: 7px;"}
 
-[Google Scholar](https://scholar.google.gr/citations?user=LLgloUsAAAAJ&hl=en)           [**Detailed CV**](/files/CV_Petrakopoulou.pdf).
+[Google Scholar](https://scholar.google.gr/citations?user=LLgloUsAAAAJ&hl=en)   [**Detailed CV**](/files/CV_Petrakopoulou.pdf).
 
 I am a tenure-track Professor (Ramón y Cajal) at the Department Thermal and Fluid Engineering of the University Carlos III of Madrid. I am also currently leading the research line Water-Energy Nexus of the Department.
 
