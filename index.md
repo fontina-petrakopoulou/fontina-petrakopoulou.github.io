@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About me
-permalink: /about/
+permalink: /index/
 ---
 
 ![Fontina Petrakopoulou](/files/fontina_profile.jpg){:style="float: left;margin-right: 20px;margin-top: 7px;"}
