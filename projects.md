@@ -4,13 +4,13 @@ title: My projects
 permalink: /projects/
 ---
 05/2017 – 04/2018   
-[**Exergoeconomic and exergoenvironmental analyses of a combined-cycle power plant with a solid oxide fuel cell and CO2 capture**](http://fontina-petrakopoulou.github.io/zin/) 
+[**Exergoeconomic and exergoenvironmental analyses of a combined-cycle power plant with a solid oxide fuel cell and CO2 capture**](http://fontina-petrakopoulou.github.io/zin/)
 &nbsp;&nbsp;&nbsp;&nbsp;_Principal investigators:_ Dr. Fontina Petrakopoulou, Dr. Zin Eddine Dadach     
 &nbsp;&nbsp;&nbsp;&nbsp;_Supported by:_ HCT (UAE), UC3M     
 &nbsp;&nbsp;&nbsp;&nbsp;_Project duration:_ 12 months (start May 2017)   
 
 07/2015 – 09/2018   
-[**Hybrid Power Plants for Polygeneration – OPTIHYP**](http://fontina-petrakopoulou.github.io/conex/) 
+[**Hybrid Power Plants for Polygeneration – OPTIHYP**](http://fontina-petrakopoulou.github.io/conex/)
 &nbsp;&nbsp;&nbsp;&nbsp;_Principal investigator:_ Dr. Fontina Petrakopoulou   
 &nbsp;&nbsp;&nbsp;&nbsp;_Supported by:_ European Union (MC-COFUND, FP7)   
 &nbsp;&nbsp;&nbsp;&nbsp;_Project duration:_ 36 months (start July 2015)   
@@ -49,7 +49,6 @@ permalink: /projects/
 03/2011 – 01/2013	  
 **Advanced Electrolyser for Hydrogen Production with Renewable Energy Sources (ADEL)**   
 Project supported by: The European Community’s Seventh Framework Programme (FP7), Fuel Cells and Hydrogen Joint Undertaking (FCH-JU)   
-&nbsp;&nbsp;&nbsp;&nbsp;_Project budget:_ 4.1 million euro   
 &nbsp;&nbsp;&nbsp;&nbsp;_Project duration:_ 36 months (start January 2011)
 
 03/2011 – 01/2013	  
@@ -66,5 +65,4 @@ Project supported by: The European Community’s Seventh Framework Programme (FP
 **Design Optimization of products and procedures with emphasis on the parametric formation of fluctuations in complex geometry**   
 Programme “Pythagoras II”.  Supervisor: John K. Nikolos   
 &nbsp;&nbsp;&nbsp;&nbsp;_Project supported by:_  Cofinanced Development Programmes (EU, Greece)   
-&nbsp;&nbsp;&nbsp;&nbsp;_Project budget:_ 70.000 euro   
 &nbsp;&nbsp;&nbsp;&nbsp;_Project duration:_ 19 months (start June 2005)
