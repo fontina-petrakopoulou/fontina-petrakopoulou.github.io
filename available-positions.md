@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Available positions
+<!--title: Available positions-->
 permalink: /available-positions/
 ---
 
