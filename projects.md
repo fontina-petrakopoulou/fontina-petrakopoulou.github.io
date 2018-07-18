@@ -9,6 +9,8 @@ permalink: /projects/
 &nbsp;&nbsp;&nbsp;&nbsp;_Supported by:_ HCT (UAE), UC3M     
 &nbsp;&nbsp;&nbsp;&nbsp;_Project duration:_ 12 months (start May 2017)   
 
+[CONEX](http://fontina-petrakopoulou.github.io/conex/)
+
 07/2015 – 09/2018   
 **Hybrid Power Plants for Polygeneration – OPTIHYP**   
 &nbsp;&nbsp;&nbsp;&nbsp;_Principal investigator:_ Dr. Fontina Petrakopoulou   
