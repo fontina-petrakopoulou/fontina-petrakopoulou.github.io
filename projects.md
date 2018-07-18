@@ -15,7 +15,7 @@ permalink: /projects/
 &nbsp;&nbsp;&nbsp;&nbsp;_Supported by:_ European Union (MC-COFUND, FP7)   
 &nbsp;&nbsp;&nbsp;&nbsp;_Project duration:_ 36 months (start July 2015)   
 
-01/2016 - 31/12/2018
+01/2016 - 31/12/2018  
 **Optimización de centrales termosolares, análisis transitorio y diseño de receptores bayoneta excéntricos – EXTRASOL**   
 Optimization of solar thermal power plants, transient analysis and design of concentric receivers
 &nbsp;&nbsp;&nbsp;&nbsp;_Supported by:_ Spanish ministry of economy and competitiveness   
