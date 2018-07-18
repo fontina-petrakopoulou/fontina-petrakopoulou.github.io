@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Green Energy for Islands (GENERGIS)
+<!--title: Green Energy for Islands (GENERGIS)-->
 permalink: /genergis/
 ---
 
