@@ -4,15 +4,13 @@ title: My projects
 permalink: /projects/
 ---
 05/2017 – 04/2018   
-[**Exergoeconomic and exergoenvironmental analyses of a combined-cycle power plant with a solid oxide fuel cell and CO2 capture**  ]
-
+[**Exergoeconomic and exergoenvironmental analyses of a combined-cycle power plant with a solid oxide fuel cell and CO2 capture]**   
 &nbsp;&nbsp;&nbsp;&nbsp;_Principal investigators:_ Dr. Fontina Petrakopoulou, Dr. Zin Eddine Dadach     
 &nbsp;&nbsp;&nbsp;&nbsp;_Supported by:_ HCT (UAE), UC3M     
 &nbsp;&nbsp;&nbsp;&nbsp;_Project duration:_ 12 months (start May 2017)   
 
 07/2015 – 09/2018   
-[**Hybrid Power Plants for Polygeneration – OPTIHYP**   ](http://fontina-petrakopoulou.github.io/conex/)
-
+[**Hybrid Power Plants for Polygeneration – OPTIHYP](http://fontina-petrakopoulou.github.io/conex/)**   
 &nbsp;&nbsp;&nbsp;&nbsp;_Principal investigator:_ Dr. Fontina Petrakopoulou   
 &nbsp;&nbsp;&nbsp;&nbsp;_Supported by:_ European Union (MC-COFUND, FP7)   
 &nbsp;&nbsp;&nbsp;&nbsp;_Project duration:_ 36 months (start July 2015)   
@@ -28,14 +26,6 @@ Optimization of solar thermal power plants, transient analysis and design of con
 &nbsp;&nbsp;&nbsp;&nbsp;_Principal investigator:_ Dr. Fontina Petrakopoulou   
 &nbsp;&nbsp;&nbsp;&nbsp;_Supported by:_ European Union (MC-IEF, FP7)   
 &nbsp;&nbsp;&nbsp;&nbsp;_Project duration:_ 24 months (start May 2013)
-
->Green ENERGy for ISlands (GENERGIS) studied and reported paths towards the renewable energy autonomy of Skyros island in Greece.
-The goals of the project were to:
-(1) address the energy autonomy of the island, including energy storage systems,
-(2) involve the people of the community in the decision-making process,
-(3) perform detailed technical calculations through simulations, as well as exhaustive economic and environmental analyses,
-(4) propose a concrete energy plan for achieving 100% sustainable living,
-(5) create the first guide on sustainable development based on social, environmental and economic data.
 
 09/2012 – 01/2013	  
 **Study on the technological perspective of different paths of utilization of lignocellulosic biomass**   
