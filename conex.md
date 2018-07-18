@@ -4,7 +4,7 @@ layout: page
 permalink: /conex/
 ---
 
-OPTIHYP will propose and evaluate novel integrated hybrid-polygeneration systems to support the 
+**OPTIHYP** will propose and evaluate novel integrated hybrid-polygeneration systems to support the 
 sustainable energy development of European regions, as well as link strategic energy planning with 
 European policies, social considerations and environmental impacts. Renewable and conventional energy sources 
 will be coupled in advanced systems that incorporate both new and conventional energy conversion technologies. 
