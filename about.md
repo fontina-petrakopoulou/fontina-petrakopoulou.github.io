@@ -14,7 +14,7 @@ Spain and Greece holding European Fellowships (Marie-Curie Actions, 2006-2018).
 
 My work focuses on the simulation and optimization of energy conversion processes using thermodynamic, economic and environmental criteria. The energy conversion processes I study include, among others, renewable- and fossil-based power plants,biofuel generation processes and zero-emission energy processes (including CO2 capture).
 
-My research lines include:
+My **research lines** include:
 
 - Energy islands: Regional renewable energy autonomy for social and environmental benefits,
 
@@ -31,4 +31,19 @@ I have taught courses on heat transfer and the optimization of thermodynamic sys
 According to [Google Scholar](https://scholar.google.gr/citations?user=LLgloUsAAAAJ&hl=en), my h-index is 16 and my i10-index is 21. According to [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36158603700) my h-index is 14.
 
 My **detailed CV** can be seen [here](/files/CV_Petrakopoulou.pdf).
+
+**FELLOWSHIPS**	
+•	Ramón y Cajal, Ministerio de Economía y Competitividad, Gobierno de España (2017), Score 100/100.
+•	Marie Skłodowska-Curie Action COFUND, European Commission’s Seventh Framework Programme (2015-2018)
+•	Juan de la Cierva, Ministerio de Economía y Competitividad, Gobierno de España (2016)
+•	Marie Curie Action Intra-European Individual Fellowship (PEOPLE-IEF), European Commission’s Seventh Framework Programme (2013-2015)
+•	Marie Curie Action COFUND, European Commission’s Seventh Framework Programme (2011-2013)
+•	For completing the Dissertation studies from the Technical University of Berlin (Promotionsabschlussstipendium der Frauenbeauftragte) (2010, Personal fellowship awarded: 6.000 €
+•	INSPIRE Marie Curie Research Training Network MRTN-CT-2005-019296, European Commission’s Sixth Framework Programme (2006-2009)
+
+**PRIZES AND AWARDS**
+•	Award of Best Presentations at the 1st Workshop of IMDEA Energy (December 2012) 
+•	Who’s Who in the World (30th Pearl Anniversary Edition 2012)
+•	Finalist (among the three best Ph.D. dissertations in Germany) of the Prize of the Future awarded by RWE AG. (Zukunftpreis), 2011; Committee: A. Fitting, I. Alpheus, D. Moest, A. Hartmann, M. Kuehn
+•	Best paper delivered at the International Conference on Optimization Using Exergy-Based Methods and Computational Fluid Dynamics, 2009; Committee: D. Moorhouse (Air force Research Laboratories, USA), G. Tsatsaronis (Technical University of Berlin, Germany), R. Weber (Technical University of Clausthal, Germany)
 
