@@ -4,7 +4,7 @@ title: My projects
 permalink: /projects/
 ---
 05/2017 – 04/2018   
-[**Exergoeconomic and exergoenvironmental analyses of a combined-cycle power plant with a solid oxide fuel cell and CO2 capture**]  
+[**Exergoeconomic and exergoenvironmental analyses of a combined-cycle power plant with a solid oxide fuel cell and CO2 capture**](http://fontina-petrakopoulou.github.io/zin/) 
 &nbsp;&nbsp;&nbsp;&nbsp;_Principal investigators:_ Dr. Fontina Petrakopoulou, Dr. Zin Eddine Dadach     
 &nbsp;&nbsp;&nbsp;&nbsp;_Supported by:_ HCT (UAE), UC3M     
 &nbsp;&nbsp;&nbsp;&nbsp;_Project duration:_ 12 months (start May 2017)   
@@ -21,7 +21,7 @@ permalink: /projects/
 &nbsp;&nbsp;&nbsp;&nbsp;_Project duration:_ 36 months (start January 2016)
 
 05/2013 – 04/2015   	   
-**Green Energy for Islands – GENERGIS (332028)**   
+[**Green Energy for Islands – GENERGIS (332028)**](http://fontina-petrakopoulou.github.io/genergis/) 
 &nbsp;&nbsp;&nbsp;&nbsp;_Principal investigator:_ Dr. Fontina Petrakopoulou   
 &nbsp;&nbsp;&nbsp;&nbsp;_Supported by:_ European Union (MC-IEF, FP7)   
 &nbsp;&nbsp;&nbsp;&nbsp;_Project duration:_ 24 months (start May 2013)
