@@ -5,7 +5,7 @@ permalink: /about/
 
 ![Fontina Petrakopoulou](/files/fontina_profile.jpg){:style="float: left;margin-right: 20px;margin-top: 7px;"}
 
-Professor in Energy Engineering     
+**Professor in Energy Engineering**     
 Phone number: +34 91 624 9935   
 Office: 1.1.D.18 (Edificio Betancourt, Campus Leganes)   
 Email: fpetrako@ing.uc3m.es  
