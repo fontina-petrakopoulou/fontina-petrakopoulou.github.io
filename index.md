@@ -8,8 +8,8 @@ permalink: /
 
 
 ![](/files/rglogo.jpg){:style="float: right;margin-left: 20px;margin-top: 7px;"}
-![ORCID](/files/orcidlogo.jpg){:style="float: right;margin-left: 20px;margin-top: 7px;"}
-![Detailed CV](/files/CV_Petrakopoulou.pdf){:style="float: right;margin-left: 20px;margin-top: 13px;"}
+![](/files/orcidlogo.jpg){:style="float: right;margin-left: 20px;margin-top: 7px;"}
+![](/files/CV_Petrakopoulou.pdf){:style="float: right;margin-left: 20px;margin-top: 13px;"}
 
 [**Google Scholar**](https://scholar.google.gr/citations?user=LLgloUsAAAAJ&hl=en)     
 [**Detailed CV**](/files/CV_Petrakopoulou.pdf).
