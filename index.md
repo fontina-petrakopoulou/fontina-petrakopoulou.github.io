@@ -1,3 +1,4 @@
+
 ---
 layout: default
 permalink: /
@@ -14,7 +15,7 @@ Email: fpetrako@ing.uc3m.es
    
 <a href="https://www.researchgate.net/profile/Fontina_Petrakopoulou" target="_blank"><img class="alignleft size-full wp-image-3103" src="http://ise.uc3m.es/wp-content/uploads/2011/05/researchgate-dss.png" alt="" width="30" height="30" /></a> 
 
-<a href="https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en" target="_blank"><img class="aligncenter size-full wp-image-3758" src="http://ise.uc3m.es/wp-content/uploads/2017/09/googlelogo.png" alt="" width="60" height="25" /></a>
+<a href="https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en" target="_blank"><img size-full wp-image-3758" src="http://ise.uc3m.es/wp-content/uploads/2017/09/googlelogo.png" alt="" width="60" height="25" /></a>
 
 <a href="http://orcid.org/0000-0001-6878-4591" target="_blank"><img class="alignright size-full wp-image-3757" src="http://ise.uc3m.es/wp-content/uploads/2017/09/orcid-logo.png" alt="" width="60" height="10" /></a>    
 
@@ -96,4 +97,4 @@ Petrakopoulou F., Lee Y.D., Tsatsaronis G., 2014. Simulation and Exergetic evalu
 Petrakopoulou F., Tsatsaronis G., Morosuk T., 2012. Advanced exergoenvironmental analysis of a near-zero emission power plant with chemical looping combustion, Environmental Science and Technology 46, pp. 3001-3007.   
 Petrakopoulou F., Tsatsaronis G., 2012. Production of hydrogen-rich fuels for pre-combustion carbon capture in power plants: A thermodynamic assessment, International Journal of Hydrogen Energy 37 (9), pp. 7554-7564.   
 Petrakopoulou F., Tsatsaronis G., Morosuk T., Carassai A., 2012. Conventional and advanced exergetic analyses applied to a combined cycle power planta, Energy 41 (1), pp. 146-152.   
-Petrakopoulou F., Boyano A., Cabrera M., Tsatsaronis G., 2011. Exergoeconomic and exergoenvironmental analyses of a combined cycle power plant with chemical looping technology, International Journal of Greenhouse Gas Control 5 (3), pp. 475-482.
+Petrakopoulou F., Boyano A., Cabrera M., Tsatsaronis G., 2011. Exergoeconomic and exergoenvironmental analyses of a combined cycle power plant with chemical looping technology, International Journal of Greenhouse Gas 
