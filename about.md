@@ -81,42 +81,26 @@ I have taught courses on heat transfer and the optimization of thermodynamic sys
 -	Finalist (among the three best Ph.D. dissertations in Germany) of the Prize of the Future awarded by RWE AG. (Zukunftpreis), 2011; Committee: A. Fitting, I. Alpheus, D. Moest, A. Hartmann, M. Kuehn   
 -	Best paper delivered at the International Conference on Optimization Using Exergy-Based Methods and Computational Fluid Dynamics, 2009; Committee: D. Moorhouse (Air force Research Laboratories, USA), G. Tsatsaronis (Technical University of Berlin, Germany), R. Weber (Technical University of Clausthal, Germany)
 
-**UNIVERSITY CARLOS III OF MADRID, SPAIN (09/2016-present)**   
-•	Main instructor – Thermal Engineering (Undergraduate course, ECTS: 6)  
-•	Main instructor – Energy and Water (Undergraduate course, ECTS: 3)  
-•	Supervisor of seven Bachelor theses (four completed) and one Master thesis  
-
-**URMIA UNIVERSITY, IRAN (07/2017-present)**  
-•	Co-supervisor of one Ph.D. thesis     
-       
-**SOUTHEAST UNIVERSITY, CHINA (02/2017-06/2018)**  
-•	Co-supervisor of one Master thesis     
-
-**TECHNICAL UNIVERSITY OF CRETE, GREECE (10/2013-02/2014)**   
-•	Main instructor – Course: Heat Transfer (Undergraduate course, ECTS: 6)  
-•	Co-authored lecture notes (in Greek), developed and graded exams  
-
-**INSTITUTE IMDEA ENERGY, SPAIN (02/2011-01/2013)**  
-•	Co-supervisor of two Bachelor theses  
-•	Co-supervisor of two Business Internships  
-
-**TECHNICAL UNIVERSITY OF BERLIN, GERMANY (2007-2010)**  
-•	Teaching assistant (in German) - Advanced Computational Training in Energy Engineering (Vertiefendes Rechnerpraktikum zur Energietechnik)   
-Use of EBSILON®Professional, Aspen Plus, GateCycle™ & Engineering Equation Solver, EES; (2007-2010)
-•	Authored lecture notes related to the use of the software EbsilonProfessional and developed examples (in English)  
-•	Teaching assistant (in German) - Design, Analysis and Optimization of Energy Conversion Systems (Entwurf, Analyse und Optimierung von Energieumwandlungsanlagen)  
-Use of EBSILON®Professional for the design of different types of energy conversion systems and their exergoeconomic evaluation and optimization (2009)  
-•	Co-supervisor of 10 Student research / Bachelor / Master theses (Studienarbeit / Masterarbeit)  
-
 **Selected publications** For full list see [here](http://fontina-petrakopoulou.github.io/publications/)  
+*!Since 2010, I have published 33 peer-reviewed journal papers. I am the first author in 26 of these papers and sole author in 3 (four more are currently in preparation). I have also published 2 chapters in books, 5 technical reports and written 2 sets of lecture notes.   
+   
 Gonzalez-Gomez P.A., Petrakopoulou F., Briongos J.V., Santana D., 2017. Cost-based design optimization of the heat exchangers in a parabolic trough concentrating solar power planta, Energy 123, 314-325.   
 Petrakopoulou F., 2016. On the economics of stand-alone renewable hybrid power plants in remote regions, Energy Conversion and Management 118, 63-74.   
+   
 Petrakopoulou F., Robinson A., Loizidou M., 2016. Simulation and analysis of a stand-alone solar-wind and pumped-storage hydropower planta, Energy 96, 676-683.   
+   
 Petrakopoulou F., Sanz-Bermejo J., Dufour J., Romero, M., 2016. Exergetic Analysis of Hybrid Power Plants with Biomass and Photovoltaics Coupled with a Solid-Oxide Electrolysis System, Energy 94, 304-315.   
+   
 Peters J., Petrakopoulou F., Dufour J. 2015. Exergy analysis of synthetic biofuel production via fast pyrolysis and hydroupgrading, Energy 79, 325-336.   
+   
 Petrakopoulou F., Tsatsaronis G., 2014. Can Carbon Dioxide Capture and Storage from Power Plants Reduce the Environmental Impact of Electricity Generation, ACS Energy &amp; Fuels, 28(8), 5327 5338.   
+   
 Petrakopoulou F., Lee Y.D., Tsatsaronis G., 2014. Simulation and Exergetic evaluation of CO2 capture in a solid oxide fuel cell combined cycle power planta, Applied Energy 114, 417-425.   
+   
 Petrakopoulou F., Tsatsaronis G., Morosuk T., 2012. Advanced exergoenvironmental analysis of a near-zero emission power plant with chemical looping combustion, Environmental Science and Technology 46, pp. 3001-3007.   
+   
 Petrakopoulou F., Tsatsaronis G., 2012. Production of hydrogen-rich fuels for pre-combustion carbon capture in power plants: A thermodynamic assessment, International Journal of Hydrogen Energy 37 (9), pp. 7554-7564.   
+   
 Petrakopoulou F., Tsatsaronis G., Morosuk T., Carassai A., 2012. Conventional and advanced exergetic analyses applied to a combined cycle power planta, Energy 41 (1), pp. 146-152.   
-Petrakopoulou F., Boyano A., Cabrera M., Tsatsaronis G., 2011. Exergoeconomic and exergoenvironmental analyses of a combined cycle power plant with chemical looping technology, International Journal of Greenhouse Gas 
+   
+Petrakopoulou F., Boyano A., Cabrera M., Tsatsaronis G., 2011. Exergoeconomic and exergoenvironmental analyses of a combined cycle power plant with chemical looping technology, International Journal of Greenhouse Gas Control 5 (3), pp. 475-482. 
