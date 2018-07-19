@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching & Supervision
+<!--title: Teaching & Supervision-->
 permalink: /teaching/
 ---
 
