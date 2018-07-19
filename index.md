@@ -6,7 +6,7 @@ permalink: /
 
 ![Fontina Petrakopoulou](/files/fontina_profile.jpg){:style="float: left;margin-right: 20px;margin-top: 7px;"}
 
-![Google Scholar](/files/googlelogo.jpg){:style="float: right;margin-left: 20px;margin-top: 7px;"}(https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en")
+
 ![Research Gate](/files/rglogo.jpg){:style="float: right;margin-left: 20px;margin-top: 10px;"}
 ![ORCID](/files/orcidlogo.jpg){:style="float: right;margin-left: 20px;margin-top: 13px;"}
 ![Detailed CV](/files/CV_Petrakopoulou.pdf){:style="float: right;margin-left: 20px;margin-top: 16px;"}
