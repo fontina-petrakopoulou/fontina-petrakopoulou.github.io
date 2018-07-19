@@ -19,7 +19,7 @@ Email: fpetrako@ing.uc3m.es
 <a href="http://orcid.org/0000-0001-6878-4591" target="_blank"><img class="alignright size-full wp-image-3757" src="http://ise.uc3m.es/wp-content/uploads/2017/09/orcid-logo.png" alt="" width="60" height="15" /></a> 
 
 ---
-
+   
 
 <!-- ![](/files/rglogo.jpg){:style="float: right;margin-left: 20px;margin-top: 7px;"}
 ![](/files/orcidlogo.jpg){:style="float: right;margin-left: 23px;margin-top: 7px;"}
