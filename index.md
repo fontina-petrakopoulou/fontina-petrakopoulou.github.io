@@ -52,35 +52,35 @@ I have taught courses on heat transfer and the optimization of thermodynamic sys
 
 **EDUCATION**
 
--Ph.D. in Energy Engineering, Technical University of Berlin, Germany, 2010   
--Dipl.-Ing. in Mechanical Engineering (Production Engineering and Management), Technical University of Crete, Greece, 2005
+- Ph.D. in Energy Engineering, Technical University of Berlin, Germany, 2010   
+- Dipl.-Ing. in Mechanical Engineering (Production Engineering and Management), Technical University of Crete, Greece, 2005
 
 **PREVIOUS WORK EXPERIENCE**
 
--Research associate, National Technical University of Athens, Greece, 2013-2015   
--Lecturer, Technical University of Crete, Greece, 2013-2014   
--Post-doctoral researcher, Institute IMDEA Energy, Spain, 2011-2013   
--Consulting activities, Shell Global Solutions International BV, Germany, 2012   
--Consulting activities, Nagarjuna Fertilizers and Chemicals Limited, Germany, 2009   
--Pre-doctoral research assistant, Technical University of Berlin, Germany, 2006-2010   
--Teaching assistant, Technical University of Berlin, Germany, 2005-2010   
+- Research associate, National Technical University of Athens, Greece, 2013-2015   
+- Lecturer, Technical University of Crete, Greece, 2013-2014   
+- Post-doctoral researcher, Institute IMDEA Energy, Spain, 2011-2013   
+- Consulting activities, Shell Global Solutions International BV, Germany, 2012   
+- Consulting activities, Nagarjuna Fertilizers and Chemicals Limited, Germany, 2009   
+- Pre-doctoral research assistant, Technical University of Berlin, Germany, 2006-2010   
+- Teaching assistant, Technical University of Berlin, Germany, 2005-2010   
 
 **FELLOWSHIPS**
 
-•	Ramón y Cajal, Ministerio de Economía y Competitividad, Gobierno de España (2017), Score 100/100      
-•	Marie Skłodowska-Curie Action COFUND, European Commission’s Seventh Framework Programme (2015-2018)      
-•	Juan de la Cierva, Ministerio de Economía y Competitividad, Gobierno de España (2016)   
-•	Marie Curie Action Intra-European Individual Fellowship (PEOPLE-IEF), European Commission’s Seventh Framework Programme (2013-2015)   
-•	Marie Curie Action COFUND, European Commission’s Seventh Framework Programme (2011-2013)    
-•	For completing the Dissertation studies from the Technical University of Berlin (Promotionsabschlussstipendium der Frauenbeauftragte) (2010)   
-•	INSPIRE Marie Curie Research Training Network MRTN-CT-2005-019296, European Commission’s Sixth Framework Programme (2006-2009)   
+-	Ramón y Cajal, Ministerio de Economía y Competitividad, Gobierno de España (2017), Score 100/100      
+-	Marie Skłodowska-Curie Action COFUND, European Commission’s Seventh Framework Programme (2015-2018)      
+-	Juan de la Cierva, Ministerio de Economía y Competitividad, Gobierno de España (2016)   
+-	Marie Curie Action Intra-European Individual Fellowship (PEOPLE-IEF), European Commission’s Seventh Framework Programme (2013-2015)   
+-	Marie Curie Action COFUND, European Commission’s Seventh Framework Programme (2011-2013)    
+-	For completing the Dissertation studies from the Technical University of Berlin (Promotionsabschlussstipendium der Frauenbeauftragte) (2010)   
+-	INSPIRE Marie Curie Research Training Network MRTN-CT-2005-019296, European Commission’s Sixth Framework Programme (2006-2009)   
 
 **PRIZES AND AWARDS**
 
-•	Award of Best Presentations at the 1st Workshop of IMDEA Energy (December 2012)   
-•	Who’s Who in the World (30th Pearl Anniversary Edition 2012)   
-•	Finalist (among the three best Ph.D. dissertations in Germany) of the Prize of the Future awarded by RWE AG. (Zukunftpreis), 2011; Committee: A. Fitting, I. Alpheus, D. Moest, A. Hartmann, M. Kuehn   
-•	Best paper delivered at the International Conference on Optimization Using Exergy-Based Methods and Computational Fluid Dynamics, 2009; Committee: D. Moorhouse (Air force Research Laboratories, USA), G. Tsatsaronis (Technical University of Berlin, Germany), R. Weber (Technical University of Clausthal, Germany)
+-	Award of Best Presentations at the 1st Workshop of IMDEA Energy (December 2012)   
+-	Who’s Who in the World (30th Pearl Anniversary Edition 2012)   
+-	Finalist (among the three best Ph.D. dissertations in Germany) of the Prize of the Future awarded by RWE AG. (Zukunftpreis), 2011; Committee: A. Fitting, I. Alpheus, D. Moest, A. Hartmann, M. Kuehn   
+-	Best paper delivered at the International Conference on Optimization Using Exergy-Based Methods and Computational Fluid Dynamics, 2009; Committee: D. Moorhouse (Air force Research Laboratories, USA), G. Tsatsaronis (Technical University of Berlin, Germany), R. Weber (Technical University of Clausthal, Germany)
 
 **Selected publications** For full list see [here](http://fontina-petrakopoulou.github.io/publications/)  
 Gonzalez-Gomez P.A., Petrakopoulou F., Briongos J.V., Santana D., 2017. Cost-based design optimization of the heat exchangers in a parabolic trough concentrating solar power planta, Energy 123, 314-325.   
