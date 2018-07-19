@@ -62,3 +62,5 @@ I have taught courses on heat transfer and the optimization of thermodynamic sys
 •	Who’s Who in the World (30th Pearl Anniversary Edition 2012)   
 •	Finalist (among the three best Ph.D. dissertations in Germany) of the Prize of the Future awarded by RWE AG. (Zukunftpreis), 2011; Committee: A. Fitting, I. Alpheus, D. Moest, A. Hartmann, M. Kuehn   
 •	Best paper delivered at the International Conference on Optimization Using Exergy-Based Methods and Computational Fluid Dynamics, 2009; Committee: D. Moorhouse (Air force Research Laboratories, USA), G. Tsatsaronis (Technical University of Berlin, Germany), R. Weber (Technical University of Clausthal, Germany)
+
+**Selected publications** For full list see [here](http://fontina-petrakopoulou.github.io/publications/)  
