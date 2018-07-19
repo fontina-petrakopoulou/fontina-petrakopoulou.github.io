@@ -13,7 +13,7 @@ Phone number: +34 91 624 9935
 Office: 1.1.D.18 (Edificio Betancourt, Campus Leganes)   
 Email: fpetrako@ing.uc3m.es  
 
-[CURRICULUM VITAE](/files/CV_Petrakopoulou.pdf){:style="float: left;margin-right: 23px;margin-top: 10px;"}   
+[CURRICULUM VITAE](/files/CV_Petrakopoulou.pdf)    
 
    
 ---
