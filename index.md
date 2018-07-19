@@ -28,6 +28,8 @@ Email: fpetrako@ing.uc3m.es
 <!--[**Google Scholar**](https://scholar.google.gr/citations?user=LLgloUsAAAAJ&hl=en)     
 [**Detailed CV**](/files/CV_Petrakopoulou.pdf)-->
 
+   
+   
 I am a Ramón y Cajal Professor (tenure-track) at the Department Thermal and Fluid Engineering of the University Carlos III of Madrid. I am also currently leading the research line Water-Energy Nexus of the Department.
 
 I received my undergraduate degree in Mechanical Engineering from the Technical University of Crete (2005) and my Ph.D. in
@@ -84,9 +86,10 @@ I have taught courses on heat transfer and the optimization of thermodynamic sys
 
 **Selected publications** For full list see [here](http://fontina-petrakopoulou.github.io/publications/)  
    
-*Since 2010, I have published 33 peer-reviewed journal papers. I am the first author in 26 of these papers and sole author in 3 (four more are currently in preparation). I have also published 2 chapters in books, 5 technical reports and written 2 sets of lecture notes.*   
+***Since 2010, I have published 33 peer-reviewed journal papers. I am the first author in 26 of these papers and sole author in 3 (four more are currently in preparation). I have also published 2 chapters in books, 5 technical reports and written 2 sets of lecture notes.***
    
 Gonzalez-Gomez P.A., Petrakopoulou F., Briongos J.V., Santana D., 2017. Cost-based design optimization of the heat exchangers in a parabolic trough concentrating solar power planta, Energy 123, 314-325.   
+   
 Petrakopoulou F., 2016. On the economics of stand-alone renewable hybrid power plants in remote regions, Energy Conversion and Management 118, 63-74.   
    
 Petrakopoulou F., Robinson A., Loizidou M., 2016. Simulation and analysis of a stand-alone solar-wind and pumped-storage hydropower planta, Energy 96, 676-683.   
