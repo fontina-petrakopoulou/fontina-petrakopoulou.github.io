@@ -27,6 +27,8 @@ Email: fpetrako@ing.uc3m.es
 <!--[**Google Scholar**](https://scholar.google.gr/citations?user=LLgloUsAAAAJ&hl=en)     
 [**Detailed CV**](/files/CV_Petrakopoulou.pdf)-->
 
+   
+   
 I am a Ramón y Cajal Professor (tenure-track) at the Department Thermal and Fluid Engineering of the University Carlos III of Madrid. I am also currently leading the research line Water-Energy Nexus of the Department.
 
 I received my undergraduate degree in Mechanical Engineering from the Technical University of Crete (2005) and my Ph.D. in
