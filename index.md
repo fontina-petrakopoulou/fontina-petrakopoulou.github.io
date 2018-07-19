@@ -11,28 +11,22 @@ Current Position: CONEX Experienced Professor
 Phone number: +34 91 624 9935   
 Office: 1.1.D.18 (Edificio Betancourt, Campus Leganes)   
 Email: fpetrako@ing.uc3m.es
-
    
-      
+<a href="https://www.researchgate.net/profile/Fontina_Petrakopoulou" target="_blank"><img class="alignleft size-full wp-image-3103" src="http://ise.uc3m.es/wp-content/uploads/2011/05/researchgate-dss.png" alt="" width="30" height="30" /></a> 
 
+<a href="https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en" target="_blank"><img class="aligncenter size-full wp-image-3758" src="http://ise.uc3m.es/wp-content/uploads/2017/09/googlelogo.png" alt="" width="60" height="25" /></a>
+
+<a href="http://orcid.org/0000-0001-6878-4591" target="_blank"><img class="alignright size-full wp-image-3757" src="http://ise.uc3m.es/wp-content/uploads/2017/09/orcid-logo.png" alt="" width="60" height="8" /></a>    
+
+![](/files/CV_Petrakopoulou.pdf){:style="float: right;margin-left: 23px;margin-top: 13px;"}
 -----------------------------------------------------------------------------------------------------------------------------
 
 
 <!-- ![](/files/rglogo.jpg){:style="float: right;margin-left: 20px;margin-top: 7px;"}
 ![](/files/orcidlogo.jpg){:style="float: right;margin-left: 23px;margin-top: 7px;"}
 
-![](/files/CV_Petrakopoulou.pdf){:style="float: right;margin-left: 23px;margin-top: 13px;"}
-
 <!--[**Google Scholar**](https://scholar.google.gr/citations?user=LLgloUsAAAAJ&hl=en)     
 [**Detailed CV**](/files/CV_Petrakopoulou.pdf)-->
-
-<a href="https://www.researchgate.net/profile/Fontina_Petrakopoulou" target="_blank"><img class="alignleft size-full wp-image-3103" src="http://ise.uc3m.es/wp-content/uploads/2011/05/researchgate-dss.png" alt="" width="30" height="30" /></a> 
-
-<a href="https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en" target="_blank"><img class="aligncenter size-full wp-image-3758" src="http://ise.uc3m.es/wp-content/uploads/2017/09/googlelogo.png" alt="" width="60" height="25" /></a>
-
-<a href="http://orcid.org/0000-0001-6878-4591" target="_blank"><img class="alignright size-full wp-image-3757" src="http://ise.uc3m.es/wp-content/uploads/2017/09/orcid-logo.png" alt="" width="60" height="8" /></a> 
-
-
 
 I am a tenure-track Professor (Ramón y Cajal) at the Department Thermal and Fluid Engineering of the University Carlos III of Madrid. I am also currently leading the research line Water-Energy Nexus of the Department.
 
