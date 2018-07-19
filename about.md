@@ -31,6 +31,20 @@ My **research lines** include:
 
 I have taught courses on heat transfer and the optimization of thermodynamic systems and have supervised a large number of bachelor and master theses. I have been honoured with a best paper award and my Ph.D. thesis was chosen as one the three best in Germany by RWE AG. I am the author of various journal articles and book chapters and have participated in numerous international conferences and workshops.
 
+**EDUCATION**
+
+-Ph.D. in Energy Engineering, Technical University of Berlin, Germany, 2010
+-Dipl.-Ing. in Mechanical Engineering (Production Engineering and Management), Technical University of Crete, Greece, 2005
+
+**PREVIOUS WORK EXPERIENCE**
+
+-Research associate, National Technical University of Athens, Greece, 2013-2015
+-Lecturer, Technical University of Crete, Greece, 2013-2014
+-Post-doctoral researcher, Institute IMDEA Energy, Spain, 2011-2013
+-Consulting activities, Shell Global Solutions International BV, Germany, 2012
+-Consulting activities, Nagarjuna Fertilizers and Chemicals Limited, Germany, 2009
+-Pre-doctoral research assistant, Technical University of Berlin, Germany, 2006-2010
+-Teaching assistant, Technical University of Berlin, Germany, 2005-2010
 
 **FELLOWSHIPS**
 
