@@ -1,9 +1,7 @@
-
 ---
-
 layout: default
+title: About me
 permalink: /
-
 ---
 
 ![Fontina Petrakopoulou](/files/fontina_profile.jpg){:style="float: left;margin-right: 20px;margin-top: 7px;"}
