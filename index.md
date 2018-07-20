@@ -4,7 +4,7 @@ title: About me
 permalink: /
 ---
 
-![Fontina Petrakopoulou](/files/2.png){:style="float: left;margin-right: 20px;margin-top: 7px; width:20px;"} 
+![Fontina Petrakopoulou](/files/1_.png){:style="float: left;margin-right: 20px;margin-top: 7px;"} 
    
 
 **Professor in Energy Engineering**     
