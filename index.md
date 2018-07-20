@@ -15,8 +15,8 @@ Email: fpetrako@ing.uc3m.es
 
    
 
-<a href="https://www.researchgate.net/profile/Fontina_Petrakopoulou" target="_blank"><img class="alignleft size-full wp-image-3103" src="http://ise.uc3m.es/wp-content/uploads/2011/05/researchgate-dss.png" alt="" width="30" height="30" /></a> 
-<a href="https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en" target="_blank"><img class="aligncenter size-full wp-image-3758" src="http://ise.uc3m.es/wp-content/uploads/2017/09/googlelogo.png" alt="" width="60" height="25" /></a>
+<a href="https://www.researchgate.net/profile/Fontina_Petrakopoulou" target="_blank"><img class="alignright size-full wp-image-3103" src="http://ise.uc3m.es/wp-content/uploads/2011/05/researchgate-dss.png" alt="" width="30" height="30" /></a> 
+<a href="https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en" target="_blank"><img class="alignright size-full wp-image-3758" src="http://ise.uc3m.es/wp-content/uploads/2017/09/googlelogo.png" alt="" width="60" height="25" /></a>
 <a href="http://orcid.org/0000-0001-6878-4591" target="_blank"><img class="alignright size-full wp-image-3757" src="http://ise.uc3m.es/wp-content/uploads/2017/09/orcid-logo.png" alt="" width="60" height="15" /></a> 
 
 ---
