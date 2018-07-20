@@ -5,6 +5,7 @@ permalink: /
 ---
 
 ![Fontina Petrakopoulou](/files/1_.png){:style="float: left;margin-right: 20px;margin-top: 7px;} 
+   
 <!--(/files/fontina_profile.jpg){:style="float: left;margin-right: 20px;margin-top: 7px;"}
 
 **Professor in Energy Engineering**     
