@@ -3,23 +3,25 @@ layout: page
 permalink: /about/
 ---
 
-![Fontina Petrakopoulou](/files/fontina_profile.jpg){:style="float: left;margin-right: 20px;margin-top: 7px;"}
+![Fontina Petrakopoulou](/files/1_.png){:style="float: left;margin-right: 20px;margin-top: 7px; width: 25;"} 
+   
 
 **Professor in Energy Engineering**     
 Phone number: +34 91 624 9935   
 Office: 1.1.D.18 (Edificio Betancourt, Campus Leganes)   
 Email: fpetrako@ing.uc3m.es  
 
-[Curriculum Vitae1](/files/CV_Petrakopoulou.pdf)    
+[Curriculum Vitae](/files/CV_Petrakopoulou.pdf)    
 
    
 
-<a href="https://www.researchgate.net/profile/Fontina_Petrakopoulou" target="_blank"><img class="alignleft size-full wp-image-3103" src="http://ise.uc3m.es/wp-content/uploads/2011/05/researchgate-dss.png" alt="" width="30" height="30" /></a> 
-<a href="https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en" target="_blank"><img class="aligncenter size-full wp-image-3758" src="http://ise.uc3m.es/wp-content/uploads/2017/09/googlelogo.png" alt="" width="60" height="25" /></a>
+<a href="https://www.researchgate.net/profile/Fontina_Petrakopoulou" target="_blank"><img class="alignright size-full wp-image-3103" src="http://ise.uc3m.es/wp-content/uploads/2011/05/researchgate-dss.png" alt="" width="30" height="30" /></a> 
+<a href="https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en" target="_blank"><img class="alignright size-full wp-image-3758" src="http://ise.uc3m.es/wp-content/uploads/2017/09/googlelogo.png" alt="" width="60" height="25" /></a>
 <a href="http://orcid.org/0000-0001-6878-4591" target="_blank"><img class="alignright size-full wp-image-3757" src="http://ise.uc3m.es/wp-content/uploads/2017/09/orcid-logo.png" alt="" width="60" height="15" /></a> 
 
 ---
    
+<!--(/files/fontina_profile.jpg){:style="float: left;margin-right: 20px;margin-top: 7px;"}-->
 
 <!-- ![](/files/rglogo.jpg){:style="float: right;margin-left: 20px;margin-top: 7px;"}
 ![](/files/orcidlogo.jpg){:style="float: right;margin-left: 23px;margin-top: 7px;"}
@@ -83,9 +85,9 @@ I have taught courses on heat transfer and the optimization of thermodynamic sys
 -	Finalist (among the three best Ph.D. dissertations in Germany) of the Prize of the Future awarded by RWE AG. (Zukunftpreis), 2011; Committee: A. Fitting, I. Alpheus, D. Moest, A. Hartmann, M. Kuehn   
 -	Best paper delivered at the International Conference on Optimization Using Exergy-Based Methods and Computational Fluid Dynamics, 2009; Committee: D. Moorhouse (Air force Research Laboratories, USA), G. Tsatsaronis (Technical University of Berlin, Germany), R. Weber (Technical University of Clausthal, Germany)
 
-**Selected publications** For full list see [here](http://fontina-petrakopoulou.github.io/publications/)  
+**Selected publications** (For full list see [here](http://fontina-petrakopoulou.github.io/publications/))  
    *Since 2010, I have published 33 peer-reviewed journal papers. I am the first author in 26 of these papers and sole author in 3 (four more are currently in preparation). I have also published 2 chapters in books, 5 technical reports and written 2 sets of lecture notes.*
-      
+   
 Gonzalez-Gomez P.A., Petrakopoulou F., Briongos J.V., Santana D., 2017. Cost-based design optimization of the heat exchangers in a parabolic trough concentrating solar power planta, Energy 123, 314-325.   
    
 Petrakopoulou F., 2016. On the economics of stand-alone renewable hybrid power plants in remote regions, Energy Conversion and Management 118, 63-74.   
