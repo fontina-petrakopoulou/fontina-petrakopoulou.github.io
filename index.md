@@ -4,7 +4,8 @@ title: About me
 permalink: /
 ---
 
-![Fontina Petrakopoulou](/files/fontina_profile.jpg){:style="float: left;margin-right: 20px;margin-top: 7px;"}
+![Fontina Petrakopoulou] (/files/1.png){:style="float: left;margin-right: 20px;margin-top: 7px;"} 
+<!--(/files/fontina_profile.jpg){:style="float: left;margin-right: 20px;margin-top: 7px;"}
 
 **Professor in Energy Engineering**     
 Phone number: +34 91 624 9935   
