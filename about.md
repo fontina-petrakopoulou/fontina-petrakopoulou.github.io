@@ -2,7 +2,7 @@
 layout: page
 permalink: /about/
 ---
-![Fontina Petrakopoulou](/files/1_.png){:style="float: left;margin-right: 20px;margin-top: 7px; width: 30;"} 
+![Fontina Petrakopoulou](/files/1_.png){:style="float: left;margin-right: 20px;margin-top: 7px;"} 
    
 
 **Professor in Energy Engineering**     
