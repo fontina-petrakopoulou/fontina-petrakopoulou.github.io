@@ -6,7 +6,6 @@ permalink: /
 
 ![Fontina Petrakopoulou](/files/1_.png){:style="float: left;margin-right: 20px;margin-top: 7px;} 
    
-<!--(/files/fontina_profile.jpg){:style="float: left;margin-right: 20px;margin-top: 7px;"}
 
 **Professor in Energy Engineering**     
 Phone number: +34 91 624 9935   
@@ -23,6 +22,7 @@ Email: fpetrako@ing.uc3m.es
 
 ---
    
+<!--(/files/fontina_profile.jpg){:style="float: left;margin-right: 20px;margin-top: 7px;"}-->
 
 <!-- ![](/files/rglogo.jpg){:style="float: right;margin-left: 20px;margin-top: 7px;"}
 ![](/files/orcidlogo.jpg){:style="float: right;margin-left: 23px;margin-top: 7px;"}
@@ -54,7 +54,7 @@ My **research lines** include:
 
 I have taught courses on heat transfer and the optimization of thermodynamic systems and have supervised a large number of bachelor and master theses. I have been honoured with a best paper award and my Ph.D. thesis was chosen as one the three best in Germany by RWE AG. I am the author of various journal articles and book chapters and have participated in numerous international conferences and workshops.
 
-**EDUCATION** {:style="float: left;margin-right: 40px;margin-top: 7px;"}
+**EDUCATION**
 
 - Ph.D. in Energy Engineering, Technical University of Berlin, Germany, 2010   
 - Dipl.-Ing. in Mechanical Engineering (Production Engineering and Management), Technical University of Crete, Greece, 2005
