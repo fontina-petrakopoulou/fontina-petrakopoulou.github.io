@@ -85,7 +85,7 @@ $base-font-size:   30px;
 -	Finalist (among the three best Ph.D. dissertations in Germany) of the Prize of the Future awarded by RWE AG. (Zukunftpreis), 2011; Committee: A. Fitting, I. Alpheus, D. Moest, A. Hartmann, M. Kuehn   
 -	Best paper delivered at the International Conference on Optimization Using Exergy-Based Methods and Computational Fluid Dynamics, 2009; Committee: D. Moorhouse (Air force Research Laboratories, USA), G. Tsatsaronis (Technical University of Berlin, Germany), R. Weber (Technical University of Clausthal, Germany)
 
-**Selected publications** For full list see [here](http://fontina-petrakopoulou.github.io/publications/)  
+**Selected publications** (For full list see [here](http://fontina-petrakopoulou.github.io/publications/))  
    *Since 2010, I have published 33 peer-reviewed journal papers. I am the first author in 26 of these papers and sole author in 3 (four more are currently in preparation). I have also published 2 chapters in books, 5 technical reports and written 2 sets of lecture notes.*
    
 Gonzalez-Gomez P.A., Petrakopoulou F., Briongos J.V., Santana D., 2017. Cost-based design optimization of the heat exchangers in a parabolic trough concentrating solar power planta, Energy 123, 314-325.   
