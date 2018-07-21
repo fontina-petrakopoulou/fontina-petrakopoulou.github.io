@@ -13,13 +13,14 @@ Office: 1.1.D.18 (Edificio Betancourt, Campus Leganes)
 Email: fpetrako@ing.uc3m.es  
 
 [Curriculum Vitae](/files/CV_Petrakopoulou.pdf)    
-
    
+[Google Scholar](https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en), [Research Gate](https://www.researchgate.net/profile/Fontina_Petrakopoulou), [ORCID](http://orcid.org/0000-0001-6878-4591) 
 
-[Google Scholar](https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en) <!-- <a href="https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en" target="_blank"><img class="alignright size-full wp-image-3758" src="http://ise.uc3m.es/wp-content/uploads/2017/09/googlelogo.png" alt="" width="60" height="25" /></a> -->
-, [Research Gate](https://www.researchgate.net/profile/Fontina_Petrakopoulou) <!--<a href="https://www.researchgate.net/profile/Fontina_Petrakopoulou" target="_blank"><img class="alignright size-full wp-image-3103" src="http://ise.uc3m.es/wp-content/uploads/2011/05/researchgate-dss.png" alt="" width="30" height="30" /></a>  -->
-, [ORCID](http://orcid.org/0000-0001-6878-4591) <!--<a href="http://orcid.org/0000-0001-6878-4591" target="_blank"><img class="alignright size-full wp-image-3757" src="http://ise.uc3m.es/wp-content/uploads/2017/09/orcid-logo.png" alt="" width="60" height="15" /></a> -->
+<!-- <a href="https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en" target="_blank"><img class="alignright size-full wp-image-3758" src="http://ise.uc3m.es/wp-content/uploads/2017/09/googlelogo.png" alt="" width="60" height="25" /></a> -->
+<!--<a href="https://www.researchgate.net/profile/Fontina_Petrakopoulou" target="_blank"><img class="alignright size-full wp-image-3103" src="http://ise.uc3m.es/wp-content/uploads/2011/05/researchgate-dss.png" alt="" width="30" height="30" /></a>  -->
 
+<!--<a href="http://orcid.org/0000-0001-6878-4591" target="_blank"><img class="alignright size-full wp-image-3757" src="http://ise.uc3m.es/wp-content/uploads/2017/09/orcid-logo.png" alt="" width="60" height="15" /></a> -->
+   
 ---
    
 <!--(/files/fontina_profile.jpg){:style="float: left;margin-right: 20px;margin-top: 7px;"}-->
