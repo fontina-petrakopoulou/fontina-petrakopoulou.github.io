@@ -4,7 +4,7 @@ permalink: /about/
 ---
 
 <!-- ![Fontina Petrakopoulou](/files/1_.png){:style="float: left;margin-right: 20px;margin-top: 7px;" width="50px"} -->
-<img src="/files/2___.png" alt="Fontina Petrakopoulou" width="200px" style="float: left;margin-right: 20px;margin-top: 7px;">
+<img src="/files/4.png" alt="Fontina Petrakopoulou" width="200px" style="float: left;margin-right: 20px;margin-top: 7px;">
 
 **Professor in Energy Engineering**     
 Phone number: +34 91 624 9935   
