@@ -12,9 +12,9 @@ h-index: 16 and i10-index: 21 (source: Google scholar). h-index: 14 (source: Sco
 
 34. Cristina Serrano-Sanchez, C., Olmeda-Delgado, M., **Petrakopoulou, F.**, 2019. ["Exergy and Economic Evaluation of a Hybrid Power Plant Coupling Coal with Solar Energy", Appl. Sci. 2019, 9(5), 850](/files/articles/2019_Cristinas_applsci-09-00850.pdf)
 
-33. **Petrakopoulou F.**, Sánchez-Delgado S., Marugán-Cruz C., Santana D., 2017. ["Improving the efficiency of gas turbine systems with volumetric solar receivers", Energy Conversion and Management 149, 579-592](/files/articles/2017_EnConvMan_SolarCCPP.pdf) 
+33.  **Petrakopoulou F.**, 2018. [“Economic and environmental considerations for zero-emission transport and thermal energy generation on an energy autonomous island”, European Journal of Sustainable Development Research, 2(1), 05.](/files/articles/2018_EurJSDR.pdf) 
 
-32.  **Petrakopoulou F.**, 2018. [“Economic and environmental considerations for zero-emission transport and thermal energy generation on an energy autonomous island”, European Journal of Sustainable Development Research, 2(1), 05.](/files/articles/2018_EurJSDR.pdf) 
+32. **Petrakopoulou F.**, Sánchez-Delgado S., Marugán-Cruz C., Santana D., 2017. ["Improving the efficiency of gas turbine systems with volumetric solar receivers", Energy Conversion and Management 149, 579-592](/files/articles/2017_EnConvMan_SolarCCPP.pdf) 
 
 31.  Yolanda L., **Petrakopoulou F.**, Morosuk T., Boyano A., Tsatsaronis G., [“The Relationship Between Costs and Environmental Impacts in Power Plants: An Exergy-Based Study”, Energy, 138, 920-928, DOI: 10.1016/j.energy.2017.07.087.](/files/articles/2017_Energy_Lara_etal.pdf)
 
