@@ -8,9 +8,9 @@ h-index: 17 and i10-index: 24 (source: Google scholar). h-index: 14 (source: Sco
 ### Journal publications
 
 
-35. **Petrakopoulou, F.**, Olmeda-Delgado, M., 2019. ["Studying the reduction of water use in integrated solar combined-cycle plants", Sustainability 2019, 11(7), 2085.](/files/articles/2019_Marinas_sustainability-11-02085.pdf)
+35. **Petrakopoulou, F.**, Olmeda-Delgado, M., 2019. ["Studying the reduction of water use in integrated solar combined-cycle plants", Sustainability, 11(7), 2085.](/files/articles/2019_Marinas_sustainability-11-02085.pdf)
 
-34. Cristina Serrano-Sanchez, C., Olmeda-Delgado, M., **Petrakopoulou, F.**, 2019. ["Exergy and Economic Evaluation of a Hybrid Power Plant Coupling Coal with Solar Energy", Appl. Sci. 2019, 9(5), 850.](/files/articles/2019_Cristinas_applsci-09-00850.pdf)
+34. Cristina Serrano-Sanchez, C., Olmeda-Delgado, M., **Petrakopoulou, F.**, 2019. ["Exergy and Economic Evaluation of a Hybrid Power Plant Coupling Coal with Solar Energy", Applied Sciences 9(5), 850.](/files/articles/2019_Cristinas_applsci-09-00850.pdf)
 
 33.  **Petrakopoulou F.**, 2018. [“Economic and environmental considerations for zero-emission transport and thermal energy generation on an energy autonomous island”, European Journal of Sustainable Development Research, 2(1), 05.](/files/articles/2018_EurJSDR.pdf) 
 
