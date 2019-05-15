@@ -81,6 +81,7 @@ I have taught courses on heat transfer and the optimization of thermodynamic sys
 
 **PRIZES AND AWARDS**
 
+-  Prize of Excellence, University Carlos III of Madrid (May 2019)
 -	Award of Best Presentations at the 1st Workshop of IMDEA Energy (December 2012)   
 -	Who’s Who in the World (30th Pearl Anniversary Edition 2012)   
 -	Finalist (among the three best Ph.D. dissertations in Germany) of the Prize of the Future awarded by RWE AG. (Zukunftpreis), 2011; Committee: A. Fitting, I. Alpheus, D. Moest, A. Hartmann, M. Kuehn   
