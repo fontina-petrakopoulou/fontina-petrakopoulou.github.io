@@ -8,11 +8,11 @@ h-index: 17 and i10-index: 29 (source: Google scholar). h-index: 15 (source: Sco
 ### Journal publications
 
 
-38. Fernández-Gil, G., **Petrakopoulou, F.**, 2019. ["Sustainable Water Generation on a Mediterranean Island in Greece", Energies, 12(22), 4247.](/files/articles/2019_Marinas_sustainability-11-02085.pdf) 
+38. Fernández-Gil, G., **Petrakopoulou, F.**, 2019. ["Sustainable Water Generation on a Mediterranean Island in Greece", Energies, 12(22), 4247.](/files/articles/2019_Guillermo_energies-12-04247.pdf) 
 
-37. **Petrakopoulou, F.**, del Moral Sabroso, A., 2019. ["Evaluation of the coupling of a hybrid power plant with a water generation system", Applied Sciences, 9(23), 4989.](/files/articles/2019_Marinas_sustainability-11-02085.pdf)
+37. del Moral Sabroso, A., **Petrakopoulou, F.**, 2019. ["Evaluation of the coupling of a hybrid power plant with a water generation system", Applied Sciences, 9(23), 4989.](/files/articles/2019_Amanda_applsci-09-04989.pdf)
 
-36. Rodríguez Hervas, G., **Petrakopoulou, F.**, 2019. ["Exergoeconomic Analysis of the Allam Cycle", Energy Fuels, 33(8), 7561-7568.](/files/articles/2019_Marinas_sustainability-11-02085.pdf)
+36. Rodríguez Hervas, G., **Petrakopoulou, F.**, 2019. ["Exergoeconomic Analysis of the Allam Cycle", Energy Fuels, 33(8), 7561-7568.](/files/articles/2019_Gonzalo_energyfuels.9b01348.pdf)
 
 35. **Petrakopoulou, F.**, Olmeda-Delgado, M., 2019. ["Studying the reduction of water use in integrated solar combined-cycle plants", Sustainability, 11(7), 2085.](/files/articles/2019_Marinas_sustainability-11-02085.pdf)
 
