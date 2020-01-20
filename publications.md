@@ -8,7 +8,7 @@ h-index: 17 and i10-index: 29 (source: Google scholar). h-index: 15 (source: Sco
 ### Journal publications
 
 
-38. Fernández-Gil, G., **Petrakopoulou, F.**, ["Sustainable Water Generation on a Mediterranean Island in Greece", Energies, 12(22), 4247.](/files/articles/2019_Marinas_sustainability-11-02085.pdf) 
+38. Fernández-Gil, G., **Petrakopoulou, F.**, 2019. ["Sustainable Water Generation on a Mediterranean Island in Greece", Energies, 12(22), 4247.](/files/articles/2019_Marinas_sustainability-11-02085.pdf) 
 
 37. **Petrakopoulou, F.**, del Moral Sabroso, A., 2019. ["Evaluation of the coupling of a hybrid power plant with a water generation system", Applied Sciences, 9(23), 4989.](/files/articles/2019_Marinas_sustainability-11-02085.pdf)
 
