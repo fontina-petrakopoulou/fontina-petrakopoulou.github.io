@@ -7,7 +7,9 @@ h-index: 17 and i10-index: 29 (source: Google scholar). h-index: 15 (source: Sco
 
 ### Journal publications
 
-42. 	**Petrakopoulou, F.**, Robinson, A., Olmeda-Delgado, M., "Impact of climate change on power-plant operation", accepted for publication, Journal of Cleaner Production. 
+43. 	**Petrakopoulou, F.**, Robinson, A., Olmeda-Delgado, M., "Impact of climate change on power-plant operation", accepted for publication, Journal of Cleaner Production. 
+
+42. 	Calise F., Liberato Cappiello F., Vicidomini M., **Petrakopoulou F.**, 2020. "Water-Energy Nexus: a thermoeconomic analysis of polygeneration systems for small Mediterranean islands", accepted for publication, Energy Conversion and Management 220, 113043. 
 
 41. 	de la Rocha Camba, E., **Petrakopoulou, F.**, 2020. "Earth-cooling air tunnels for thermal power plants: initial design by CFD modelling", Energies 13, 797. 
 
