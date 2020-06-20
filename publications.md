@@ -3,7 +3,7 @@ layout: page
 title: My publications
 permalink: /publications/
 ---
-h-index: 17 and i10-index: 29 (source: Google scholar). h-index: 15 (source: Scopus).
+h-index: 18 and i10-index: 29 (source: Google scholar). h-index: 17 (source: Scopus).
 
 ### Journal publications
 
