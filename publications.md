@@ -7,13 +7,13 @@ h-index: 17 and i10-index: 29 (source: Google scholar). h-index: 15 (source: Sco
 
 ### Journal publications
 
-42. 	Petrakopoulou, F., Robinson, A., Olmeda-Delgado, M., "Impact of climate change on power-plant operation", accepted for publication, Journal of Cleaner Production. 
+42. 	**Petrakopoulou, F.**, Robinson, A., Olmeda-Delgado, M., "Impact of climate change on power-plant operation", accepted for publication, Journal of Cleaner Production. 
 
-41. 	de la Rocha Camba, E., Petrakopoulou, F., 2020. "Earth-cooling air tunnels for thermal power plants: initial design by CFD modelling", Energies 13, 797. 
+41. 	de la Rocha Camba, E., **Petrakopoulou, F.**, 2020. "Earth-cooling air tunnels for thermal power plants: initial design by CFD modelling", Energies 13, 797. 
 
-40. 	Khoshgoftar Manesh, M.H., Kabiri., S., Yazdi, M., Petrakopoulou, F. "Exergoeconomic modeling and evaluation of a combined-cycle plant with MSF and MED desalination", Journal of Water Reuse and Desalination, DOI: 10.2166/wrd.2020.074. 
+40. 	Khoshgoftar Manesh, M.H., Kabiri., S., Yazdi, M., **Petrakopoulou, F.**, 2020. "Exergoeconomic modeling and evaluation of a combined-cycle plant with MSF and MED desalination", Journal of Water Reuse and Desalination 10 (2): 158–172. 
 
-39. 	Khoshgoftar Manesh, M.H., Kabiri., S., Yazdi, M., Petrakopoulou, F. "Thermodynamic evaluation of a combined-cycle power plant with MSF and MED desalination", Journal of Water Reuse and Desalination, DOI: 10.2166/wrd.2020.025. 
+39. 	Khoshgoftar Manesh, M.H., Kabiri., S., Yazdi, M., **Petrakopoulou, F.**, 2020. "Thermodynamic evaluation of a combined-cycle power plant with MSF and MED desalination", Journal of Water Reuse and Desalination 10 (2): 146–157. 
 
 38. Fernández-Gil, G., **Petrakopoulou, F.**, 2019. ["Sustainable Water Generation on a Mediterranean Island in Greece", Energies, 12(22), 4247.](/files/articles/2019_Guillermo_energies-12-04247.pdf) 
 
