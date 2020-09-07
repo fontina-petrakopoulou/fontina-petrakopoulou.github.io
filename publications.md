@@ -7,7 +7,9 @@ h-index: 18 and i10-index: 29 (source: Google scholar). h-index: 17 (source: Sco
 
 ### Journal publications
 
-43. 	**Petrakopoulou, F.**, Robinson, A., Olmeda-Delgado, M., "Impact of climate change on power-plant operation", accepted for publication, Journal of Cleaner Production. 
+44. 	**Petrakopoulou, F.**, Robinson, A., Olmeda-Delgado, M., 2020. "Impact of climate change on power-plant operation", accepted for publication, Journal of Cleaner Production 273, 122816. 
+
+43.   Sharifi, S., Nozad Heravi, F., Shirmohammadi, R., Ghasempour, R., **Petrakopoulou, F.**, Romeo, L.M., 2020. "Comprehensive thermodynamic and operational optimization of a solar-assisted LiBr/water absorption refrigeration system", Energy Reports 6, 2309-2323.
 
 42. 	Calise F., Liberato Cappiello F., Vicidomini M., **Petrakopoulou F.**, 2020. "Water-Energy Nexus: a thermoeconomic analysis of polygeneration systems for small Mediterranean islands", accepted for publication, Energy Conversion and Management 220, 113043. 
 
