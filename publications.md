@@ -15,9 +15,9 @@ h-index: 18 and i10-index: 29 (source: Google scholar). h-index: 17 (source: Sco
 
 41. 	de la Rocha Camba, E., **Petrakopoulou, F.**, 2020. ["Earth-cooling air tunnels for thermal power plants: initial design by CFD modelling", Energies 13, 797.](/files/articles/2020_EduardoEnergies.pdf)  
 
-40. 	Khoshgoftar Manesh, M.H., Kabiri., S., Yazdi, M., **Petrakopoulou, F.**, 2020. ["Exergoeconomic modeling and evaluation of a combined-cycle plant with MSF and MED desalination", Journal of Water Reuse and Desalination 10 (2): 158–172.](/files/articles/.pdf) 
+40. 	Khoshgoftar Manesh, M.H., Kabiri., S., Yazdi, M., **Petrakopoulou, F.**, 2020. ["Exergoeconomic modeling and evaluation of a combined-cycle plant with MSF and MED desalination", Journal of Water Reuse and Desalination 10 (2): 158–172.](/files/articles/2020_Khoshgoftar2.pdf) 
 
-39. 	Khoshgoftar Manesh, M.H., Kabiri., S., Yazdi, M., **Petrakopoulou, F.**, 2020. ["Thermodynamic evaluation of a combined-cycle power plant with MSF and MED desalination", Journal of Water Reuse and Desalination 10 (2): 146–157.](/files/articles/.pdf) 
+39. 	Khoshgoftar Manesh, M.H., Kabiri., S., Yazdi, M., **Petrakopoulou, F.**, 2020. ["Thermodynamic evaluation of a combined-cycle power plant with MSF and MED desalination", Journal of Water Reuse and Desalination 10 (2): 146–157.](/files/articles/2020_Khoshgoftar1.pdf) 
 
 38. Fernández-Gil, G., **Petrakopoulou, F.**, 2019. ["Sustainable Water Generation on a Mediterranean Island in Greece", Energies, 12(22), 4247.](/files/articles/2019_Guillermo_energies-12-04247.pdf) 
 
