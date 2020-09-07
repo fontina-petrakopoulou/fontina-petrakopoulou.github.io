@@ -7,11 +7,11 @@ h-index: 18 and i10-index: 29 (source: Google scholar). h-index: 17 (source: Sco
 
 ### Journal publications
 
-44. 	**Petrakopoulou, F.**, Robinson, A., Olmeda-Delgado, M., 2020. ["Impact of climate change on power-plant operation", accepted for publication, Journal of Cleaner Production 273, 122816.](/files/articles/2020_CoolingWaterPP_ClimateChange.pdf) 
+44. 	**Petrakopoulou, F.**, Robinson, A., Olmeda-Delgado, M., 2020. ["Impact of climate change on power-plant operation", Journal of Cleaner Production 273, 122816.](/files/articles/2020_CoolingWaterPP_ClimateChange.pdf) 
 
 43.   Sharifi, S., Nozad Heravi, F., Shirmohammadi, R., Ghasempour, R., **Petrakopoulou, F.**, Romeo, L.M., 2020. ["Comprehensive thermodynamic and operational optimization of a solar-assisted LiBr/water absorption refrigeration system", Energy Reports 6, 2309-2323.](/files/articles/2020_Sharifi_etalsolar-assistedLiBr/waterabsorption.pdf) 
 
-42. 	Calise F., Liberato Cappiello F., Vicidomini M., **Petrakopoulou F.**, 2020. ["Water-Energy Nexus: a thermoeconomic analysis of polygeneration systems for small Mediterranean islands", accepted for publication, Energy Conversion and Management 220, 113043.](/files/articles/2020_Calise_etal.pdf) 
+42. 	Calise F., Liberato Cappiello F., Vicidomini M., **Petrakopoulou F.**, 2020. ["Water-Energy Nexus: a thermoeconomic analysis of polygeneration systems for small Mediterranean islands", Energy Conversion and Management 220, 113043.](/files/articles/2020_Calise_etal.pdf) 
 
 41. 	de la Rocha Camba, E., **Petrakopoulou, F.**, 2020. ["Earth-cooling air tunnels for thermal power plants: initial design by CFD modelling", Energies 13, 797.](/files/articles/2020_EduardoEnergies.pdf)  
 
