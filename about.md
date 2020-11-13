@@ -42,15 +42,15 @@ My work focuses on the simulation and optimization of energy conversion processe
 
 My **research lines** include:
 
-- Energy islands: Regional renewable energy autonomy for social and environmental benefits,
+A) Simulation and evaluation of novel hybrid and other advanced energy conversion systems (including polygeneration)
 
-- The Water-Energy Nexus: Estimation of present and future water use in conventional, renewable and hybrid power plants and   water minimization strategies,
+B) Regional renewable energy autonomy for social and environmental benefits
 
-- Simulation of novel hybrid and other advanced energy conversion systems (also for polygeneration),
+C) Exergy-based methods for the optimization of energy systems: Application of thermodynamic, economic and environmental analyses for efficiency maximization and costs and environmental impact minimization
 
-- Exergy-based methods: Application of thermodynamic, economic and environmental analyses for efficiency maximization and costs and environmental impact minimization and
+D) The water-energy-climate nexus
 
-- Development of new tools for energy system optimization, automatization and digitalization of data.
+E) Automatization of existing and development of new optimization tools for energy systems
 
 I have taught courses on heat transfer and the optimization of thermodynamic systems and have supervised a large number of bachelor and master theses. I have been honoured with a best paper award and my Ph.D. thesis was chosen as one the three best in Germany by RWE AG. I am the author of various journal articles and book chapters and have participated in numerous international conferences and workshops.
 
