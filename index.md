@@ -11,7 +11,6 @@ permalink: /
 University Carlos III of Madrid   
 Avda. de la universidad 30  
 28911 Leganés (Madrid)  
-Phone number: +34 91 624 9935   
 Office: 1.1.D.3 (Edificio Betancourt)   
 Email: fpetrako@ing.uc3m.es*
 
