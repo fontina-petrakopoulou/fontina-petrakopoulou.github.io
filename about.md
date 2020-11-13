@@ -4,10 +4,12 @@ title: About me
 permalink: /about/
 ---
 
-[Curriculum Vitae](/files/CV_Petrakopoulou.pdf)[<img src="/files/orcid-logo.png" alt="Fontina Petrakopoulou" width="80px" style="float: left;margin-right: 40px;margin-top: 7px;">](http://orcid.org/0000-0001-6878-4591)[<img src="/files/googlelogo.png" alt="Fontina Petrakopoulou" width="80px" style="float: left;margin-right: 40px;margin-top: 7px;">](https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en)[<img src="/files/researchgate-dss.png" alt="Fontina Petrakopoulou" width="40px" style="float: left;margin-right: 20px;margin-top: 7px;">](https://www.researchgate.net/profile/Fontina_Petrakopoulou)    
+[<img src="/files/orcid-logo.png" alt="Fontina Petrakopoulou" width="80px" style="float: left;margin-right: 40px;margin-top: 7px;">](http://orcid.org/0000-0001-6878-4591)[<img src="/files/googlelogo.png" alt="Fontina Petrakopoulou" width="80px" style="float: left;margin-right: 40px;margin-top: 7px;">](https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en)[<img src="/files/researchgate-dss.png" alt="Fontina Petrakopoulou" width="40px" style="float: left;margin-right: 20px;margin-top: 7px;">](https://www.researchgate.net/profile/Fontina_Petrakopoulou)    
 
    
 I am a Ramón y Cajal Professor (tenure-track) at the Department Thermal and Fluid Engineering of the University Carlos III of Madrid. I am also currently leading the research line Water-Energy Nexus of the Department.
+
+[Curriculum Vitae](/files/CV_Petrakopoulou.pdf)
 
 I received my undergraduate degree in Mechanical Engineering from the Technical University of Crete (2005) and my Ph.D. in
 Energy Engineering from the Technical University of Berlin (2010). I have worked as a researcher in Germany,
