@@ -4,34 +4,20 @@ title: About me
 permalink: /about/
 ---
 
-<!-- ![Fontina Petrakopoulou](/files/1_.png){:style="float: left;margin-right: 20px;margin-top: 7px;" width="50px"} -->
-<img src="/files/4.png" alt="Fontina Petrakopoulou" width="200px" style="float: left;margin-right: 20px;margin-top: 7px;">
-
-**Professor in Energy Engineering**     
+**CONTACT**  
+Avda. de la universidad 30
+28911 Leganés (Madrid)
+Spain
+Office: 1.1.D.3 (Edificio Betancourt, Campus Leganes)   
 Phone number: +34 91 624 9935   
-Office: 1.1.D.18 (Edificio Betancourt, Campus Leganes)   
 Email: fpetrako@ing.uc3m.es  
+
 
 [Curriculum Vitae](/files/CV_Petrakopoulou.pdf)    
    
 [Google Scholar](https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en), [Research Gate](https://www.researchgate.net/profile/Fontina_Petrakopoulou), [ORCID](http://orcid.org/0000-0001-6878-4591) 
 
-<!-- <a href="https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en" target="_blank"><img class="alignright size-full wp-image-3758" src="http://ise.uc3m.es/wp-content/uploads/2017/09/googlelogo.png" alt="" width="60" height="25" /></a> -->
-<!--<a href="https://www.researchgate.net/profile/Fontina_Petrakopoulou" target="_blank"><img class="alignright size-full wp-image-3103" src="http://ise.uc3m.es/wp-content/uploads/2011/05/researchgate-dss.png" alt="" width="30" height="30" /></a>  -->
 
-<!--<a href="http://orcid.org/0000-0001-6878-4591" target="_blank"><img class="alignright size-full wp-image-3757" src="http://ise.uc3m.es/wp-content/uploads/2017/09/orcid-logo.png" alt="" width="60" height="15" /></a> -->
-   
----
-   
-<!--(/files/fontina_profile.jpg){:style="float: left;margin-right: 20px;margin-top: 7px;"}-->
-
-<!-- ![](/files/rglogo.jpg){:style="float: right;margin-left: 20px;margin-top: 7px;"}
-![](/files/orcidlogo.jpg){:style="float: right;margin-left: 23px;margin-top: 7px;"}
-
-<!--[**Google Scholar**](https://scholar.google.gr/citations?user=LLgloUsAAAAJ&hl=en)     
-[**Detailed CV**](/files/CV_Petrakopoulou.pdf)-->
-   
-   
    
 I am a Ramón y Cajal Professor (tenure-track) at the Department Thermal and Fluid Engineering of the University Carlos III of Madrid. I am also currently leading the research line Water-Energy Nexus of the Department.
 
