@@ -9,8 +9,11 @@ permalink: /
 <img src="/files/4.png" alt="Fontina Petrakopoulou" width="200px" style="float: left;margin-right: 20px;margin-top: 7px;">
 
 **Professor in Energy Engineering**     
+University Carlos III of Madrid
+Avda. de la universidad 30
+28911 Leganés (Madrid)
 Phone number: +34 91 624 9935   
-Office: 1.1.D.18 (Edificio Betancourt, Campus Leganes)   
+Office: 1.1.D.3 (Edificio Betancourt, Campus Leganes)   
 Email: fpetrako@ing.uc3m.es  
 
 [Curriculum Vitae](/files/CV_Petrakopoulou.pdf)    
