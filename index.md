@@ -27,9 +27,10 @@ E) [Automatization of existing and development of new optimization tools for ene
 [<img src="/files/orcid-logo.png" alt="Fontina Petrakopoulou" width="80px" style="float: left;margin-right: 40px;margin-top: 7px;">](http://orcid.org/0000-0001-6878-4591)
 [<img src="/files/googlelogo.png" alt="Fontina Petrakopoulou" width="80px" style="float: left;margin-right: 40px;margin-top: 7px;">](https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en)
 [<img src="/files/researchgate-dss.png" alt="Fontina Petrakopoulou" width="40px" style="float: left;margin-right: 20px;margin-top: 7px;">](https://www.researchgate.net/profile/Fontina_Petrakopoulou)    
-
-          
+ 
+ 
 [Curriculum Vitae](/files/CV_Petrakopoulou.pdf) 
+
                
 **CONTACT**     
 University Carlos III of Madrid 
