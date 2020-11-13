@@ -14,19 +14,19 @@ My work focuses on the simulation and optimization of energy conversion processe
 
 My **research lines** are the following:
 
-A) [Simulation and evaluation of novel hybrid and other advanced energy conversion systems (including polygeneration)(http://fontina-petrakopoulou.github.io/researchlineA/)]
+A) [Simulation and evaluation of novel hybrid and other advanced energy conversion systems (including polygeneration)](http://fontina-petrakopoulou.github.io/researchlineA/)
 
-B) [Regional renewable energy autonomy for social and environmental benefits(http://fontina-petrakopoulou.github.io/researchlineB/)]
+B) [Regional renewable energy autonomy for social and environmental benefits](http://fontina-petrakopoulou.github.io/researchlineB/)
 
-C) [Exergy-based methods for the optimization of energy systems: Application of thermodynamic, economic and environmental analyses for efficiency maximization and costs and environmental impact minimization(http://fontina-petrakopoulou.github.io/researchlineC/)]
+C) [Exergy-based methods for the optimization of energy systems: Application of thermodynamic, economic and environmental analyses for efficiency maximization and costs and environmental impact minimization](http://fontina-petrakopoulou.github.io/researchlineC/)
 
-D) [The water-energy-climate nexus(http://fontina-petrakopoulou.github.io/researchlineD/)]
+D) [The water-energy-climate nexus](http://fontina-petrakopoulou.github.io/researchlineD/)
 
-E) [Automatization of existing and development of new optimization tools for energy systems(http://fontina-petrakopoulou.github.io/researchlineE/)]
+E) [Automatization of existing and development of new optimization tools for energy systems](http://fontina-petrakopoulou.github.io/researchlineE/)
             
-[<img src="/files/googlelogo.png" alt="Fontina Petrakopoulou" width="50px" style="float: left;margin-right: 40px;margin-top: 7px;">(https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en)]       
-[<img src="/files/researchgate-dss.png" alt="Fontina Petrakopoulou" width="50px" style="float: left;margin-right: 40px;margin-top: 7px;">(https://www.researchgate.net/profile/Fontina_Petrakopoulou)]      
-[<img src="/files/orcid-logo.png" alt="Fontina Petrakopoulou" width="50px" style="float: left;margin-right: 40px;margin-top: 7px;">(http://orcid.org/0000-0001-6878-4591)]             
+[<img src="/files/googlelogo.png" alt="Fontina Petrakopoulou" width="50px" style="float: left;margin-right: 40px;margin-top: 7px;">](https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en)         
+[<img src="/files/researchgate-dss.png" alt="Fontina Petrakopoulou" width="50px" style="float: left;margin-right: 40px;margin-top: 7px;">](https://www.researchgate.net/profile/Fontina_Petrakopoulou)      
+[<img src="/files/orcid-logo.png" alt="Fontina Petrakopoulou" width="50px" style="float: left;margin-right: 40px;margin-top: 7px;">](http://orcid.org/0000-0001-6878-4591)             
 
 
 [Curriculum Vitae](/files/CV_Petrakopoulou.pdf) 
