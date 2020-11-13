@@ -24,3 +24,15 @@ Email: fpetrako@ing.uc3m.es
 I am a Ramón y Cajal Professor (tenure-track) at the Department Thermal and Fluid Engineering of the University Carlos III of Madrid. I am also currently leading the research line Water-Energy Nexus of the Department.
 
 My work focuses on the simulation and optimization of energy conversion processes using thermodynamic, economic and environmental criteria. The energy conversion processes I study include, among others, renewable- and fossil-based power plants,biofuel generation processes and zero-emission energy processes (including CO2 capture). 
+
+My **research lines** include:
+
+A) Simulation and evaluation of novel hybrid and other advanced energy conversion systems (including polygeneration)
+
+B) Regional renewable energy autonomy for social and environmental benefits
+
+C) Exergy-based methods for the optimization of energy systems: Application of thermodynamic, economic and environmental analyses for efficiency maximization and costs and environmental impact minimization
+
+D) The water-energy-climate nexus
+
+E) Automatization of existing and development of new optimization tools for energy systems
