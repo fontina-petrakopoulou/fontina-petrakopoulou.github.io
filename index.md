@@ -32,7 +32,7 @@ I am a Ramón y Cajal Professor (tenure-track) at the Department Thermal and Flu
 
 My work focuses on the simulation and optimization of energy conversion processes using thermodynamic, economic and environmental criteria. The energy conversion processes I study include, among others, renewable- and fossil-based power plants,biofuel generation processes and zero-emission energy processes (including CO2 capture). 
 
-My **research lines** include:
+My **research lines** are the following:
 
 A) Simulation and evaluation of novel hybrid and other advanced energy conversion systems (including polygeneration)
 
@@ -43,6 +43,7 @@ C) Exergy-based methods for the optimization of energy systems: Application of t
 D) The water-energy-climate nexus
 
 E) Automatization of existing and development of new optimization tools for energy systems
+
 
 **CONTACT**     
 University Carlos III of Madrid 
