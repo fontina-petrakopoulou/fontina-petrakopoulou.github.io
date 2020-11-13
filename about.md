@@ -4,9 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-[Curriculum Vitae](/files/CV_Petrakopoulou.pdf)    
-   
-[Google Scholar](https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en), [Research Gate](https://www.researchgate.net/profile/Fontina_Petrakopoulou), [ORCID](http://orcid.org/0000-0001-6878-4591) 
+[Curriculum Vitae](/files/CV_Petrakopoulou.pdf), [Google Scholar](https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en), [Research Gate](https://www.researchgate.net/profile/Fontina_Petrakopoulou), [ORCID](http://orcid.org/0000-0001-6878-4591) 
 
 
    
