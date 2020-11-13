@@ -5,12 +5,12 @@ permalink: /
 ---
 
 <!-- ![Fontina Petrakopoulou](/files/1_.png){:style="float: left;margin-right: 20px;margin-top: 7px;" width="50px"} -->
-<img src="/files/4.png" alt="Fontina Petrakopoulou" width="200px" style="float: left;margin-right: 40px;margin-top: 7px;">
+<img src="/files/4.png" alt="Fontina Petrakopoulou" width="200px" style="float: left;margin-right: 540px;margin-top: 7px;">
 
+[<img src="/files/orcid-logo.png" alt="Fontina Petrakopoulou" width="50px" style="float: left;margin-right: 40px;margin-top: 7px;">](http://orcid.org/0000-0001-6878-4591)   
 [<img src="/files/googlelogo.png" alt="Fontina Petrakopoulou" width="50px" style="float: left;margin-right: 40px;margin-top: 7px;">](https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en)         
 [<img src="/files/researchgate-dss.png" alt="Fontina Petrakopoulou" width="50px" style="float: left;margin-right: 40px;margin-top: 7px;">](https://www.researchgate.net/profile/Fontina_Petrakopoulou)                  
-[<img src="/files/orcid-logo.png" alt="Fontina Petrakopoulou" width="50px" style="float: left;margin-right: 40px;margin-top: 7px;">](http://orcid.org/0000-0001-6878-4591)             
-
+          
 
 [Curriculum Vitae](/files/CV_Petrakopoulou.pdf) 
   
