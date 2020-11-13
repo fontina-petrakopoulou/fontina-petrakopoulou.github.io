@@ -40,8 +40,7 @@ I have taught courses on heat transfer and the optimization of thermodynamic sys
 -	Juan de la Cierva, Ministerio de Economía y Competitividad, Gobierno de España (2016)   
 -	Marie Curie Action Intra-European Individual Fellowship (PEOPLE-IEF), European Commission’s Seventh Framework Programme (2013-2015)   
 -	Marie Curie Action COFUND, European Commission’s Seventh Framework Programme (2011-2013)    
--	For completing the Dissertation studies from the Technical University of Berlin (Promotionsabschlussstipendium der Frauenbeauftragte) (2010)   
--	INSPIRE Marie Curie Research Training Network MRTN-CT-2005-019296, European Commission’s Sixth Framework Programme (2006-2009)   
+-	For completing the Dissertation studies from the Technical University of Berlin (Promotionsabschlussstipendium der Frauenbeauftragte) (2010) -	INSPIRE Marie Curie Research Training Network MRTN-CT-2005-019296, European Commission’s Sixth Framework Programme (2006-2009)   
 
 **PRIZES AND AWARDS**
 
@@ -52,19 +51,16 @@ I have taught courses on heat transfer and the optimization of thermodynamic sys
 -	Best paper delivered at the International Conference on Optimization Using Exergy-Based Methods and Computational Fluid Dynamics, 2009; Committee: D. Moorhouse (Air force Research Laboratories, USA), G. Tsatsaronis (Technical University of Berlin, Germany), R. Weber (Technical University of Clausthal, Germany)
 
 **Selected publications** (For full list see [here](http://fontina-petrakopoulou.github.io/publications/))  
-   *Since 2010, I have published 44 peer-reviewed journal papers. I am the first author in 32 of these papers and sole author in 3 (three more are currently in preparation). I have also published 2 chapters in books, 5 technical reports and written 2 sets of lecture notes.*
    
 Gonzalez-Gomez P.A., Petrakopoulou F., Briongos J.V., Santana D., 2017. Cost-based design optimization of the heat exchangers in a parabolic trough concentrating solar power planta, Energy 123, 314-325.   
    
 Petrakopoulou F., 2016. On the economics of stand-alone renewable hybrid power plants in remote regions, Energy Conversion and Management 118, 63-74.   
    
-Petrakopoulou F., Robinson A., Loizidou M., 2016. Simulation and analysis of a stand-alone solar-wind and pumped-storage hydropower planta, Energy 96, 676-683.   
+Petrakopoulou F., Robinson A., Loizidou M., 2016. Simulation and analysis of a stand-alone solar-wind and pumped-storage hydropower plant, Energy 96, 676-683.   
    
 Petrakopoulou F., Sanz-Bermejo J., Dufour J., Romero, M., 2016. Exergetic Analysis of Hybrid Power Plants with Biomass and Photovoltaics Coupled with a Solid-Oxide Electrolysis System, Energy 94, 304-315.   
    
 Peters J., Petrakopoulou F., Dufour J. 2015. Exergy analysis of synthetic biofuel production via fast pyrolysis and hydroupgrading, Energy 79, 325-336.   
-   
-Petrakopoulou F., Tsatsaronis G., 2014. Can Carbon Dioxide Capture and Storage from Power Plants Reduce the Environmental Impact of Electricity Generation, ACS Energy &amp; Fuels, 28(8), 5327 5338.   
    
 Petrakopoulou F., Lee Y.D., Tsatsaronis G., 2014. Simulation and Exergetic evaluation of CO2 capture in a solid oxide fuel cell combined cycle power planta, Applied Energy 114, 417-425.   
    
