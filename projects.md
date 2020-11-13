@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My projects
+title: Projects
 permalink: /projects/
 ---
 05/2017 – 04/2018   
