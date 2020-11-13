@@ -7,13 +7,15 @@ permalink: /
 <!-- ![Fontina Petrakopoulou](/files/1_.png){:style="float: left;margin-right: 20px;margin-top: 7px;" width="50px"} -->
 <img src="/files/4.png" alt="Fontina Petrakopoulou" width="200px" style="float: left;margin-right: 60px;margin-top: 7px;margin-bottom: 7px">
 
-**Contact**     
+*Contact     
 University Carlos III of Madrid 
 Avda. de la universidad 30  
 28911 Leganés (Madrid)  
 Phone number: +34 91 624 9935   
 Office: 1.1.D.3 (Edificio Betancourt, Campus Leganes)   
 Email: fpetrako@ing.uc3m.es  
+
+*
 
 I am a Ramón y Cajal Professor (tenure-track) at the Department Thermal and Fluid Engineering of the University Carlos III of Madrid. I am always looking for motivated students and researchers to come work with me and be part of a forward thinking research group. I am open to new ideas and I support innovative and attractive proposals. Contact me by e-mail at fpetrako@ing.uc3m.es with a CV and your research interests.  
 
