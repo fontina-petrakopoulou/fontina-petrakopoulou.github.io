@@ -9,10 +9,11 @@ permalink: /
 
 ***Contact**   
 University Carlos III of Madrid 
+
 Avda. de la universidad 30  
 28911 Leganés (Madrid)  
 Phone number: +34 91 624 9935   
-Office: 1.1.D.3 (Edificio Betancourt, Campus Leganes)   
+Office: 1.1.D.3 (Edificio Betancourt)   
 Email: fpetrako@ing.uc3m.es*
 
 [<img src="/files/orcid-logo.png" alt="Fontina Petrakopoulou" width="60px" style="float: left;margin-right: 40px;margin-top: 1px;">](http://orcid.org/0000-0001-6878-4591)
