@@ -1,6 +1,6 @@
 ---
 layout: page
-<!--title: Research lines-->
+title: Research lines
 permalink: /research/
 ---
 
