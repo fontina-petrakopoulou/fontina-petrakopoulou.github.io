@@ -7,13 +7,13 @@ permalink: /
 <!-- ![Fontina Petrakopoulou](/files/1_.png){:style="float: left;margin-right: 20px;margin-top: 7px;" width="50px"} -->
 <img src="/files/4.png" alt="Fontina Petrakopoulou" width="200px" style="float: left;margin-right: 60px;margin-top: 7px;margin-bottom: 5px">
 
-**Contact**   
+***Contact**   
 University Carlos III of Madrid 
 Avda. de la universidad 30  
 28911 Leganés (Madrid)  
 Phone number: +34 91 624 9935   
 Office: 1.1.D.3 (Edificio Betancourt, Campus Leganes)   
-Email: fpetrako@ing.uc3m.es
+Email: fpetrako@ing.uc3m.es*
 
 [<img src="/files/orcid-logo.png" alt="Fontina Petrakopoulou" width="60px" style="float: left;margin-right: 40px;margin-top: 1px;">](http://orcid.org/0000-0001-6878-4591)
 [<img src="/files/googlelogo.png" alt="Fontina Petrakopoulou" width="60px" style="float: left;margin-right: 40px;margin-top: 1px;">](https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en)
