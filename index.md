@@ -8,6 +8,12 @@ permalink: /
 <img src="/files/4.png" alt="Fontina Petrakopoulou" width="200px" style="float: left;margin-right: 20px;margin-top: 7px;">
 
 
+
+
+
+
+
+
 [Curriculum Vitae](/files/CV_Petrakopoulou.pdf), [Google Scholar](https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en), [Research Gate](https://www.researchgate.net/profile/Fontina_Petrakopoulou), [ORCID](http://orcid.org/0000-0001-6878-4591) 
   
   
@@ -28,9 +34,9 @@ D) The water-energy-climate nexus
 E) Automatization of existing and development of new optimization tools for energy systems
 
 **CONTACT**     
-University Carlos III of Madrid
-Avda. de la universidad 30
-28911 Leganés (Madrid)
+University Carlos III of Madrid 
+Avda. de la universidad 30  
+28911 Leganés (Madrid)  
 Phone number: +34 91 624 9935   
 Office: 1.1.D.3 (Edificio Betancourt, Campus Leganes)   
 Email: fpetrako@ing.uc3m.es  
