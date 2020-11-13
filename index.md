@@ -8,13 +8,13 @@ permalink: /
 <img src="/files/4.png" alt="Fontina Petrakopoulou" width="200px" style="float: left;margin-right: 60px;margin-top: 7px;margin-bottom: 7px">
 
 <br>
-*Contact     
+**Contact**   
 University Carlos III of Madrid 
 Avda. de la universidad 30  
 28911 Leganés (Madrid)  
 Phone number: +34 91 624 9935   
 Office: 1.1.D.3 (Edificio Betancourt, Campus Leganes)   
-Email: fpetrako@ing.uc3m.es*
+Email: fpetrako@ing.uc3m.es
 
 <br>
 
