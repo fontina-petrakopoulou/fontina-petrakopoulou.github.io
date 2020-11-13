@@ -15,7 +15,7 @@ Phone number: +34 91 624 9935
 Office: 1.1.D.3 (Edificio Betancourt, Campus Leganes)   
 Email: fpetrako@ing.uc3m.es
 
-[<img src="/files/orcid-logo.png" alt="Fontina Petrakopoulou" width="60px" style="float: left;margin-right: 40px;margin-top: 7px;">](http://orcid.org/0000-0001-6878-4591)
+[<img src="/files/orcid-logo.png" alt="Fontina Petrakopoulou" width="60px" style="float: left;margin-right: 40px;margin-top: 2px;">](http://orcid.org/0000-0001-6878-4591)
 [<img src="/files/googlelogo.png" alt="Fontina Petrakopoulou" width="60px" style="float: left;margin-right: 40px;margin-top: 7px;">](https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en)
 [<img src="/files/researchgate-dss.png" alt="Fontina Petrakopoulou" width="30px" style="float: left;margin-right: 40px;margin-top: 7px;">](https://www.researchgate.net/profile/Fontina_Petrakopoulou) 
 <br>
