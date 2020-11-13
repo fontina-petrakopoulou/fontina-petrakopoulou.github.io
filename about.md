@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-[<img src="/files/orcid-logo.png" alt="Fontina Petrakopoulou" width="80px" style="float: left;margin-right: 40px;margin-top: 7px;">](http://orcid.org/0000-0001-6878-4591)[<img src="/files/googlelogo.png" alt="Fontina Petrakopoulou" width="80px" style="float: left;margin-right: 40px;margin-top: 7px;">](https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en)[<img src="/files/researchgate-dss.png" alt="Fontina Petrakopoulou" width="40px" style="float: left;margin-right: 200px;margin-top: 7px;">](https://www.researchgate.net/profile/Fontina_Petrakopoulou)    
+[<img src="/files/orcid-logo.png" alt="Fontina Petrakopoulou" width="80px" style="float: left;margin-right: 40px;margin-top: 7px;">](http://orcid.org/0000-0001-6878-4591)[<img src="/files/googlelogo.png" alt="Fontina Petrakopoulou" width="80px" style="float: left;margin-right: 40px;margin-top: 7px;">](https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en)[<img src="/files/researchgate-dss.png" alt="Fontina Petrakopoulou" width="40px" style="float: left;margin-right: 240px;margin-top: 7px;">](https://www.researchgate.net/profile/Fontina_Petrakopoulou)    
 
    
 I am a Ramón y Cajal Professor (tenure-track) at the Department Thermal and Fluid Engineering of the University Carlos III of Madrid. I am also currently leading the research line Water-Energy Nexus of the Department.
