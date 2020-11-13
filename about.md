@@ -4,15 +4,6 @@ title: About me
 permalink: /about/
 ---
 
-**CONTACT**  
-Avda. de la universidad 30
-28911 Leganés (Madrid)
-Spain
-Office: 1.1.D.3 (Edificio Betancourt, Campus Leganes)   
-Phone number: +34 91 624 9935   
-Email: fpetrako@ing.uc3m.es  
-
-
 [Curriculum Vitae](/files/CV_Petrakopoulou.pdf)    
    
 [Google Scholar](https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en), [Research Gate](https://www.researchgate.net/profile/Fontina_Petrakopoulou), [ORCID](http://orcid.org/0000-0001-6878-4591) 
