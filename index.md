@@ -16,8 +16,8 @@ Office: 1.1.D.3 (Edificio Betancourt, Campus Leganes)
 Email: fpetrako@ing.uc3m.es
 
 [<img src="/files/orcid-logo.png" alt="Fontina Petrakopoulou" width="60px" style="float: left;margin-right: 40px;margin-top: 2px;">](http://orcid.org/0000-0001-6878-4591)
-[<img src="/files/googlelogo.png" alt="Fontina Petrakopoulou" width="60px" style="float: left;margin-right: 40px;margin-top: 7px;">](https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en)
-[<img src="/files/researchgate-dss.png" alt="Fontina Petrakopoulou" width="30px" style="float: left;margin-right: 40px;margin-top: 7px;">](https://www.researchgate.net/profile/Fontina_Petrakopoulou) 
+[<img src="/files/googlelogo.png" alt="Fontina Petrakopoulou" width="60px" style="float: left;margin-right: 40px;margin-top: 2px;">](https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en)
+[<img src="/files/researchgate-dss.png" alt="Fontina Petrakopoulou" width="30px" style="float: left;margin-right: 40px;margin-top: 2px;">](https://www.researchgate.net/profile/Fontina_Petrakopoulou) 
 <br>
 
 I am a Ramón y Cajal Professor (tenure-track) at the Department Thermal and Fluid Engineering of the University Carlos III of Madrid. I am always looking for motivated students and researchers to come work with me and be part of a forward thinking research group. I am open to new ideas and I support innovative and attractive proposals. Contact me by e-mail at fpetrako@ing.uc3m.es with a CV and your research interests.  
