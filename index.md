@@ -5,17 +5,10 @@ permalink: /
 ---
 
 <!-- ![Fontina Petrakopoulou](/files/1_.png){:style="float: left;margin-right: 20px;margin-top: 7px;" width="50px"} -->
-<img src="/files/4.png" alt="Fontina Petrakopoulou" width="200px" style="float: left;margin-right: 40px;margin-top: 7px;">
+<img src="/files/4.png" alt="Fontina Petrakopoulou" width="200px" style="float: left;margin-right: 540px;margin-top: 7px;">
 
-[<img src="/files/orcid-logo.png" alt="Fontina Petrakopoulou" width="100px" style="float: left;margin-right: 200px;margin-top: 7px;">](http://orcid.org/0000-0001-6878-4591)   
-[<img src="/files/googlelogo.png" alt="Fontina Petrakopoulou" width="100px" style="float: left;margin-right: 300px;margin-top: 7px;">](https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en)     
-[<img src="/files/researchgate-dss.png" alt="Fontina Petrakopoulou" width="50px" style="float: left;margin-right: 300px;margin-top: 7px;">](https://www.researchgate.net/profile/Fontina_Petrakopoulou)    
-
-          
-
-[Curriculum Vitae](/files/CV_Petrakopoulou.pdf) 
   
-
+I am looking for motivated, creative and well qualified Ph.D. and postdoctoral researchers to come work with me and be part of a forward thinking group on the cutting edge of the research group. I am open to new ideas and I am willing to support innovative and attractive proposals. Feel free to contact me with a CV at fpetrako@ing.uc3m.es. 
 
 I am a Ramón y Cajal Professor (tenure-track) at the Department Thermal and Fluid Engineering of the University Carlos III of Madrid. I am also currently leading the research line Water-Energy Nexus of the Department.
 
@@ -33,6 +26,12 @@ D) [The water-energy-climate nexus](http://fontina-petrakopoulou.github.io/resea
 
 E) [Automatization of existing and development of new optimization tools for energy systems](http://fontina-petrakopoulou.github.io/researchlineE/)
             
+[<img src="/files/orcid-logo.png" alt="Fontina Petrakopoulou" width="80px" style="float: left;margin-right: 200px;margin-top: 7px;">](http://orcid.org/0000-0001-6878-4591)   
+[<img src="/files/googlelogo.png" alt="Fontina Petrakopoulou" width="80px" style="float: left;margin-right: 300px;margin-top: 7px;">](https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en)     
+[<img src="/files/researchgate-dss.png" alt="Fontina Petrakopoulou" width="40px" style="float: left;margin-right: 300px;margin-top: 7px;">](https://www.researchgate.net/profile/Fontina_Petrakopoulou)    
+
+          
+[Curriculum Vitae](/files/CV_Petrakopoulou.pdf) 
                
 **CONTACT**     
 University Carlos III of Madrid 
