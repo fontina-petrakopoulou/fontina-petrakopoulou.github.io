@@ -13,9 +13,9 @@ Avda. de la universidad 30
 28911 Leganés (Madrid)  
 Phone number: +34 91 624 9935   
 Office: 1.1.D.3 (Edificio Betancourt, Campus Leganes)   
-Email: fpetrako@ing.uc3m.es  
+Email: fpetrako@ing.uc3m.es*
 
-*
+<\br>
 
 I am a Ramón y Cajal Professor (tenure-track) at the Department Thermal and Fluid Engineering of the University Carlos III of Madrid. I am always looking for motivated students and researchers to come work with me and be part of a forward thinking research group. I am open to new ideas and I support innovative and attractive proposals. Contact me by e-mail at fpetrako@ing.uc3m.es with a CV and your research interests.  
 
