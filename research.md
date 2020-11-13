@@ -6,7 +6,7 @@ permalink: /research/
 
 My research lines are:
 
-A) [Simulation and evaluation of novel hybrid and other advanced energy conversion systems (including polygeneration)](http://fontina-petrakopoulou.github.io/research_a/) 
+A) [Simulation and evaluation of novel hybrid and other advanced energy conversion systems (including polygeneration)](http://fontina-petrakopoulou.github.io/researchlineA/) 
 
 B) Regional renewable energy autonomy for social and environmental benefits
 
