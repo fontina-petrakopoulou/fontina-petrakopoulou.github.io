@@ -8,7 +8,7 @@ permalink: /
 <img src="/files/4.png" alt="Fontina Petrakopoulou" width="200px" style="float: left;margin-right: 540px;margin-top: 7px;">
 
   
-I am a Ramón y Cajal Professor (tenure-track) at the Department Thermal and Fluid Engineering of the University Carlos III of Madrid. I am always looking for motivated, creative and well qualified students and researchers to come work with me and be part of a forward thinking research group. I am open to new ideas and I am willing to support innovative and attractive proposals. You can contact me by e-mail at fpetrako@ing.uc3m.es with a CV and your research interests and ideas.  
+I am a Ramón y Cajal Professor (tenure-track) at the Department Thermal and Fluid Engineering of the University Carlos III of Madrid. I am always looking for motivated students and researchers to come work with me and be part of a forward thinking research group. I am open to new ideas and I support innovative and attractive proposals. Contact me by e-mail at fpetrako@ing.uc3m.es with a CV and your research interests.  
 
 My work focuses on the simulation and optimization of energy conversion processes using thermodynamic, economic and environmental criteria. The energy conversion processes I study include, among others, renewable- and fossil-based power plants, biofuel generation processes and zero-emission energy processes (including CO2 capture). 
 
