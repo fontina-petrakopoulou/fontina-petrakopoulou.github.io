@@ -5,9 +5,16 @@ permalink: /
 ---
 
 <!-- ![Fontina Petrakopoulou](/files/1_.png){:style="float: left;margin-right: 20px;margin-top: 7px;" width="50px"} -->
-<img src="/files/4.png" alt="Fontina Petrakopoulou" width="200px" style="float: left;margin-right: 55px;margin-top: 7px;margin-bottom: 7px">
+<img src="/files/4.png" alt="Fontina Petrakopoulou" width="200px" style="float: left;margin-right: 400px;margin-top: 7px;margin-bottom: 7px">
 
-  
+*Contact*     
+University Carlos III of Madrid 
+Avda. de la universidad 30  
+28911 Leganés (Madrid)  
+Phone number: +34 91 624 9935   
+Office: 1.1.D.3 (Edificio Betancourt, Campus Leganes)   
+Email: fpetrako@ing.uc3m.es  
+
 I am a Ramón y Cajal Professor (tenure-track) at the Department Thermal and Fluid Engineering of the University Carlos III of Madrid. I am always looking for motivated students and researchers to come work with me and be part of a forward thinking research group. I am open to new ideas and I support innovative and attractive proposals. Contact me by e-mail at fpetrako@ing.uc3m.es with a CV and your research interests.  
 
 My work focuses on the simulation and optimization of energy conversion processes using thermodynamic, economic and environmental criteria. The energy conversion processes I study include, among others, renewable- and fossil-based power plants, biofuel generation processes and zero-emission energy processes (including CO2 capture). 
@@ -30,12 +37,3 @@ E) [Automatization of existing and development of new optimization tools for ene
 [<img src="/files/orcid-logo.png" alt="Fontina Petrakopoulou" width="80px" style="float: left;margin-right: 40px;margin-top: 7px;">](http://orcid.org/0000-0001-6878-4591)
 [<img src="/files/googlelogo.png" alt="Fontina Petrakopoulou" width="80px" style="float: left;margin-right: 40px;margin-top: 7px;">](https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en)
 [<img src="/files/researchgate-dss.png" alt="Fontina Petrakopoulou" width="40px" style="float: left;margin-right: 20px;margin-top: 7px;">](https://www.researchgate.net/profile/Fontina_Petrakopoulou)    
- 
-               
-**CONTACT**     
-University Carlos III of Madrid 
-Avda. de la universidad 30  
-28911 Leganés (Madrid)  
-Phone number: +34 91 624 9935   
-Office: 1.1.D.3 (Edificio Betancourt, Campus Leganes)   
-Email: fpetrako@ing.uc3m.es  
