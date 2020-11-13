@@ -40,7 +40,8 @@ I have taught courses on heat transfer and the optimization of thermodynamic sys
 -	Juan de la Cierva, Ministerio de Economía y Competitividad, Gobierno de España (2016)   
 -	Marie Curie Action Intra-European Individual Fellowship (PEOPLE-IEF), European Commission’s Seventh Framework Programme (2013-2015)   
 -	Marie Curie Action COFUND, European Commission’s Seventh Framework Programme (2011-2013)    
--	For completing the Dissertation studies from the Technical University of Berlin (Promotionsabschlussstipendium der Frauenbeauftragte) (2010) -	INSPIRE Marie Curie Research Training Network MRTN-CT-2005-019296, European Commission’s Sixth Framework Programme (2006-2009)   
+-	For completing the Dissertation studies from the Technical University of Berlin (Promotionsabschlussstipendium der Frauenbeauftragte) (2010)          
+-	INSPIRE Marie Curie Research Training Network MRTN-CT-2005-019296, European Commission’s Sixth Framework Programme (2006-2009)   
 
 **PRIZES AND AWARDS**
 
