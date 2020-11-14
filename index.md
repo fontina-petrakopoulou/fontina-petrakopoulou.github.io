@@ -19,7 +19,7 @@ Email: fpetrako@ing.uc3m.es*
 [<img src="/files/researchgate-dss.png" alt="Fontina Petrakopoulou" width="30px" style="float: left;margin-right: 40px;margin-top: 0px;">](https://www.researchgate.net/profile/Fontina_Petrakopoulou) 
 <br>
 
-I am a Ramón y Cajal Professor (tenure-track) at the Department Thermal and Fluid Engineering of the University Carlos III of Madrid. My work focuses on the simulation and optimization of energy conversion processes using thermodynamic, economic and environmental criteria. The systems I study include, among others, renewable- and fossil-based power plants, biofuel generation processes and zero-emission energy processes (including CO2 capture). 
+My work focuses on the simulation and optimization of energy conversion processes using thermodynamic, economic and environmental criteria. The systems I study include, among others, renewable- and fossil-based power plants, biofuel generation processes and zero-emission energy processes (including CO2 capture). 
 
 Take a look at my [**research lines** here](http://fontina-petrakopoulou.github.io/research/).
 
