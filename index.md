@@ -14,7 +14,7 @@ Avda. de la universidad 30
 Office: 1.1.D.3 (Edificio Betancourt)   
 email: fpetrako@ing.uc3m.es*
 
-[<img src="/files/orcid-logo.png" alt="Fontina Petrakopoulou" width="60px" style="float: left;margin-right: 40px;margin-top: 1px;">](http://orcid.org/0000-0001-6878-4591)
+[<img src="/files/orcid-logo.png" alt="Fontina Petrakopoulou" width="60px" style="float: left;margin-right: 40px;margin-top: 2px;">](http://orcid.org/0000-0001-6878-4591)
 [<img src="/files/Scholar.png" alt="Fontina Petrakopoulou" width="130px" style="float: left;margin-right: 40px;margin-top: 0px;">](https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en)
 [<img src="/files/researchgate-dss.png" alt="Fontina Petrakopoulou" width="30px" style="float: left;margin-right: 40px;margin-top: 0px;">](https://www.researchgate.net/profile/Fontina_Petrakopoulou) 
 <br>
