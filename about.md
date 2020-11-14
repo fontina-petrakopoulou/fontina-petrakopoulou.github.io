@@ -70,4 +70,4 @@ Petrakopoulou F., Tsatsaronis G., Morosuk T., Carassai A., 2012. **Conventional 
    
 Petrakopoulou F., Boyano A., Cabrera M., Tsatsaronis G., 2011. **Exergoeconomic and exergoenvironmental analyses of a combined cycle power plant with chemical looping technology**, International Journal of Greenhouse Gas Control 5 (3), pp. 475-482. 
 
-[Complete Curriculum Vitae](/files/CV_Petrakopoulou.pdf)
+[Complete Curriculum Vitae](/files/Curriculum Vitae EN_Petrakopoulou.pdf)
