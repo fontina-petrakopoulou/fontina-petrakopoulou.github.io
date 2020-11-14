@@ -4,15 +4,15 @@ title: Projects
 permalink: /projects/
 ---
 
-06/2018 – 05/2023
-**Ramón y Cajal**
-*Selected first in the area of mechanical and aerospace engineering*
-&nbsp;&nbsp;&nbsp;&nbsp;_Supported by:_ Ministry of science, innovation and universities
+06/2018 – 05/2023 <b>
+**Ramón y Cajal** <b>
+*Selected first in the area of mechanical and aerospace engineering* <b>
+&nbsp;&nbsp;&nbsp;&nbsp;_Supported by:_ Ministry of science, innovation and universities <b>
 &nbsp;&nbsp;&nbsp;&nbsp;_Project duration:_ 60 months (start June 2018)
 
-09/2017 – 08/2018
-**Improvement of the air intake system in the nacelle of a wind turbine (Mejora del sistema de admisión de aire en la góndola de un aerogenerador**
-&nbsp;&nbsp;&nbsp;&nbsp;_Supported by:_ Foundation IBERDROLA
+09/2017 – 08/2018<b>
+**Improvement of the air intake system in the nacelle of a wind turbine (Mejora del sistema de admisión de aire en la góndola de un aerogenerador**<b>
+&nbsp;&nbsp;&nbsp;&nbsp;_Supported by:_ Foundation IBERDROLA<b>
 &nbsp;&nbsp;&nbsp;&nbsp;_Project duration:_ 12 months (start September 2017)
 
 05/2017 – 04/2018   
