@@ -21,7 +21,7 @@ email: fpetrako@ing.uc3m.es*
 
 My work focuses on the simulation and optimization of energy conversion processes using thermodynamic, economic and environmental criteria. The systems I study include, among others, renewable- and fossil-based power plants, biofuel generation processes and zero-emission energy processes (including CO2 capture). 
 
-Take a look at my [**research lines** here](http://fontina-petrakopoulou.github.io/research/).
+Take a look at [my **research lines** here](http://fontina-petrakopoulou.github.io/research/).
 
 I am always looking for motivated students and researchers to come work with me and be part of a forward thinking research group. I am open to new ideas and I support innovative and attractive proposals. Contact me by e-mail with a CV and your research interests. 
 
