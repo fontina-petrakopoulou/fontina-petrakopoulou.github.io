@@ -9,7 +9,7 @@
 title: Fontina Petrakopoulou
 email: fpetrako@ing.uc3m.es
 description: > # this means to ignore newlines until "baseurl:"
-  Ramón y Cajal Professor    
+  Ramón y Cajal Professor<b>    
   at Universidad Carlos III de Madrid
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
