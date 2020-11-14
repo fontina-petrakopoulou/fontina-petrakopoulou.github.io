@@ -13,4 +13,4 @@ In this work, we realize dynamic simulations of complex plants to sattisfy restr
 Combination of energy resources and technologies: Natural gas, RES (solar thermal and PV, wind, geothermal, hydropower), desalination, heat pumps, refrigeration units, electrolysis, fuel cells, wastewater treatment
 Products: power, thermal energy, water, salt
 
-<img src="/files/figs/RLA.png" alt="Fontina Petrakopoulou" width="600px" style="float: left;margin-right: 20px;margin-top: 5px;margin-bottom: 5px">
+<img src="/files/figs/RLA.png" alt="Fontina Petrakopoulou" width="900px" style="float: center;margin-right: 10px;margin-top: 5px;margin-bottom: 5px">
