@@ -11,4 +11,6 @@ Advanced exergetic, exergoeconomic and exergoenvironmental analyses provide valu
 
 <img src="/files/figs/RLC.png" alt="RLC" width="1100px" style="float: center;margin-right: 0px;margin-top: 5px;margin-bottom: 5px">
 
-We are currently developing a method combining social environmental impacts with exergy-based methods relevant to develop a multicriteria tool for the more complete evaluation of energy systems.
+This work includes the further development and application of conventional and advanced exergy-based methods. This involves the development of code in open-source programming languages for the realization of exergy-based analyses and their automization for easy application to complex structures. 
+
+I am currently developing a method to combine social environmental impacts (externalities) of energy conversion systems with exergy-based methods to develop a multicriteria tool for the more complete evaluation of energy systems.
