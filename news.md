@@ -6,7 +6,7 @@ permalink: /news/
 
 March 11, 2020  
 
-[**A New Way to Dry Cool Solar Thermal Power Plants – with Underground Air**](< a href=" https://www.solarpaces.org/a-new-way-to-dry-cool-thermal-power-plants-with-underground%E2%80%A8-air/" target="_blank" rel=“noreferrer noopener”> Tittle < /a >)
+< a href=" https://www.solarpaces.org/a-new-way-to-dry-cool-thermal-power-plants-with-underground%E2%80%A8-air/" target="_blank" rel=“noreferrer noopener”> **A New Way to Dry Cool Solar Thermal Power Plants – with Underground Air** < /a >
 
 <!--(https://www.solarpaces.org/a-new-way-to-dry-cool-thermal-power-plants-with-underground%E2%80%A8-air/)<br>-->
 Article published on SolarPACES.org by Susan Kraemer
