@@ -6,7 +6,7 @@ permalink: /news/
 
 March 11, 2020  
 
-**A New Way to Dry Cool Solar Thermal Power Plants – with Underground-Air**
+**A New Way to Dry Cool Solar Thermal Power Plants – with Underground Air**
 
 By Susan Kraemer 
 
