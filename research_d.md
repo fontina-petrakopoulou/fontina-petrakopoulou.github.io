@@ -12,7 +12,7 @@ Wise water-energy choices require good information about the problem and robust 
 
 To study the impact of limited water resources on the energy sector, energy, water, and climate need to be treated together. The increasing value of water can create new opportunities for novel sustainability measures, including coupled energy/water applications and advanced processes for wastewater treatment and reuse.
 
-<img src="/files/figs/RLD.png" alt="RLDa" width="800px" style="float: center;margin-right: 0px;margin-top: 5px;margin-bottom: 5px">
+<img src="/files/figs/RLD.png" alt="RLDa" width="700px" style="float: center;margin-right: 0px;margin-top: 5px;margin-bottom: 5px">
 
 This work involves research on the elimination of water use in power plants by replacing conventional water-based cooling systems with alternative technologies and novel air-cooled technologies. [A proposed technology involving underground tunnels for solar power plants](https://www.mdpi.com/1996-1073/13/4/797/htm) was also [reported by SolarPACES](https://www.solarpaces.org/a-new-way-to-dry-cool-thermal-power-plants-with-underground%E2%80%A8-air/).   
 <img src="/files/figs/RLDb.png" alt="RLDb" width="500px" style="float: center;margin-left: 80px;margin-top: 5px;margin-bottom: 5px">
