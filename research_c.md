@@ -4,11 +4,11 @@ layout: page
 permalink: /researchlineC/ 
 ---
 
-**Exergy-based methods for the optimization of energy systems: Application of thermodynamic, economic and environmental analyses for efficiency maximization and costs and environmental impact minimization**
+**Exergy-based methods for the optimization of energy systems**
 
 
 
-Exergy-based analyses provide valuable information about how, and to what extent, a component of a complex plant affects the operation, costs and environmental impacts of other components and the operation and costs of the overall plant. In addition, these approaches reveal the real potential for improvement that can lead to plant optimization. Such results save engineering time and shed light onto the path of iterative optimization steps needed for optimizing the overall system. 
+Exergy-based analyses provide valuable information about how to maximize **efficiency** and minimize **costs** and **environmental impacts**. Advanced exergy-based methods further reveal how, and to what extent, a component of a complex plant affects the operation, costs and environmental impacts of other components and the operation and costs of the overall plant. These approaches reveal the real potential for improvement that can lead to plant optimization. Such results save engineering time and shed light onto the path of iterative optimization steps needed for optimizing the overall system. 
 
 Although exergy-based methods are a very valuable tool for the evaluation and optimization of complex energy systems, they suffer from some shortcomings that hinder their wider use. These shortcomings include the complexity of the application of the methods and uncertainty of specific theoretical aspects of the methods.
 
