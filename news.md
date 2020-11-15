@@ -10,7 +10,7 @@ March 11, 2020
 By Susan Kraemer <br>
 Published on SolarPACES.org
 
-[<img src="/files/figs/News2.png" alt="Solarpaces" width="500px" style="float: center;margin-left: 50px;margin-top: 7px;margin-bottom: 5px">](https://www.solarpaces.org/a-new-way-to-dry-cool-thermal-power-plants-with-underground%E2%80%A8-air/)
+[<img src="/files/figs/News2.png" alt="Solarpaces" width="400px" style="float: center;margin-left: 50px;margin-top: 7px;margin-bottom: 5px">](https://www.solarpaces.org/a-new-way-to-dry-cool-thermal-power-plants-with-underground%E2%80%A8-air/)
 
 -------------------------------------------------------------------------------
 
