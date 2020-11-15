@@ -6,7 +6,9 @@ permalink: /CV/
 
 I am a Ramón y Cajal Professor (tenure-track) at the Department Thermal and Fluid Engineering of the University Carlos III of Madrid. I am also currently leading the research line Water-Energy Nexus of the Department.
 
-My work focuses on the simulation and optimization of energy conversion processes using thermodynamic, economic and environmental criteria. The energy conversion processes I study include, among others, renewable- and fossil-based power plants,biofuel generation processes and zero-emission energy processes.
+My work focuses on the simulation and optimization of energy conversion processes using thermodynamic, economic and environmental criteria. The energy conversion processes I study include, among others, renewable- and fossil-based power plants,biofuel generation processes and zero-emission energy processes. 
+
+[My research lines are described here](http://fontina-petrakopoulou.github.io/research/).
 
 I teach courses on energy & water, thermal engineering, the optimization of thermodynamic systems and heat transfer and I have supervised a large number of bachelor and master theses. 
 
