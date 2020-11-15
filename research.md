@@ -8,7 +8,7 @@ I work on the design, simulation, evaluation and optimization of energy conversi
 
 My research lines are:
 
-A) [Simulation and evaluation of novel advanced energy conversion systems](http://fontina-petrakopoulou.github.io/researchlineA/) 
+A) [Simulation and evaluation of advanced energy conversion systems](http://fontina-petrakopoulou.github.io/researchlineA/) 
 
 B) [Regional renewable energy autonomy](http://fontina-petrakopoulou.github.io/researchlineB/)
 
