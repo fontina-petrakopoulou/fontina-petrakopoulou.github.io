@@ -7,8 +7,9 @@ permalink: /news/
 March 11, 2020  
 
 [**A New Way to Dry Cool Solar Thermal Power Plants – with Underground Air**](https://www.solarpaces.org/a-new-way-to-dry-cool-thermal-power-plants-with-underground%E2%80%A8-air/)<br>
-By Susan Kraemer <br>
-Published on SolarPACES.org based on [the paper *Earth-Cooling Air Tunnels for Thermal Power Plants: Initial Design by CFD Modelling* by E. de la Rocha Camba and F. Petrakopoulou](https://www.mdpi.com/1996-1073/13/4/797)
+Published on SolarPACES.org by Susan Kraemer<br>
+Article based on [the paper *Earth-Cooling Air Tunnels for Thermal Power Plants: Initial Design by CFD Modelling* <br>
+By Eduardo de la Rocha Camba and Fontina Petrakopoulou](https://www.mdpi.com/1996-1073/13/4/797)
 
 [<img src="/files/figs/News2.png" alt="Solarpaces" width="400px" style="float: center;margin-left: 80px;margin-top: 7px;margin-bottom: 5px">](https://www.solarpaces.org/a-new-way-to-dry-cool-thermal-power-plants-with-underground%E2%80%A8-air/)
 
@@ -19,7 +20,7 @@ Published on SolarPACES.org based on [the paper *Earth-Cooling Air Tunnels for T
 
 [**Fossil power, not guilt free**](https://science.sciencemag.org/content/356/6340/796/tab-e-letters) <br>
 By Fontina Petrakopoulou and Domingo Santana <br>
-eLetter published on Science about the paper *Fossil power, guilt free*
+eLetter published on Science about the article *Fossil power, guilt free*
 
 [<img src="/files/figs/News1b.png" alt="Comment_scienceb" width="300px" style="float: left;margin-left: 100px;margin-top: 7px;margin-bottom: 5px">](https://science.sciencemag.org/content/356/6340/796/tab-e-letters)
 [<img src="/files/figs/News1.png" alt="Comment_sciencea" width="300px" style="float: left;margin-left: 100px;margin-top: 7px;margin-bottom: 5px">](https://science.sciencemag.org/content/356/6340/796/tab-e-letters)
