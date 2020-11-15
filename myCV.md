@@ -8,9 +8,12 @@ I am a Ramón y Cajal Professor (tenure-track) at the Department Thermal and Flu
 
 My work focuses on the simulation and optimization of energy conversion processes using thermodynamic, economic and environmental criteria. The energy conversion processes I study include, among others, renewable- and fossil-based power plants,biofuel generation processes and zero-emission energy processes.
 
-I teach courses on heat transfer and the optimization of thermodynamic systems and I have supervised a large number of bachelor and master theses. You can find [my complete CV here](/files/Curriculum Vitae EN_Petrakopoulou.pdf). 
+I teach courses on heat transfer and the optimization of thermodynamic systems and I have supervised a large number of bachelor and master theses. 
 
-[<img src="/files/orcid-logo.png" alt="Fontina Petrakopoulou" width="80px" style="float: left;margin-right: 40px;margin-top: 7px;">](http://orcid.org/0000-0001-6878-4591)[<img src="/files/Scholar.png" alt="Fontina Petrakopoulou" width="150px" style="float: left;margin-right: 40px;margin-top: 5px;">](https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en)[<img src="/files/researchgate-dss.png" alt="Fontina Petrakopoulou" width="40px" style="float: left;margin-right: 60px;margin-top: 7px;">](https://www.researchgate.net/profile/Fontina_Petrakopoulou) 
+You can find [my complete CV here](/files/Curriculum Vitae EN_Petrakopoulou.pdf). 
+
+[<img src="/files/orcid-logo.png" alt="Fontina Petrakopoulou" width="80px" style="float: left;margin-right: 40px;margin-top: 7px;">](http://orcid.org/0000-0001-6878-4591)[<img src="/files/Scholar.png" alt="Fontina Petrakopoulou" width="150px" style="float: left;margin-right: 40px;margin-top: 5px;">](https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en)[<img src="/files/researchgate-dss.png" alt="Fontina Petrakopoulou" width="40px" style="float: left;margin-right: 60px;margin-top: 7px;">](https://www.researchgate.net/profile/Fontina_Petrakopoulou)       
+
 
 
 **EDUCATION**
