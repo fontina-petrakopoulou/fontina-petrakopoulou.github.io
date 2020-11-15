@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-permalink: /about/
+<!--title: My CV-->
+permalink: /CV/
 ---
 
 [<img src="/files/orcid-logo.png" alt="Fontina Petrakopoulou" width="80px" style="float: left;margin-right: 40px;margin-top: 7px;">](http://orcid.org/0000-0001-6878-4591)[<img src="/files/Scholar.png" alt="Fontina Petrakopoulou" width="150px" style="float: left;margin-right: 40px;margin-top: 5px;">](https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en)[<img src="/files/researchgate-dss.png" alt="Fontina Petrakopoulou" width="40px" style="float: left;margin-right: 60px;margin-top: 7px;">](https://www.researchgate.net/profile/Fontina_Petrakopoulou)    
