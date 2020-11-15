@@ -12,7 +12,7 @@ Article published on SolarPACES.org by Susan Kraemer
 Based on <a href="https://www.mdpi.com/1996-1073/13/4/797" target="_blank"><b>the paper *Earth-Cooling Air Tunnels for Thermal Power Plants: Initial Design by CFD Modelling*</b></a><br>
 By Eduardo de la Rocha Camba and Fontina Petrakopoulou<br>
 
-[<img src="/files/figs/News2.png" alt="Solarpaces" target="_blank" width="400px" style="float: center;margin-left: 80px;margin-top: 7px;margin-bottom: 5px">](https://www.solarpaces.org/a-new-way-to-dry-cool-thermal-power-plants-with-underground%E2%80%A8-air/)
+[<img src="/files/figs/News2.png" alt="Solarpaces" target="blank" width="400px" style="float: center;margin-left: 80px;margin-top: 7px;margin-bottom: 5px">](https://www.solarpaces.org/a-new-way-to-dry-cool-thermal-power-plants-with-underground%E2%80%A8-air/)
 
 -------------------------------------------------------------------------------
 
