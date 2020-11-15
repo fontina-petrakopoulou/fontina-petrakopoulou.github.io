@@ -13,7 +13,6 @@ permalink: /projects/
 
 09/2017 – 08/2018   
 **Improvement of the air intake system in the nacelle of a wind turbine (Mejora del sistema de admisión de aire en la góndola de un aerogenerador**   
-&nbsp;&nbsp;&nbsp;&nbsp;_Principal investigator:_ Dr. Carolina Marugan Cruz
 &nbsp;&nbsp;&nbsp;&nbsp;_Supported by:_ Foundation IBERDROLA    
 &nbsp;&nbsp;&nbsp;&nbsp;_Project duration:_ 12 months (start September 2017)
 
