@@ -10,12 +10,8 @@ I believe that in order to limit the environmental impacts of increasing global 
 
 My research lines are:
 
-A) [Simulation and evaluation of advanced energy conversion systems](http://fontina-petrakopoulou.github.io/researchlineA/) 
-
-B) [Regional renewable energy autonomy](http://fontina-petrakopoulou.github.io/researchlineB/)
-
-C) [Exergy-based methods for the optimization of energy systems](http://fontina-petrakopoulou.github.io/researchlineC/)
-
-D) [The water-energy-climate nexus](http://fontina-petrakopoulou.github.io/researchlineD/)
-
-E) [Automatization of existing and development of new optimization tools](http://fontina-petrakopoulou.github.io/researchlineE/)
+A) [Simulation and evaluation of advanced energy conversion systems](http://fontina-petrakopoulou.github.io/researchlineA/) <br>
+B) [Regional renewable energy autonomy](http://fontina-petrakopoulou.github.io/researchlineB/)<br>
+C) [Exergy-based methods for the optimization of energy systems](http://fontina-petrakopoulou.github.io/researchlineC/)<br>
+D) [The water-energy-climate nexus](http://fontina-petrakopoulou.github.io/researchlineD/)<br>
+E) [Automatization of existing and development of new optimization tools](http://fontina-petrakopoulou.github.io/researchlineE/)<br>
