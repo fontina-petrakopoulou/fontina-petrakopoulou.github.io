@@ -14,8 +14,8 @@ To study the impact of limited water resources on the energy sector, energy, wat
 
 <img src="/files/figs/RLD.png" alt="RLDa" width="800px" style="float: center;margin-right: 0px;margin-top: 5px;margin-bottom: 5px">
 
-This work involves research on the elimination of water use in power plants by replacing conventional water-based cooling systems with alternative technologies and novel air-cooled technologies. A proposed technology involving underground tunnels for solar power plants was also [published by SolarPACES](https://www.solarpaces.org/a-new-way-to-dry-cool-thermal-power-plants-with-underground%E2%80%A8-air/).   
-<img src="/files/figs/RLDb.png" alt="RLDb" width="800px" style="float: center;margin-right: 0px;margin-top: 5px;margin-bottom: 5px">
+This work involves research on the elimination of water use in power plants by replacing conventional water-based cooling systems with alternative technologies and novel air-cooled technologies. [A proposed technology involving underground tunnels for solar power plants](https://www.mdpi.com/1996-1073/13/4/797/htm) was also [reported by SolarPACES](https://www.solarpaces.org/a-new-way-to-dry-cool-thermal-power-plants-with-underground%E2%80%A8-air/).   
+<img src="/files/figs/RLDb.png" alt="RLDb" width="500px" style="float: center;margin-left: 80px;margin-top: 5px;margin-bottom: 5px">
 
 In this research line the impact of water availability and quality on power plant operation, as well as the impact of power plant operation on the local climate (air and water sources) are also studied. Within this scope, I have been leading the development of a new model to more accurately estimate the real cost of water use in power plants, accounting for environmental and economic criteria. 
 
