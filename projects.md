@@ -7,7 +7,7 @@ permalink: /projects/
 06/2018 – 05/2023    
 **Ramón y Cajal**    
 *Selected first in the area of mechanical and aerospace engineering*     
-&nbsp;&nbsp;&nbsp;&nbsp;_Principal investigator:_ Dr. Fontina Petrakopoulou
+&nbsp;&nbsp;&nbsp;&nbsp;_Principal investigator:_ Dr. Fontina Petrakopoulou    
 &nbsp;&nbsp;&nbsp;&nbsp;_Supported by:_ Ministry of science, innovation and universities     
 &nbsp;&nbsp;&nbsp;&nbsp;_Project duration:_ 60 months (start June 2018)
 
