@@ -18,6 +18,7 @@ email: fpetrako@ing.uc3m.es*
 [<img src="/files/Scholar.png" alt="Fontina Petrakopoulou" width="130px" style="float: left;margin-right: 40px;margin-top: 0px;">](https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en)
 [<img src="/files/researchgate-dss.png" alt="Fontina Petrakopoulou" width="30px" style="float: left;margin-right: 40px;margin-top: 0px;">](https://www.researchgate.net/profile/Fontina_Petrakopoulou) 
 <br>
+[Curriculum Vitae](http://fontina-petrakopoulou.github.io/CV/)
 
 My work focuses on the simulation and optimization of energy conversion processes using thermodynamic, economic and environmental criteria. The systems I study include, among others, renewable- and fossil-based power plants, biofuel generation processes and zero-emission energy processes (including CO2 capture). 
 
