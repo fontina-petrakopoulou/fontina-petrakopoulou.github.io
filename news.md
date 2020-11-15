@@ -21,6 +21,6 @@ Published on SolarPACES.org
 By Fontina Petrakopoulou and Domingo Santana <br>
 eLetter published on Science about the paper *Fossil power, guilt free*
 
-[<img src="/files/figs/News1b.png" alt="Comment_scienceb" width="300px" style="float: left;margin-left: 80px;margin-top: 7px;margin-bottom: 5px">](https://science.sciencemag.org/content/356/6340/796/tab-e-letters)
-[<img src="/files/figs/News1.png" alt="Comment_sciencea" width="300px" style="float: left;margin-left: 80px;margin-top: 7px;margin-bottom: 5px">](https://science.sciencemag.org/content/356/6340/796/tab-e-letters)
+[<img src="/files/figs/News1b.png" alt="Comment_scienceb" width="300px" style="float: left;margin-left: 100px;margin-top: 7px;margin-bottom: 5px">](https://science.sciencemag.org/content/356/6340/796/tab-e-letters)
+[<img src="/files/figs/News1.png" alt="Comment_sciencea" width="300px" style="float: left;margin-left: 100px;margin-top: 7px;margin-bottom: 5px">](https://science.sciencemag.org/content/356/6340/796/tab-e-letters)
 
