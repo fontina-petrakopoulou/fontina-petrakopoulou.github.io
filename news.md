@@ -14,6 +14,8 @@ Published on [SolarPACES.org](https://www.solarpaces.org/a-new-way-to-dry-cool-t
 
 <img src="/files/figs/News2.png" alt="Solarpaces" width="500px" style="float: center;margin-left: 50px;margin-top: 7px;margin-bottom: 5px">
 
+-------------------------------------------------------------------------------
+
 26 September, 2017
 
 [**Fossil power, not guilt free**](https://science.sciencemag.org/content/356/6340/796/tab-e-letters)
