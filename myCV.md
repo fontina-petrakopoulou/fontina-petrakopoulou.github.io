@@ -4,7 +4,7 @@ layout: page
 permalink: /CV/
 ---
 
-I am a Ramón y Cajal Professor (tenure-track) at the Department Thermal and Fluid Engineering of the University Carlos III of Madrid. I am also currently leading the research line Water-Energy Nexus of the Department.
+I am a Ramón y Cajal Professor (tenure-track) at the Department Thermal and Fluid Engineering of the University Carlos III of Madrid. I am also currently leading the [research line Water-Energy Nexus of the Department](http://ise.uc3m.es/research/water-energy-nexus/).
 
 My work focuses on the simulation and optimization of energy conversion processes using thermodynamic, economic and environmental criteria. The energy conversion processes I study include, among others, renewable- and fossil-based power plants,biofuel generation processes and zero-emission energy processes. 
 
