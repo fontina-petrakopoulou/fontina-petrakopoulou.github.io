@@ -7,7 +7,7 @@ h-index: 18 and i10-index: 29 (source: Google scholar). h-index: 17 (source: Sco
 
 ### Journal publications
 
-46. 	**Petrakopoulou F.**, 2021. ["Defining the cost of water impact for thermoelectric power generation", Energy Reports 7, 2101-2112..](/files/articles/2021_WaterCost.pdf) 
+46. 	**Petrakopoulou F.**, 2021. ["Defining the cost of water impact for thermoelectric power generation", Energy Reports 7, 2101-2112.](/files/articles/2021_WaterCost.pdf) 
 
 45. 	Shirmohammadi R., Aslani A., Ghasempour R., Romeo L.M., **Petrakopoulou, F.**, 2021. [“Process design and thermoeconomic evaluation of a CO2 liquefaction process driven by waste exhaust heat recovery for an industrial CO2 capture and utilization plant”, accepted for publication, Journal of Thermal Analysis and Calorimetry.](/files/articles/2020_XX.pdf) 
 
