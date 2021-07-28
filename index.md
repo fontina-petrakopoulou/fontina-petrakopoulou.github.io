@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <!-- ![Fontina Petrakopoulou](/files/1_.png){:style="float: left;margin-right: 20px;margin-top: 7px;" width="50px"} -->
-<img src="/files/4.png" alt="Fontina Petrakopoulou" width="350px" style="float: left;margin-right: 70px;margin-top: 7px;margin-bottom: 5px">
+<img src="/files/4.png" alt="Fontina Petrakopoulou" width="200px" style="float: left;margin-right: 70px;margin-top: 7px;margin-bottom: 5px">
 
 ***Contact**   
 University Carlos III of Madrid   
@@ -20,6 +20,9 @@ email: fpetrako@ing.uc3m.es*
 
 [Curriculum Vitae](http://fontina-petrakopoulou.github.io/CV/)
 
+<h2>Welcome!</h2>
+<br><br><br>
+            
 I work on the simulation and optimization of energy conversion processes using thermodynamic, economic and environmental criteria. The systems I study include, among others, renewable- and fossil-based power plants, biofuel generation processes and zero-emission energy processes (including CO2 capture). 
 
 Take a look at [my **research lines** here](http://fontina-petrakopoulou.github.io/research/).
