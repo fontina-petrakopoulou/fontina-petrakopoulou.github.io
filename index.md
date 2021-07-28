@@ -10,7 +10,7 @@ permalink: /
 
 <h2>Welcome!</h2>
 
-My goal is to study advanced energy conversion processes that allow sustainable development in the energy sector. The tools I use are simulation software and analyses based on costs, economics and environmental impacts. I am particularly interested in hybrid and polygeneration (renewable- and fossil-based) power plants, zero-emission and zero-water energy processes.
+My goal is to study advanced energy conversion processes that allow sustainable development in the energy sector. The tools I use are simulation software and analyses based on costs, economics and environmental impacts. By focusing on original structures, we aim to target knowledge gaps on power plants for hybrid and polygeneration (renewable- and fossil-based), zero-emissions and zero-water operation.
 <!-- I work on the simulation and optimization of energy conversion processes using thermodynamic, economic and environmental criteria. The systems I study include, among others, renewable- and fossil-based power plants, biofuel generation processes and zero-emission energy processes (including CO2 capture). -->
 
 Come work with us and be part of a forward thinking research group. I am open to new ideas and I support innovative and attractive proposals. Contact me by e-mail with a CV and your research interests.
