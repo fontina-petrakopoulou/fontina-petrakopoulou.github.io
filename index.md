@@ -14,7 +14,7 @@ I work on the simulation and optimization of energy conversion processes using t
 
 Take a look at [my **research lines** here](http://fontina-petrakopoulou.github.io/research/).
 
-I am always looking for motivated students and researchers to come work with me and be part of a forward thinking research group. I am open to new ideas and I support innovative and attractive proposals. Contact me by e-mail with a CV and your research interests. 
+<!-- I am always looking for motivated students and researchers to come work with me and be part of a forward thinking research group. I am open to new ideas and I support innovative and attractive proposals. Contact me by e-mail with a CV and your research interests. -->
 
 ***Contact**   
 University Carlos III of Madrid   
