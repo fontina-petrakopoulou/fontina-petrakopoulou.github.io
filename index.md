@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <!-- ![Fontina Petrakopoulou](/files/1_.png){:style="float: left;margin-right: 20px;margin-top: 7px;" width="50px"} -->
-<img src="/files/figs/Me_yellow.jpg" alt="Fontina Petrakopoulou" width="200px" style="float: left;margin-right: 70px;margin-top: 7px;margin-bottom: 5px">
+<img src="/files/figs/Me_yellow.jpg" alt="Fontina Petrakopoulou" width="250px" style="float: left;margin-right: 70px;margin-top: 7px;margin-bottom: 5px">
 
 
 <h2>Welcome!</h2>
@@ -15,8 +15,7 @@ I work on the simulation and optimization of energy conversion processes using t
 Take a look at [my **research lines** here](http://fontina-petrakopoulou.github.io/research/).
 
 <!-- I am always looking for motivated students and researchers to come work with me and be part of a forward thinking research group. I am open to new ideas and I support innovative and attractive proposals. Contact me by e-mail with a CV and your research interests. -->
-<br><br><br><br>
-
+<br><br><br>
 
 
 ***Contact**   
