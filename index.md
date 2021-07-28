@@ -7,6 +7,15 @@ permalink: /
 <!-- ![Fontina Petrakopoulou](/files/1_.png){:style="float: left;margin-right: 20px;margin-top: 7px;" width="50px"} -->
 <img src="/files/4.png" alt="Fontina Petrakopoulou" width="200px" style="float: left;margin-right: 70px;margin-top: 7px;margin-bottom: 5px">
 
+
+<h2>Welcome!</h2>
+            
+I work on the simulation and optimization of energy conversion processes using thermodynamic, economic and environmental criteria. The systems I study include, among others, renewable- and fossil-based power plants, biofuel generation processes and zero-emission energy processes (including CO2 capture). 
+
+Take a look at [my **research lines** here](http://fontina-petrakopoulou.github.io/research/).
+
+I am always looking for motivated students and researchers to come work with me and be part of a forward thinking research group. I am open to new ideas and I support innovative and attractive proposals. Contact me by e-mail with a CV and your research interests. 
+
 ***Contact**   
 University Carlos III of Madrid   
 Avda. de la universidad 30  
@@ -19,13 +28,4 @@ email: fpetrako@ing.uc3m.es*
 <br>
 
 [Curriculum Vitae](http://fontina-petrakopoulou.github.io/CV/)
-
-<h2>Welcome!</h2>
-            
-I work on the simulation and optimization of energy conversion processes using thermodynamic, economic and environmental criteria. The systems I study include, among others, renewable- and fossil-based power plants, biofuel generation processes and zero-emission energy processes (including CO2 capture). 
-
-Take a look at [my **research lines** here](http://fontina-petrakopoulou.github.io/research/).
-
-I am always looking for motivated students and researchers to come work with me and be part of a forward thinking research group. I am open to new ideas and I support innovative and attractive proposals. Contact me by e-mail with a CV and your research interests. 
-
 
