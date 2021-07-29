@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <!-- ![Fontina Petrakopoulou](/files/1_.png){:style="float: left;margin-right: 20px;margin-top: 7px;" width="50px"} -->
-<img src="/files/figs/Me_yellow.jpg" alt="Fontina Petrakopoulou" width="300px" style="float: left;margin-right: 70px;margin-top: 7px;margin-bottom: 5px">
+<img src="/files/figs/Me_yellow.jpg" alt="Fontina Petrakopoulou" width="300px" style="float: right;margin-left: 70px;margin-top: 7px;margin-bottom: 5px">
 
 
 <h2>Welcome!</h2>
@@ -21,9 +21,9 @@ Take a look at [my **research lines** here](http://fontina-petrakopoulou.github.
 <!-- I am always looking for motivated students and researchers to come work with me and be part of a forward thinking research group. I am open to new ideas and I support innovative and attractive proposals. Contact me by e-mail with a CV and your research interests. -->
 <br><br>
 
-&#9;&#9;&#9; ***Contact**   
-&#9;&#9;&#9; University Carlos III of Madrid   
-&#9;&#9;&#9; Avda. de la universidad 30  
+<p style="text-align:center;"> ***Contact**   
+University Carlos III of Madrid   
+Avda. de la universidad 30  
 28911 Leganés (Madrid)  
 Office: 1.1.D.3 (Edificio Betancourt)   
 email: fpetrako@ing.uc3m.es*
@@ -32,5 +32,5 @@ email: fpetrako@ing.uc3m.es*
 [<img src="/files/researchgate-dss.png" alt="Fontina Petrakopoulou" width="30px" style="float: left;margin-right: 0px;margin-top: 4px;margin-bottom: 0px;">](https://www.researchgate.net/profile/Fontina_Petrakopoulou)
 <br>
 
-[Curriculum Vitae](http://fontina-petrakopoulou.github.io/CV/)
+[Curriculum Vitae](http://fontina-petrakopoulou.github.io/CV/) </p>
 
