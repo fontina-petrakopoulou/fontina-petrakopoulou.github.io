@@ -21,7 +21,8 @@ Take a look at [my **research lines** here](http://fontina-petrakopoulou.github.
 <!-- I am always looking for motivated students and researchers to come work with me and be part of a forward thinking research group. I am open to new ideas and I support innovative and attractive proposals. Contact me by e-mail with a CV and your research interests. -->
 <br><br>
 
-<p style="text-align:center;"> ***Contact**   
+<p style="text-align:right;"> 
+**Contact**   
 University Carlos III of Madrid   
 Avda. de la universidad 30  
 28911 Leganés (Madrid)  
