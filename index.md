@@ -5,12 +5,12 @@ permalink: /
 ---
 
 <!-- ![Fontina Petrakopoulou](/files/1_.png){:style="float: left;margin-right: 20px;margin-top: 7px;" width="50px"} -->
-<img src="/files/figs/Me_yellow.jpg" alt="Fontina Petrakopoulou" width="300px" style="float: right;margin-left: 70px;margin-top: 7px;margin-bottom: 5px">
+<img src="/files/figs/Me_yellow.jpg" alt="Fontina Petrakopoulou" width="300px" style="float: left;margin-right: 70px;margin-top: 7px;margin-bottom: 5px">
 
 
 <h2>Welcome!</h2>
 
-My goal is to study and develop energy conversion processes and methods that support the sustainable development in the energy sector. The tools I use are simulation software, analyses and optimization methods based on costs, economics and environmental impacts. By focusing on original structures, we aim to target knowledge gaps on sustainable power plants for hybrid and polygeneration (renewable- and fossil-based) for zero-emission and zero-water operation.
+My goal is to study and develop energy conversion processes and methods that support the sustainable development in the energy sector. The tools I use are simulation software and analyses based on costs, economics and environmental impacts. By focusing on original structures, we aim to target knowledge gaps on sustainable power plants for hybrid and polygeneration (renewable- and fossil-based) for zero-emission and zero-water operation.
 
 <!-- I work on the simulation and optimization of energy conversion processes using thermodynamic, economic and environmental criteria. The systems I study include, among others, renewable- and fossil-based power plants, biofuel generation processes and zero-emission energy processes (including CO2 capture). 
 
@@ -21,9 +21,9 @@ Take a look at [my **research lines** here](http://fontina-petrakopoulou.github.
 <!-- I am always looking for motivated students and researchers to come work with me and be part of a forward thinking research group. I am open to new ideas and I support innovative and attractive proposals. Contact me by e-mail with a CV and your research interests. -->
 <br><br>
 
-***Contact**   
-University Carlos III of Madrid   
-Avda. de la universidad 30  
+&#9;&#9;&#9; ***Contact**   
+&#9;&#9;&#9; University Carlos III of Madrid   
+&#9;&#9;&#9; Avda. de la universidad 30  
 28911 Leganés (Madrid)  
 Office: 1.1.D.3 (Edificio Betancourt)   
 email: fpetrako@ing.uc3m.es*
