@@ -26,8 +26,8 @@ University Carlos III of Madrid
 Avda. de la universidad 30  
 28911 Leganés (Madrid)  
 Office: 1.1.D.3 (Edificio Betancourt)  
-email: fpetrako@ing.uc3m.es*
-  [<img src="/files/orcid-logo.png" alt="Fontina Petrakopoulou" width="60px" style="float: right;margin-left: 35px;margin-top: 6px;margin-bottom: 0px;">] (http://orcid.org/0000-0001-6878-4591)
+email: fpetrako@ing.uc3m.es
+[<img src="/files/orcid-logo.png" alt="Fontina Petrakopoulou" width="60px" style="float: right;margin-left: 35px;margin-top: 6px;margin-bottom: 0px;">] (http://orcid.org/0000-0001-6878-4591)
 [<img src="/files/Scholar.png" alt="Fontina Petrakopoulou" width="120px" style="float: right;margin-left:15px;margin-top: 4px;margin-bottom: 0px;">](https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en)
 [<img src="/files/researchgate-dss.png" alt="Fontina Petrakopoulou" width="30px" style="float: right;margin-left: 0px;margin-top: 4px;margin-bottom: 0px;">](https://www.researchgate.net/profile/Fontina_Petrakopoulou)
 <br>
