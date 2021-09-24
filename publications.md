@@ -3,7 +3,7 @@ layout: page
 title: Publications 
 permalink: /publications/
 ---
-<em> Articles, book chapters, PhD thesis, technical reports & Lecture notes </em>
+<em> Articles, <a href="#Chapters in books"></a>, PhD thesis, technical reports & Lecture notes </em>
 <br>
 <h2 style="color:IndianRed;">Articles</h2>
 
@@ -138,6 +138,7 @@ permalink: /publications/
 {: reversed="reversed"}
 
 <br>
+<a id="Chapters in books">I want to link to.</a>
 <h2 style="color:IndianRed;">Chapters in books</h2>
 
 3. **Petrakopoulou F.**, De la Rocha Camba E., 2021. “Hybrid fossil fuel/renewable systems for polygeneration” Cheater 7 in Polygeneration Systems – Design, Processes and Technologies (F. Calise, M.D. D’Accadia, L. Vanoli, M. Vicidomini), Elsevier, ISBN: 978-0-12-820625-6.
