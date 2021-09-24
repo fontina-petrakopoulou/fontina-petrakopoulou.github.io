@@ -3,7 +3,6 @@ layout: page
 <!--title: My CV-->
 permalink: /CV/
 ---
-
 My work focuses on the simulation and optimization of energy conversion processes using thermodynamic, economic and environmental criteria. The energy conversion processes I study include, among others, renewable- and fossil-based power plants,biofuel generation processes and zero-emission energy processes. I am currently leading the <a href="http://ise.uc3m.es/research/water-energy-nexus/" target="_blank">research line Water-Energy Nexus of the Department Thermal and Fluid Engineering of the University Carlos III of Madrid</a>.
 
 [My research lines are described here](http://fontina-petrakopoulou.github.io/research/).
