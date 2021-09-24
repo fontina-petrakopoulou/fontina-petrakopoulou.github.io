@@ -142,7 +142,7 @@ permalink: /publications/
 
 ### PhD Thesis
 
-**Petrakopoulou F.**, 2010. “Comparative evaluation of power plants with CO2 capture: Thermodynamic, economic and environmental performance”, Technische Universitaet Berlin, supported by the European Commission (FP6), realized in a Marie Curie Training Network.
+**Petrakopoulou F.**, 2010.  <a href="/files/articles/Dissertation_Petrakopoulou_TU_Berlin.pdf" target="_blank" >  “Comparative evaluation of power plants with CO2 capture: Thermodynamic, economic and environmental performance”, Technische Universitaet Berlin, supported by the European Commission (FP6), realized in a Marie Curie Training Network.</a>  
    
 ### Technical reports
 
