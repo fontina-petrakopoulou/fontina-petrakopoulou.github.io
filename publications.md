@@ -9,15 +9,15 @@ h-index: 20 and i10-index: 33 (source: Google scholar).
 
 47. Nasrollahi, H., Safaei Boroujeni, R., Shirmohammadi R., Najafi Nobar Sh., Aslani A., Amidpour, M., **Petrakopoulou F.**, 2021. “Optimization of Water Pressure of a Distribution Network within the Water–Energy Nexus”, Applied Sciences, 8371. 
 
-46. 	**Petrakopoulou F.**, 2021. ["Defining the cost of water impact for thermoelectric power generation", Energy Reports 7, 2101-2112.]<a href="http://files/articles/2021_WaterCost.pdf" target="_blank" </a> 
+46. 	**Petrakopoulou F.**, 2021. <a href="http://files/articles/2021_WaterCost.pdf" target="_blank">"Defining the cost of water impact for thermoelectric power generation", Energy Reports 7, 2101-2112.</a> 
 
-45. 	Shirmohammadi R., Aslani A., Ghasempour R., Romeo L.M., **Petrakopoulou, F.**, 2021. [“Process design and thermoeconomic evaluation of a CO2 liquefaction process driven by waste exhaust heat recovery for an industrial CO2 capture and utilization plant”, accepted for publication, Journal of Thermal Analysis and Calorimetry.]<a href="http://files/articles/2020_XX.pdf" target="_blank" </a> 
+45. 	Shirmohammadi R., Aslani A., Ghasempour R., Romeo L.M., **Petrakopoulou, F.**, 2021. <a href="http://files/articles/2020_XX.pdf" target="_blank">“Process design and thermoeconomic evaluation of a CO2 liquefaction process driven by waste exhaust heat recovery for an industrial CO2 capture and utilization plant”, accepted for publication, Journal of Thermal Analysis and Calorimetry.</a> 
 
-44. 	**Petrakopoulou, F.**, Robinson, A., Olmeda-Delgado, M., 2020. ["Impact of climate change on power-plant operation", Journal of Cleaner Production 273, 122816.]<a href="http://files/articles/2020_CoolingWaterPP_ClimateChange.pdf" target="_blank" </a> 
+44. 	**Petrakopoulou, F.**, Robinson, A., Olmeda-Delgado, M., 2020. <a href="http://files/articles/2020_CoolingWaterPP_ClimateChange.pdf" target="_blank">"Impact of climate change on power-plant operation", Journal of Cleaner Production 273, 122816.</a> 
 
-43.   Sharifi, S., Nozad Heravi, F., Shirmohammadi, R., Ghasempour, R., **Petrakopoulou, F.**, Romeo, L.M., 2020. ["Comprehensive thermodynamic and operational optimization of a solar-assisted LiBr/water absorption refrigeration system", Energy Reports 6, 2309-2323.]<a href="http://files/articles/2020_Sharifi_etalsolar-assistedLiBr/waterabsorption.pdf" target="_blank" </a> 
+43.   Sharifi, S., Nozad Heravi, F., Shirmohammadi, R., Ghasempour, R., **Petrakopoulou, F.**, Romeo, L.M., 2020. <a href="http://files/articles/2020_Sharifi_etalsolar-assistedLiBr/waterabsorption.pdf" target="_blank">"Comprehensive thermodynamic and operational optimization of a solar-assisted LiBr/water absorption refrigeration system", Energy Reports 6, 2309-2323.</a> 
 
-42. 	Calise F., Liberato Cappiello F., Vicidomini M., **Petrakopoulou F.**, 2020. ["Water-Energy Nexus: a thermoeconomic analysis of polygeneration systems for small Mediterranean islands", Energy Conversion and Management 220, 113043.]<a href="http://files/articles/2020_Calise_etal.pdf" target="_blank" </a> 
+42. 	Calise F., Liberato Cappiello F., Vicidomini M., **Petrakopoulou F.**, 2020. <a href="http://files/articles/2020_Calise_etal.pdf" target="_blank">"Water-Energy Nexus: a thermoeconomic analysis of polygeneration systems for small Mediterranean islands", Energy Conversion and Management 220, 113043.</a> 
 
 41. 	de la Rocha Camba, E., **Petrakopoulou, F.**, 2020. ["Earth-cooling air tunnels for thermal power plants: initial design by CFD modelling", Energies 13, 797.]<a href="http://files/articles/2020_EduardoEnergies.pdf" target="_blank" </a>  
 
