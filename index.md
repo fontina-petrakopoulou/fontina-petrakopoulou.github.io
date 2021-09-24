@@ -32,6 +32,6 @@ email: fpetrako@ing.uc3m.es<br>
 [<img src="/files/researchgate-dss.png" alt="Fontina Petrakopoulou" width="30px" style="float: left;margin-right: 0px;margin-top: 4px;margin-bottom: 0px;">](https://www.researchgate.net/profile/Fontina_Petrakopoulou)
 <br>
   
-[Curriculum Vitae](http://fontina-petrakopoulou.github.io/CV/) 
+[Curriculum Vitae](http://fontina-petrakopoulou.github.io/CV/)  
 
 
