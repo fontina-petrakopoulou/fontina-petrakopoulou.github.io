@@ -3,9 +3,9 @@ layout: page
 title: Publications 
 permalink: /publications/
 ---
-   #### Journal publications, book chapters, PhD thesis, technical reports & Lecture notes 
+#### Journal publications, book chapters, PhD thesis, technical reports & Lecture notes 
 
-<h2 style="color:EDC606;">Journal publications</h2>
+<h2 style="color:DarkSalmon;">Journal publications</h2>
 
 ### 2021
 
