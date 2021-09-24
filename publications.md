@@ -5,9 +5,9 @@ permalink: /publications/
 ---
 #### Journal publications, book chapters, PhD thesis, technical reports & Lecture notes 
 
-<h3 style="color: red;">Journal publications</h3>
+<h3 style="color:2E91AB;">Journal publications</h3>
 
-#### 2021
+### 2021
 
 47. Nasrollahi, H., Safaei Boroujeni, R., Shirmohammadi R., Najafi Nobar Sh., Aslani A., Amidpour, M., **Petrakopoulou F.**, 2021. “Optimization of Water Pressure of a Distribution Network within the Water–Energy Nexus”, Applied Sciences, 8371. 
 
