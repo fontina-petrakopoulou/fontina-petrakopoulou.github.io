@@ -3,7 +3,7 @@ layout: page
 title: Publications 
 permalink: /publications/
 ---
-<em> Articles, <a href="#Chapters in books"></a>, PhD thesis, technical reports & Lecture notes </em>
+<em> Articles, <a href="#Chapters in books">Chapters in books</a>, PhD thesis, technical reports & Lecture notes </em>
 <br>
 <h2 style="color:IndianRed;">Articles</h2>
 
