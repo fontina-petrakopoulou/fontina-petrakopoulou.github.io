@@ -15,3 +15,5 @@ B) [Regional renewable energy autonomy](http://fontina-petrakopoulou.github.io/r
 C) [Exergy-based methods for the optimization of energy systems](http://fontina-petrakopoulou.github.io/researchlineC/)<br>
 D) [The water-energy-climate nexus](http://fontina-petrakopoulou.github.io/researchlineD/)<br>
 E) [Automatization of existing and development of new optimization tools](http://fontina-petrakopoulou.github.io/researchlineE/)<br>
+
+[**Curriculum Vitae**](http://fontina-petrakopoulou.github.io/CV/)
