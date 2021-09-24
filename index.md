@@ -17,11 +17,11 @@ My goal is to study and develop energy conversion processes and methods that sup
 
 Come work with us and be part of a forward thinking research group. I am open to new ideas and I support innovative and attractive proposals. Contact me by e-mail with a CV and your research interests.-->
 
-Take a look at [my **research lines** here](http://fontina-petrakopoulou.github.io/research/).
+Take a look at [my **research lines** here](http://fontina-petrakopoulou.github.io/research/) and a short [**Curriculum Vitae** here](http://fontina-petrakopoulou.github.io/CV/)  .
 
 <!-- I am always looking for motivated students and researchers to come work with me and be part of a forward thinking research group. I am open to new ideas and I support innovative and attractive proposals. Contact me by e-mail with a CV and your research interests. -->
 
-[Curriculum Vitae](http://fontina-petrakopoulou.github.io/CV/)  
+
 <br>
 **Contact**<br>
 University Carlos III of Madrid   
