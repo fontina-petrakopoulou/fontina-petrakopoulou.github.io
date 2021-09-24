@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Publications 
-<em> Articles, book chapters, PhD thesis, technical reports & Lecture notes </em>
 permalink: /publications/
 ---
-
+<em> Articles, book chapters, PhD thesis, technical reports & Lecture notes </em>
+<br>
 <h2 style="color:IndianRed;">Articles</h2>
 
 ### 2021
