@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <!-- ![Fontina Petrakopoulou](/files/pic2021.png){:style="float: left;margin-right: 20px;margin-top: 7px;" width="50px"} -->
-<img src="/files/figs/fontina_profile_2021.png" alt="Fontina Petrakopoulou" width="250px" style="float: right;margin-left: 70px;margin-top: 7px;margin-bottom: 5px">
+<img src="/files/figs/fontina_profile_2021.png" alt="Fontina Petrakopoulou" width="280px" style="float: right;margin-left: 70px;margin-top: 7px;margin-bottom: 5px">
 
 
 <h2>Welcome!</h2>
