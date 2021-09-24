@@ -5,12 +5,7 @@ permalink: /publications/
 ---
 #### Journal publications, book chapters, PhD thesis, technical reports & Lecture notes 
 
-<h3> Journal publications (h-index: 20 and i10-index: 33, source: Google scholar).<h3>
-<h3><style type='text/css'>
-body{
- color:red;
- background-color: black}
-</style><h3>
+<h3 style="color: red;">Journal publications</h3>
 
 #### 2021
 
