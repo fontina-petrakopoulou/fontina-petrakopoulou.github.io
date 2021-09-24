@@ -14,7 +14,7 @@ permalink: /publications/
 46. 	**Petrakopoulou F.**, 2021. <a href="/files/articles/2021_WaterCost.pdf" target="_blank" >"Defining the cost of water impact for thermoelectric power generation", Energy Reports 7, 2101-2112.</a> 
 
 45. 	Shirmohammadi R., Aslani A., Ghasempour R., Romeo L.M., **Petrakopoulou, F.**, 2021. <a href="/files/articles/2020_XX.pdf" target="_blank" >“Process design and thermoeconomic evaluation of a CO2 liquefaction process driven by waste exhaust heat recovery for an industrial CO2 capture and utilization plant”, accepted for publication, Journal of Thermal Analysis and Calorimetry.</a> 
-{: reversed="reversed"}
+{: reversed="reversed", start="47"}
 
 ### 2020
 
