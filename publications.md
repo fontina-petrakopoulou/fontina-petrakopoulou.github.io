@@ -94,11 +94,11 @@ h-index: 20 and i10-index: 33 (source: Google scholar).
 
 5. **Petrakopoulou F.**, Tsatsaronis G., Boyano A., Morosuk T., 2011. <a href="/files/articles/2011_CERaD.pdf" target="_blank">“Exergoeconomic and Exergoenvironmental Evaluation of power plants including CO2 capture”, Chemical Engineering Research and Design 89 (9), pp. 1461-1469.</a> 
 
-4. 	**Petrakopoulou F.**, Boyano A., Cabrera M., Tsatsaronis G., 2011. <a href="/files/articles/2011_JGGC.pdf" target="_blank>“Exergoeconomic and exergoenvironmental analyses of a combined cycle power plant with chemical looping technology”, International Journal of Greenhouse Gas Control 5 (3), pp. 475-482.</a> 
+4. 	**Petrakopoulou F.**, Boyano A., Cabrera M., Tsatsaronis G., 2011. <a href="/files/articles/2011_JGGC.pdf" target="_blank">“Exergoeconomic and exergoenvironmental analyses of a combined cycle power plant with chemical looping technology”, International Journal of Greenhouse Gas Control 5 (3), pp. 475-482.</a> 
 
-3.	**Petrakopoulou F.**, Tsatsaronis G., Morosuk T., 2011. <a href="/files/articles/2011_JGTP_ASME.pdf" target="_blank>“Exergoeconomic analysis of an Advanced Zero Emission Plant”, ASME Journal of Engineering for Gas Turbines and Power 133 (11), pp. 113001-113012.</a> 
+3.	**Petrakopoulou F.**, Tsatsaronis G., Morosuk T., 2011. <a href="/files/articles/2011_JGTP_ASME.pdf" target="_blank">“Exergoeconomic analysis of an Advanced Zero Emission Plant”, ASME Journal of Engineering for Gas Turbines and Power 133 (11), pp. 113001-113012.</a> 
 
-2.	**Petrakopoulou F.**, Tsatsaronis G., Morosuk T., 2010. <a href="/files/articles/2010_IJoT.pdf" target="_blank>“Conventional Exergetic and Exergoeconomic analyses of a power plant with chemical looping combustion for CO2 capture”, International Journal of Thermodynamics 13 (3), pp. 77-86.</a> 
+2.	**Petrakopoulou F.**, Tsatsaronis G., Morosuk T., 2010. <a href="/files/articles/2010_IJoT.pdf" target="_blank">“Conventional Exergetic and Exergoeconomic analyses of a power plant with chemical looping combustion for CO2 capture”, International Journal of Thermodynamics 13 (3), pp. 77-86.</a> 
 
 1.	**Petrakopoulou F.**, Boyano A., Cabrera M., Tsatsaronis G., 2010. <a href="/files/articles/2010_IJLCT.pdf" target="_blank">“Exergy-based analyses of an advanced zero emission plant”, International Journal of Low-Carbon Technologies 5 (4), pp. 231-238.</a> 
 {: reversed="reversed"}
@@ -109,7 +109,7 @@ h-index: 20 and i10-index: 33 (source: Google scholar).
 
 **Petrakopoulou F.**, Tsatsaronis G., Boyano, A., Morosuk, T., 2012. <a href="/files/articles/2012_Intech.pdf" target="_blank">“Post-Combustion CO2 Capture with Monoethanolamine in a Combined-Cycle Power Plant: Exergetic, Economic and Environmental Assessment”, Chapter 21 in Greenhouse Gases - Emission, Measurement and Management (Dr. Guoxiang Liu), InTech (Open Access Publisher), ISBN: 978-953-51-0323-3, pp. 463-484.</a>  
 
-**Petrakopoulou F.**, Tsatsaronis G., Piancanstelli C., Gallio I., Morosuk, T., 2011. <a href="/files/articles/2011_NovaPublishers.pdf" target="_blank" “Exergetic and Exergoeconomic Analyses of an Oxy-Fuel Power Plant with CO2 Capture”, Chapter 9 in Advances in Energy Research, Vol. 6, (Morena J. Acosta), Nova Publishers, ISBN: 978-1-61122-075-9, pp. 229-242.]</a>  
+**Petrakopoulou F.**, Tsatsaronis G., Piancanstelli C., Gallio I., Morosuk, T., 2011. <a href="/files/articles/2011_NovaPublishers.pdf" target="_blank"> “Exergetic and Exergoeconomic Analyses of an Oxy-Fuel Power Plant with CO2 Capture”, Chapter 9 in Advances in Energy Research, Vol. 6, (Morena J. Acosta), Nova Publishers, ISBN: 978-1-61122-075-9, pp. 229-242.</a>  
    
 ### Technical reports
 
