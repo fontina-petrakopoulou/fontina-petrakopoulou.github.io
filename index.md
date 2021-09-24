@@ -23,7 +23,7 @@ Take a look at [my **research lines** here](http://fontina-petrakopoulou.github.
 
 [Curriculum Vitae](http://fontina-petrakopoulou.github.io/CV/)  
 <br>
-**Contact**<br>
+**CONTACT**<br>
 University Carlos III of Madrid   
 Avda. de la universidad 30  
 28911 Leganés (Madrid)  
