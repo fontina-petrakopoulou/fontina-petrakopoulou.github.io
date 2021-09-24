@@ -9,7 +9,7 @@ My work focuses on the simulation and optimization of energy conversion processe
 
 I teach courses on energy & water, thermal engineering, the optimization of thermodynamic systems and heat transfer and I have supervised a large number of bachelor and master theses. 
 
-You can find <!--(/files/Curriculum Vitae EN_Petrakopoulou.pdf). --><a href="/files/Curriculum Vitae EN_Petrakopoulou.pdf" target="_blank">my complete CV here</a>.
+You can find <a href="/files/Curriculum Vitae EN_Petrakopoulou.pdf" target="_blank">my complete CV here</a>.
 
 
 [<img src="/files/orcid-logo.png" alt="Fontina Petrakopoulou" width="90px" style="float: left;margin-right: 40px;margin-top: 7px;">](http://orcid.org/0000-0001-6878-4591)[<img src="/files/Scholar.png" alt="Fontina Petrakopoulou" width="170px" style="float: left;margin-right: 40px;margin-top: 5px;">](https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en)[<img src="/files/researchgate-dss.png" alt="Fontina Petrakopoulou" width="40px" style="float: left;margin-right: 60px;margin-top: 7px;">](https://www.researchgate.net/profile/Fontina_Petrakopoulou)       
