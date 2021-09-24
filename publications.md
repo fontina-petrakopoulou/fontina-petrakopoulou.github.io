@@ -3,7 +3,8 @@ layout: page
 title: Publications 
 permalink: /publications/
 ---
-Journal publications, book chapters & technical reports 
+Journal publications, book chapters & technical reports
+
 h-index: 20 and i10-index: 33 (source: Google scholar).
 
 ### Journal publications
