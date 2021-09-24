@@ -14,6 +14,7 @@ permalink: /publications/
 46. 	**Petrakopoulou F.**, 2021. <a href="/files/articles/2021_WaterCost.pdf" target="_blank" >"Defining the cost of water impact for thermoelectric power generation", Energy Reports 7, 2101-2112.</a> 
 
 45. 	Shirmohammadi R., Aslani A., Ghasempour R., Romeo L.M., **Petrakopoulou, F.**, 2021. <a href="/files/articles/2020_XX.pdf" target="_blank" >“Process design and thermoeconomic evaluation of a CO2 liquefaction process driven by waste exhaust heat recovery for an industrial CO2 capture and utilization plant”, accepted for publication, Journal of Thermal Analysis and Calorimetry.</a> 
+{: reversed="reversed"}
 
 ### 2020
 
@@ -28,6 +29,7 @@ permalink: /publications/
 40. 	Khoshgoftar Manesh, M.H., Kabiri., S., Yazdi, M., **Petrakopoulou, F.**, 2020. <a href="/files/articles/2020_Khoshgoftar2.pdf" target="_blank" >"Exergoeconomic modeling and evaluation of a combined-cycle plant with MSF and MED desalination", Journal of Water Reuse and Desalination 10 (2): 158–172.</a> 
 
 39. 	Khoshgoftar Manesh, M.H., Kabiri., S., Yazdi, M., **Petrakopoulou, F.**, 2020. <a href="/files/articles/2020_Khoshgoftar1.pdf" target="_blank" >"Thermodynamic evaluation of a combined-cycle power plant with MSF and MED desalination", Journal of Water Reuse and Desalination 10 (2): 146–157.</a> 
+{: reversed="reversed"}
 
 ### 2019
 
@@ -40,10 +42,12 @@ permalink: /publications/
 35. **Petrakopoulou, F.**, Olmeda-Delgado, M., 2019. <a href="/files/articles/2019_Marinas_sustainability-11-02085.pdf" target="_blank" >"Studying the reduction of water use in integrated solar combined-cycle plants", Sustainability, 11(7), 2085.</a> 
 
 34. Cristina Serrano-Sanchez, C., Olmeda-Delgado, M., **Petrakopoulou, F.**, 2019. <a href="/files/articles/2019_Cristinas_applsci-09-00850.pdf" target="_blank" >"Exergy and Economic Evaluation of a Hybrid Power Plant Coupling Coal with Solar Energy", Applied Sciences 9(5), 850.</a> 
+{: reversed="reversed"}
 
 ### 2018
 
 33.  **Petrakopoulou F.**, 2018. <a href="/files/articles/2018_EurJSDR.pdf" target="_blank" >“Economic and environmental considerations for zero-emission transport and thermal energy generation on an energy autonomous island”, European Journal of Sustainable Development Research, 2(1), 05.</a>  
+{: reversed="reversed"}
 
 ### 2017
 
@@ -54,6 +58,7 @@ permalink: /publications/
 30.  **Petrakopoulou F.**, 2017. <a href="/files/articles/2017_sustainability-09-00327_questionnaire.pdf" target="_blank" >“The Social Perspective on the Renewable Energy Autonomy of Geographically Isolated Communities: Evidence from a Mediterranean Island”, Sustainability 9(3), 327; doi:10.3390/su9030327.</a> 
 
 29. 	González-Gómez P.A., **Petrakopoulou F.**, Briongos J.V., Santana D., 2017. <a href="/files/articles/2017_JRE_HXOptCSP.pdf" target="_blank" >“Cost-based design optimization of the heat exchangers in a parabolic trough concentrating solar power plant”, Energy – The International Journal 123, 314-325.</a> 
+{: reversed="reversed"}
 
 ### 2016
 
@@ -68,7 +73,7 @@ permalink: /publications/
 24.	**Petrakopoulou F.**, Robinson A., Loizidou M., 2016. <a href="/files/articles/2016_JClPr_hybrid-solarwind.pdf" target="_blank" >“Exergetic analysis and dynamic simulation of a solar-wind power plant with electricity storage and hydrogen generation”, Journal of Cleaner Production 113, 450-458.</a> 
 
 23. 	**Petrakopoulou F.**, Sanz-Bermejo J., Dufour J., Romero, M., 2016. <a href="/files/articles/2016_Energy.pdf" target="_blank" >“Exergetic Analysis of Hybrid Power Plants with Biomass and Photovoltaics Coupled with a Solid-Oxide Electrolysis System”, Energy – The International Journal 94, 304-315.</a> 
-
+{: reversed="reversed"}
 
 ### 2015
 
@@ -77,7 +82,7 @@ permalink: /publications/
 21.	Peters J., **Petrakopoulou F.**, Dufour J. 2015. <a href="/files/articles/2015_ExergyBiooil_Energy.pdf" target="_blank" >“Exergy analysis of synthetic biofuel production via fast pyrolysis and hydroupgrading”, Energy – The International Journal 79, 325-336.</a> 
 
 20.	**Petrakopoulou F.**, Iribarren D., Dufour J., 2015. <a href="/files/articles/2014_GHG.pdf" target="_blank" >“Life-cycle performance of natural gas power plants with pre-combustion CO2 capture”, Greenhouse Gases: Science and Technology 5(3), 268-276.</a> 
-
+{: reversed="reversed"}
 
 ### 2014
 
@@ -90,7 +95,7 @@ permalink: /publications/
 16. 	**Petrakopoulou F.**, Lee Y.D., Tsatsaronis G., 2014. <a href="/files/articles/2014_AppliedEnergy.pdf" target="_blank" >“Simulation and Exergetic evaluation of CO2 capture in a solid oxide fuel cell combined cycle power plant”, Applied Energy 114, 417-425.</a> 
 
 15.	**Petrakopoulou F.**, Tsatsaronis G., Morosuk T., 2014. <a href="/files/articles/2013_WileyEnvProgr_ep11848.pdf" target="_blank" >“CO2 capture in a chemical looping combustion power plant evaluated with an advanced exergetic analysis”, Wiley - Environmental Progress and Sustainable Energy 33(3), 1017-1025.</a> 
-
+{: reversed="reversed"}
 
 ### 2013
 
@@ -101,7 +106,7 @@ permalink: /publications/
 12.	**Petrakopoulou F.**, Tsatsaronis G., Morosuk T., 2013. <a href="/files/articles/2013_SETA.pdf" target="_blank" >“Evaluation of a Power Plant with Chemical Looping Combustion Using an Advanced Exergoeconomic Analysis”, Sustainable Energy Technologies and Assessments 3, pp. 9-16.</a> 
 
 11. 	Iribarren D., **Petrakopoulou F.**, Dufour J., 2013. <a href="/files/articles/2013_Energy_CCS.pdf" target="_blank" >“Environmental and thermodynamic evaluation of CO2 capture, transport and storage with and without enhanced resource recovery”, Energy – The International Journal 50, pp. 477-485.</a> 
-
+{: reversed="reversed"}
 
 ### 2012
 
@@ -114,7 +119,7 @@ permalink: /publications/
 7. 	**Petrakopoulou F.**, Tsatsaronis G., Morosuk T., Carassai A., 2012. <a href="/files/articles/2012_IJE_a.pdf" target="_blank" >“Conventional and advanced exergetic analyses applied to a combined cycle power plant”, Energy – The International Journal 41 (1), pp. 146-152.</a> 
 
 6. 	**Petrakopoulou F.**, Tsatsaronis G., Morosuk T., Carassai A., 2012. <a href="/files/articles/2012_JGTP_ASME.pdf" target="_blank" >“Advanced exergoeconomic analysis applied to a complex energy conversion system”, ASME Journal of Engineering for Gas Turbines and Power 134 (3), pp. 031801-031808.</a> 
-
+{: reversed="reversed"}
 
 ### 2011
 
@@ -123,7 +128,7 @@ permalink: /publications/
 4. 	**Petrakopoulou F.**, Boyano A., Cabrera M., Tsatsaronis G., 2011. <a href="/files/articles/2011_JGGC.pdf" target="_blank" >“Exergoeconomic and exergoenvironmental analyses of a combined cycle power plant with chemical looping technology”, International Journal of Greenhouse Gas Control 5 (3), pp. 475-482.</a> 
 
 3.	**Petrakopoulou F.**, Tsatsaronis G., Morosuk T., 2011. <a href="/files/articles/2011_JGTP_ASME.pdf" target="_blank" >“Exergoeconomic analysis of an Advanced Zero Emission Plant”, ASME Journal of Engineering for Gas Turbines and Power 133 (11), pp. 113001-113012.</a> 
-
+{: reversed="reversed"}
 
 ### 2010
 
