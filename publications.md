@@ -3,13 +3,13 @@ layout: page
 title: Publications 
 permalink: /publications/
 ---
-<em>Journal publications, book chapters & technical reports</em>
+#### Journal publications, book chapters, PhD thesis, technical reports & Lecture notes 
 
 h-index: 20 and i10-index: 33 (source: Google scholar).
 
 ### Journal publications
 
-### 2021
+#### 2021
 
 47. Nasrollahi, H., Safaei Boroujeni, R., Shirmohammadi R., Najafi Nobar Sh., Aslani A., Amidpour, M., **Petrakopoulou F.**, 2021. “Optimization of Water Pressure of a Distribution Network within the Water–Energy Nexus”, Applied Sciences, 8371. 
 
