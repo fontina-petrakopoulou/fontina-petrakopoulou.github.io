@@ -3,9 +3,9 @@ layout: page
 title: Publications 
 permalink: /publications/
 ---
-#### Journal publications, book chapters, PhD thesis, technical reports & Lecture notes 
+#### Articles, book chapters, PhD thesis, technical reports & Lecture notes 
 
-<h2 style="color:IndianRed;">Journal publications</h2>
+<h2 style="color:IndianRed;">Articles</h2>
 
 ### 2021
 
@@ -132,7 +132,7 @@ permalink: /publications/
 1.	**Petrakopoulou F.**, Boyano A., Cabrera M., Tsatsaronis G., 2010. <a href="/files/articles/2010_IJLCT.pdf" target="_blank" >“Exergy-based analyses of an advanced zero emission plant”, International Journal of Low-Carbon Technologies 5 (4), pp. 231-238.</a> 
 {: reversed="reversed"}
 
-### Chapters in books
+<h2 style="color:IndianRed;">Chapters in books</h2>
 
 3. **Petrakopoulou F.**, De la Rocha Camba E., 2021. “Hybrid fossil fuel/renewable systems for polygeneration” Cheater 7 in Polygeneration Systems – Design, Processes and Technologies (F. Calise, M.D. D’Accadia, L. Vanoli, M. Vicidomini), Elsevier, ISBN: 978-0-12-820625-6.
 
@@ -140,11 +140,11 @@ permalink: /publications/
 
 1. **Petrakopoulou F.**, Tsatsaronis G., Piancanstelli C., Gallio I., Morosuk, T., 2011. <a href="/files/articles/2011_NovaPublishers.pdf" target="_blank" > “Exergetic and Exergoeconomic Analyses of an Oxy-Fuel Power Plant with CO2 Capture”, Chapter 9 in Advances in Energy Research, Vol. 6, (Morena J. Acosta), Nova Publishers, ISBN: 978-1-61122-075-9, pp. 229-242.</a>  
 
-### PhD Thesis
+
 
 **Petrakopoulou F.**, 2010.  <a href="/files/articles/Dissertation_Petrakopoulou_TU_Berlin.pdf" target="_blank" >  “Comparative evaluation of power plants with CO2 capture: Thermodynamic, economic and environmental performance”, Technische Universitaet Berlin, supported by the European Commission (FP6), realized in a Marie Curie Training Network.</a>  
    
-### Technical reports
+<h2 style="color:IndianRed;">Technical reports</h2>
 
 7. **Petrakopoulou F.**, 2015. “Review of laws and regulations concerning renewable energy policy”, Technical report, prepared for the FP7 project GENERGIS (IEF-2012-332028).
 
@@ -160,7 +160,7 @@ permalink: /publications/
 
 1. **Petrakopoulou F.**, 2015. “Guidelines for sustainable development of stand-alone energy networks”, Technical report, prepared for the FP7 project GENERGIS (IEF-2012-332028).
 
-### Lecture notes
+<h2 style="color:IndianRed;">Lecture notes</h2>
 
 2. **Petrakopoulou F.**, Nikolos I., 2014. “Lecture notes and exercises of the class Heat Transfer” (in Greek: «Σημειώσεις και ασκήσεις μαθήματος Μετάδοση Θερμότητας»), Undergraduate class “Heat Transfer”, 7th semester, Technical University of Crete.
 
