@@ -3,8 +3,8 @@ layout: page
 title: Publications 
 permalink: /publications/
 ---
-<em> 
-   #### Articles, book chapters, PhD thesis, technical reports & Lecture notes </em>
+<em> Articles, book chapters, PhD thesis, technical reports & Lecture notes </em>
+
 
 <h2 style="color:IndianRed;">Articles</h2>
 
