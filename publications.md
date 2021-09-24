@@ -15,7 +15,7 @@ permalink: /publications/
 
 45. 	Shirmohammadi R., Aslani A., Ghasempour R., Romeo L.M., **Petrakopoulou, F.**, 2021. <a href="/files/articles/2020_XX.pdf" target="_blank" >“Process design and thermoeconomic evaluation of a CO2 liquefaction process driven by waste exhaust heat recovery for an industrial CO2 capture and utilization plant”, accepted for publication, Journal of Thermal Analysis and Calorimetry.</a> 
 
-{: reversed="reversed", start="45"} 
+{: reversed="reversed"} start=45
 
 ### 2020
 
