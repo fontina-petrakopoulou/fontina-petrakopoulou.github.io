@@ -9,45 +9,42 @@ permalink: /publications/
 
 ### 2021
 
-47. Nasrollahi, H., Safaei Boroujeni, R., Shirmohammadi R., Najafi Nobar Sh., Aslani A., Amidpour, M., **Petrakopoulou F.**, 2021. “Optimization of Water Pressure of a Distribution Network within the Water–Energy Nexus”, Applied Sciences, 8371. 
+[47] Nasrollahi, H., Safaei Boroujeni, R., Shirmohammadi R., Najafi Nobar Sh., Aslani A., Amidpour, M., **Petrakopoulou F.**, 2021. “Optimization of Water Pressure of a Distribution Network within the Water–Energy Nexus”, Applied Sciences, 8371. 
 
-46. 	**Petrakopoulou F.**, 2021. <a href="/files/articles/2021_WaterCost.pdf" target="_blank" >"Defining the cost of water impact for thermoelectric power generation", Energy Reports 7, 2101-2112.</a> 
+[46] 	**Petrakopoulou F.**, 2021. <a href="/files/articles/2021_WaterCost.pdf" target="_blank" >"Defining the cost of water impact for thermoelectric power generation", Energy Reports 7, 2101-2112.</a> 
 
-45. 	Shirmohammadi R., Aslani A., Ghasempour R., Romeo L.M., **Petrakopoulou, F.**, 2021. <a href="/files/articles/2020_XX.pdf" target="_blank" >“Process design and thermoeconomic evaluation of a CO2 liquefaction process driven by waste exhaust heat recovery for an industrial CO2 capture and utilization plant”, accepted for publication, Journal of Thermal Analysis and Calorimetry.</a> 
-{: reversed="reversed"} {start="47"}
+[45] 	Shirmohammadi R., Aslani A., Ghasempour R., Romeo L.M., **Petrakopoulou, F.**, 2021. <a href="/files/articles/2020_XX.pdf" target="_blank" >“Process design and thermoeconomic evaluation of a CO2 liquefaction process driven by waste exhaust heat recovery for an industrial CO2 capture and utilization plant”, accepted for publication, Journal of Thermal Analysis and Calorimetry.</a> 
+<!--{: reversed="reversed"} {start="47"}-->
 
 ### 2020
 
-44. 	**Petrakopoulou, F.**, Robinson, A., Olmeda-Delgado, M., 2020. <a href="/files/articles/2020_CoolingWaterPP_ClimateChange.pdf" target="_blank" >"Impact of climate change on power-plant operation", Journal of Cleaner Production 273, 122816.</a> 
+[44] 	**Petrakopoulou, F.**, Robinson, A., Olmeda-Delgado, M., 2020. <a href="/files/articles/2020_CoolingWaterPP_ClimateChange.pdf" target="_blank" >"Impact of climate change on power-plant operation", Journal of Cleaner Production 273, 122816.</a> 
 
-43.   Sharifi, S., Nozad Heravi, F., Shirmohammadi, R., Ghasempour, R., **Petrakopoulou, F.**, Romeo, L.M., 2020. <a href="/files/articles/2020_Sharifi_etalsolar-assistedLiBr/waterabsorption.pdf" target="_blank" >"Comprehensive thermodynamic and operational optimization of a solar-assisted LiBr/water absorption refrigeration system", Energy Reports 6, 2309-2323.</a> 
+[43]   Sharifi, S., Nozad Heravi, F., Shirmohammadi, R., Ghasempour, R., **Petrakopoulou, F.**, Romeo, L.M., 2020. <a href="/files/articles/2020_Sharifi_etalsolar-assistedLiBr/waterabsorption.pdf" target="_blank" >"Comprehensive thermodynamic and operational optimization of a solar-assisted LiBr/water absorption refrigeration system", Energy Reports 6, 2309-2323.</a> 
 
-42. 	Calise F., Liberato Cappiello F., Vicidomini M., **Petrakopoulou F.**, 2020. <a href="/files/articles/2020_Calise_etal.pdf" target="_blank" >"Water-Energy Nexus: a thermoeconomic analysis of polygeneration systems for small Mediterranean islands", Energy Conversion and Management 220, 113043.</a> 
+[42] 	Calise F., Liberato Cappiello F., Vicidomini M., **Petrakopoulou F.**, 2020. <a href="/files/articles/2020_Calise_etal.pdf" target="_blank" >"Water-Energy Nexus: a thermoeconomic analysis of polygeneration systems for small Mediterranean islands", Energy Conversion and Management 220, 113043.</a> 
 
-41. 	de la Rocha Camba, E., **Petrakopoulou, F.**, 2020. <a href="/files/articles/2020_EduardoEnergies.pdf" target="_blank" >"Earth-cooling air tunnels for thermal power plants: initial design by CFD modelling", Energies 13, 797.</a>  
+[41] 	de la Rocha Camba, E., **Petrakopoulou, F.**, 2020. <a href="/files/articles/2020_EduardoEnergies.pdf" target="_blank" >"Earth-cooling air tunnels for thermal power plants: initial design by CFD modelling", Energies 13, 797.</a>  
 
-40. 	Khoshgoftar Manesh, M.H., Kabiri., S., Yazdi, M., **Petrakopoulou, F.**, 2020. <a href="/files/articles/2020_Khoshgoftar2.pdf" target="_blank" >"Exergoeconomic modeling and evaluation of a combined-cycle plant with MSF and MED desalination", Journal of Water Reuse and Desalination 10 (2): 158–172.</a> 
+[40] 	Khoshgoftar Manesh, M.H., Kabiri., S., Yazdi, M., **Petrakopoulou, F.**, 2020. <a href="/files/articles/2020_Khoshgoftar2.pdf" target="_blank" >"Exergoeconomic modeling and evaluation of a combined-cycle plant with MSF and MED desalination", Journal of Water Reuse and Desalination 10 (2): 158–172.</a> 
 
-39. 	Khoshgoftar Manesh, M.H., Kabiri., S., Yazdi, M., **Petrakopoulou, F.**, 2020. <a href="/files/articles/2020_Khoshgoftar1.pdf" target="_blank" >"Thermodynamic evaluation of a combined-cycle power plant with MSF and MED desalination", Journal of Water Reuse and Desalination 10 (2): 146–157.</a> 
-{: reversed="reversed"}
+[39] 	Khoshgoftar Manesh, M.H., Kabiri., S., Yazdi, M., **Petrakopoulou, F.**, 2020. <a href="/files/articles/2020_Khoshgoftar1.pdf" target="_blank" >"Thermodynamic evaluation of a combined-cycle power plant with MSF and MED desalination", Journal of Water Reuse and Desalination 10 (2): 146–157.</a> 
 
 ### 2019
 
-38. Fernández-Gil, G., **Petrakopoulou, F.**, 2019. <a href="/files/articles/2019_Guillermo_energies-12-04247.pdf" target="_blank" >"Sustainable Water Generation on a Mediterranean Island in Greece", Energies, 12(22), 4247.</a> 
+[38] Fernández-Gil, G., **Petrakopoulou, F.**, 2019. <a href="/files/articles/2019_Guillermo_energies-12-04247.pdf" target="_blank" >"Sustainable Water Generation on a Mediterranean Island in Greece", Energies, 12(22), 4247.</a> 
 
-37. del Moral Sabroso, A., **Petrakopoulou, F.**, 2019. <a href="/files/articles/2019_Amanda_applsci-09-04989.pdf" target="_blank" >"Evaluation of the coupling of a hybrid power plant with a water generation system", Applied Sciences, 9(23), 4989.</a>
+[37] del Moral Sabroso, A., **Petrakopoulou, F.**, 2019. <a href="/files/articles/2019_Amanda_applsci-09-04989.pdf" target="_blank" >"Evaluation of the coupling of a hybrid power plant with a water generation system", Applied Sciences, 9(23), 4989.</a>
 
-36. Rodríguez Hervas, G., **Petrakopoulou, F.**, 2019. <a href="/files/articles/2019_Gonzalo_energyfuels.9b01348.pdf" target="_blank" >"Exergoeconomic Analysis of the Allam Cycle", Energy Fuels, 33(8), 7561-7568.</a> 
+[36] Rodríguez Hervas, G., **Petrakopoulou, F.**, 2019. <a href="/files/articles/2019_Gonzalo_energyfuels.9b01348.pdf" target="_blank" >"Exergoeconomic Analysis of the Allam Cycle", Energy Fuels, 33(8), 7561-7568.</a> 
 
-35. **Petrakopoulou, F.**, Olmeda-Delgado, M., 2019. <a href="/files/articles/2019_Marinas_sustainability-11-02085.pdf" target="_blank" >"Studying the reduction of water use in integrated solar combined-cycle plants", Sustainability, 11(7), 2085.</a> 
+[35] **Petrakopoulou, F.**, Olmeda-Delgado, M., 2019. <a href="/files/articles/2019_Marinas_sustainability-11-02085.pdf" target="_blank" >"Studying the reduction of water use in integrated solar combined-cycle plants", Sustainability, 11(7), 2085.</a> 
 
-34. Cristina Serrano-Sanchez, C., Olmeda-Delgado, M., **Petrakopoulou, F.**, 2019. <a href="/files/articles/2019_Cristinas_applsci-09-00850.pdf" target="_blank" >"Exergy and Economic Evaluation of a Hybrid Power Plant Coupling Coal with Solar Energy", Applied Sciences 9(5), 850.</a> 
-{: reversed="reversed"}
+[34] Cristina Serrano-Sanchez, C., Olmeda-Delgado, M., **Petrakopoulou, F.**, 2019. <a href="/files/articles/2019_Cristinas_applsci-09-00850.pdf" target="_blank" >"Exergy and Economic Evaluation of a Hybrid Power Plant Coupling Coal with Solar Energy", Applied Sciences 9(5), 850.</a> 
 
 ### 2018
 
 33.  **Petrakopoulou F.**, 2018. <a href="/files/articles/2018_EurJSDR.pdf" target="_blank" >“Economic and environmental considerations for zero-emission transport and thermal energy generation on an energy autonomous island”, European Journal of Sustainable Development Research, 2(1), 05.</a>  
-{: reversed="reversed"}
 
 ### 2017
 
@@ -58,7 +55,6 @@ permalink: /publications/
 30.  **Petrakopoulou F.**, 2017. <a href="/files/articles/2017_sustainability-09-00327_questionnaire.pdf" target="_blank" >“The Social Perspective on the Renewable Energy Autonomy of Geographically Isolated Communities: Evidence from a Mediterranean Island”, Sustainability 9(3), 327; doi:10.3390/su9030327.</a> 
 
 29. 	González-Gómez P.A., **Petrakopoulou F.**, Briongos J.V., Santana D., 2017. <a href="/files/articles/2017_JRE_HXOptCSP.pdf" target="_blank" >“Cost-based design optimization of the heat exchangers in a parabolic trough concentrating solar power plant”, Energy – The International Journal 123, 314-325.</a> 
-{: reversed="reversed"}
 
 ### 2016
 
