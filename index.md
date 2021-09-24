@@ -19,6 +19,8 @@ Come work with us and be part of a forward thinking research group. I am open to
 Take a look at [my **research lines** here](http://fontina-petrakopoulou.github.io/research/).
 
 <!-- I am always looking for motivated students and researchers to come work with me and be part of a forward thinking research group. I am open to new ideas and I support innovative and attractive proposals. Contact me by e-mail with a CV and your research interests. -->
+<br>
+[Curriculum Vitae](http://fontina-petrakopoulou.github.io/CV/)  
 
 **Contact**<br>
 University Carlos III of Madrid   
@@ -29,8 +31,6 @@ email: fpetrako@ing.uc3m.es<br>
 [<img src="/files/orcid-logo.png" alt="Fontina Petrakopoulou" width="60px" style="float: left;margin-right: 35px;margin-top: 6px;margin-bottom: 0px;">](http://orcid.org/0000-0001-6878-4591)
 [<img src="/files/Scholar.png" alt="Fontina Petrakopoulou" width="120px" style="float: left;margin-right:15px;margin-top: 4px;margin-bottom: 0px;">](https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en)
 [<img src="/files/researchgate-dss.png" alt="Fontina Petrakopoulou" width="30px" style="float: left;margin-right: 0px;margin-top: 4px;margin-bottom: 0px;">](https://www.researchgate.net/profile/Fontina_Petrakopoulou)
-<br>
-  
-[Curriculum Vitae](http://fontina-petrakopoulou.github.io/CV/)  
+
 
 
