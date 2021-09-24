@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 #### Journal publications, book chapters, PhD thesis, technical reports & Lecture notes 
 
-<h2 style="color:DarkSalmon;">Journal publications</h2>
+<h2 style="color:IndianRed;">Journal publications</h2>
 
 ### 2021
 
