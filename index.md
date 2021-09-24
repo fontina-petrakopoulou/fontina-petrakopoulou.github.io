@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <!-- ![Fontina Petrakopoulou](/files/pic2021.png){:style="float: left;margin-right: 20px;margin-top: 7px;" width="50px"} -->
-<img src="/files/figs/fontina_profile_2021.png" alt="Fontina Petrakopoulou" width="300px" style="float: right;margin-left: 70px;margin-top: 7px;margin-bottom: 5px">
+<img src="/files/figs/fontina_profile_2021.png" alt="Fontina Petrakopoulou" width="250px" style="float: right;margin-left: 70px;margin-top: 7px;margin-bottom: 5px">
 
 
 <h2>Welcome!</h2>
@@ -19,7 +19,7 @@ Come work with us and be part of a forward thinking research group. I am open to
 Take a look at [my **research lines** here](http://fontina-petrakopoulou.github.io/research/).
 
 <!-- I am always looking for motivated students and researchers to come work with me and be part of a forward thinking research group. I am open to new ideas and I support innovative and attractive proposals. Contact me by e-mail with a CV and your research interests. -->
-<br><br>
+<br>
 
 **Contact**<br>
 University Carlos III of Madrid   
