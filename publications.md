@@ -88,9 +88,9 @@ h-index: 20 and i10-index: 33 (source: Google scholar).
 
 8. 	**Petrakopoulou F.**, Tsatsaronis G., Morosuk T., Paitazoglou C., 2012. <a href="/files/articles/2012_IJE_b.pdf" target="_blank" >“Environmental evaluation of a power plant using conventional and advanced exergy-based methods”, Energy – The International Journal 45 (1), pp. 23-30.</a> 
 
-7. 	**Petrakopoulou F.**, Tsatsaronis G., Morosuk T., Carassai A., 2012. <a href="/files/articles/2012_IJE_a.pdf" target="_blank >“Conventional and advanced exergetic analyses applied to a combined cycle power plant”, Energy – The International Journal 41 (1), pp. 146-152.</a> 
+7. 	**Petrakopoulou F.**, Tsatsaronis G., Morosuk T., Carassai A., 2012. <a href="/files/articles/2012_IJE_a.pdf" target="_blank" >“Conventional and advanced exergetic analyses applied to a combined cycle power plant”, Energy – The International Journal 41 (1), pp. 146-152.</a> 
 
-6. 	**Petrakopoulou F.**, Tsatsaronis G., Morosuk T., Carassai A., 2012. <a href="/files/articles/2012_JGTP_ASME.pdf" target="_blank >“Advanced exergoeconomic analysis applied to a complex energy conversion system”, ASME Journal of Engineering for Gas Turbines and Power 134 (3), pp. 031801-031808.</a> 
+6. 	**Petrakopoulou F.**, Tsatsaronis G., Morosuk T., Carassai A., 2012. <a href="/files/articles/2012_JGTP_ASME.pdf" target="_blank" >“Advanced exergoeconomic analysis applied to a complex energy conversion system”, ASME Journal of Engineering for Gas Turbines and Power 134 (3), pp. 031801-031808.</a> 
 
 5. **Petrakopoulou F.**, Tsatsaronis G., Boyano A., Morosuk T., 2011. <a href="/files/articles/2011_CERaD.pdf" target="_blank" >“Exergoeconomic and Exergoenvironmental Evaluation of power plants including CO2 capture”, Chemical Engineering Research and Design 89 (9), pp. 1461-1469.</a> 
 
