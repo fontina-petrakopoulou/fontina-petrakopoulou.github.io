@@ -4,7 +4,7 @@ layout: default
 permalink: /
 ---
 
-<!-- ![Fontina Petrakopoulou](/files/1_.png){:style="float: left;margin-right: 20px;margin-top: 7px;" width="50px"} -->
+<!-- ![Fontina Petrakopoulou](/files/pic2021.png){:style="float: left;margin-right: 20px;margin-top: 7px;" width="50px"} -->
 <img src="/files/figs/Me_yellow.jpg" alt="Fontina Petrakopoulou" width="300px" style="float: right;margin-left: 70px;margin-top: 7px;margin-bottom: 5px">
 
 
