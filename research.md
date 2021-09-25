@@ -19,7 +19,8 @@ E) [Automatization of existing and development of new optimization tools](http:/
 [**Curriculum Vitae**](http://fontina-petrakopoulou.github.io/CV/)
 
 ---
-title: Projects
+<br>
+<h2>Projects</h2> 
 
 06/2018 – 05/2023    
 **Ramón y Cajal**    
