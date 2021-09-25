@@ -16,10 +16,8 @@ C) [Exergy-based methods for the optimization of energy systems](http://fontina-
 D) [The water-energy-climate nexus](http://fontina-petrakopoulou.github.io/researchlineD/)<br>
 E) [Automatization of existing and development of new optimization tools](http://fontina-petrakopoulou.github.io/researchlineE/)<br>
 
-[**Curriculum Vitae**](http://fontina-petrakopoulou.github.io/CV/)
-
 ---
-# Projects 
+### Projects 
 
 06/2018 – 05/2023    
 **Ramón y Cajal**    
