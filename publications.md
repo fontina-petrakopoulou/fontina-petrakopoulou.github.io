@@ -3,8 +3,9 @@ layout: page
 title: Publications 
 permalink: /publications/
 ---
-<em> Articles, <a href="#Chapters in books">Chapters in books</a>, PhD thesis, technical reports & Lecture notes </em>
+<em> <a href="#Articles">Articles</a>, <a href="#Chapters in books">Chapters in books</a>, <a href="#PhD thesis">PhD thesis</a>, technical reports</a> & <a href="#Lecture notes">Lecture notes</a> </em>
 <br>
+<a id="Articles"></a>
 <h2 style="color:IndianRed;">Articles</h2>
 
 ### 2021
@@ -129,7 +130,7 @@ permalink: /publications/
 {: reversed="reversed"}
 
 <br>
-<a id="Chapters in books">I want to link to.</a>
+<a id="Chapters in books"></a>
 <h2 style="color:IndianRed;">Chapters in books</h2>
 
 [3] **Petrakopoulou F.**, De la Rocha Camba E., 2021. “Hybrid fossil fuel/renewable systems for polygeneration” Cheater 7 in Polygeneration Systems – Design, Processes and Technologies (F. Calise, M.D. D’Accadia, L. Vanoli, M. Vicidomini), Elsevier, ISBN: 978-0-12-820625-6.
@@ -139,6 +140,7 @@ permalink: /publications/
 [1] **Petrakopoulou F.**, Tsatsaronis G., Piancanstelli C., Gallio I., Morosuk, T., 2011. <a href="/files/articles/2011_NovaPublishers.pdf" target="_blank" > “Exergetic and Exergoeconomic Analyses of an Oxy-Fuel Power Plant with CO2 Capture”, Chapter 9 in Advances in Energy Research, Vol. 6, (Morena J. Acosta), Nova Publishers, ISBN: 978-1-61122-075-9, pp. 229-242.</a>  
 
 <br>
+<a id="PhD thesis"></a>
 <h2 style="color:IndianRed;">PhD thesis</h2>
 
 **Petrakopoulou F.**, 2010.  <a href="/files/articles/Dissertation_Petrakopoulou_TU_Berlin.pdf" target="_blank" > “Comparative evaluation of power plants with CO2 capture: Thermodynamic, economic and environmental performance”, Technische Universitaet Berlin, supported by the European Commission (FP6), realized in a Marie Curie Training Network.</a>  
@@ -161,6 +163,7 @@ permalink: /publications/
 [1] **Petrakopoulou F.**, 2015. “Guidelines for sustainable development of stand-alone energy networks”, Technical report, prepared for the FP7 project GENERGIS (IEF-2012-332028).
 
 <br>
+<a id="Lecture notes"></a>
 <h2 style="color:IndianRed;">Lecture notes</h2>
 
 [2] **Petrakopoulou F.**, Nikolos I., 2014. “Lecture notes and exercises of the class Heat Transfer” (in Greek: «Σημειώσεις και ασκήσεις μαθήματος Μετάδοση Θερμότητας»), Undergraduate class “Heat Transfer”, 7th semester, Technical University of Crete.
