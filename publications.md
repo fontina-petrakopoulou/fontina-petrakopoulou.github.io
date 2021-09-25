@@ -6,7 +6,7 @@ permalink: /publications/
 <em><a href="#Articles">Articles</a>, <a href="#Chapters in books">chapters in books</a>, <a href="#PhD thesis">PhD thesis</a>, <a href="#Technical reports">technical reports</a> & <a href="#Lecture notes">lecture notes</a></em>
 <br>
 <a id="Articles"></a>
-<h2 style="color:IndianRed; text-align:center;">Articles</h2>
+<h2 style="color:IndianRed;">Articles</h2>
 
 ### 2021
 
