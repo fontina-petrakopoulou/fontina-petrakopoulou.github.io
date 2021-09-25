@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research lines & <em> <a href="#Projects">projects</a>
+<!--title: Research lines & <a href="#Projects">projects</a>-->
 permalink: /research/
 ---
 
