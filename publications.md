@@ -6,7 +6,7 @@ permalink: /publications/
 <em><a href="#Articles">Articles</a>, <a href="#Chapters in books">chapters in books</a>, <a href="#PhD thesis">PhD thesis</a>, <a href="#Technical reports">technical reports</a> & <a href="#Lecture notes">lecture notes</a></em>
 <br>
 <a id="Articles"></a>
-<h2 style="color:IndianRed;">Articles</h2>
+<h2 style="color:IndianRed;text-align:center;">Articles</h2>
 
 ### 2021
 
@@ -141,12 +141,12 @@ permalink: /publications/
 
 <br>
 <a id="PhD thesis"></a>
-<h2 style="color:IndianRed;">PhD thesis</h2>
+<h2 style="color:IndianRed;text-align:center;">PhD thesis</h2>
 
 **Petrakopoulou F.**, 2010.  <a href="/files/articles/Dissertation_Petrakopoulou_TU_Berlin.pdf" target="_blank" > “Comparative evaluation of power plants with CO2 capture: Thermodynamic, economic and environmental performance”, Technische Universitaet Berlin, supported by the European Commission (FP6), realized in a Marie Curie Training Network.</a>  
    
 <br> 
-<h2 style="color:IndianRed;">Technical reports</h2>
+<h2 style="color:IndianRed;text-align:center;">Technical reports</h2>
 
 [7] **Petrakopoulou F.**, 2015. “Review of laws and regulations concerning renewable energy policy”, Technical report, prepared for the FP7 project GENERGIS (IEF-2012-332028).
 
@@ -164,7 +164,7 @@ permalink: /publications/
 
 <br>
 <a id="Lecture notes"></a>
-<h2 style="color:IndianRed;">Lecture notes</h2>
+<h2 style="color:IndianRed;text-align:center;">Lecture notes</h2>
 
 [2] **Petrakopoulou F.**, Nikolos I., 2014. “Lecture notes and exercises of the class Heat Transfer” (in Greek: «Σημειώσεις και ασκήσεις μαθήματος Μετάδοση Θερμότητας»), Undergraduate class “Heat Transfer”, 7th semester, Technical University of Crete.
 
