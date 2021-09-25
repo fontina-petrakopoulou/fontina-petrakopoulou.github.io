@@ -131,7 +131,7 @@ permalink: /publications/
 
 <br>
 <a id="Chapters in books"></a>
-<h2 style="color:IndianRed;">Chapters in books</h2>
+<h2 style="color:IndianRed;text-align:center;">Chapters in books</h2>
 
 [3] **Petrakopoulou F.**, De la Rocha Camba E., 2021. “Hybrid fossil fuel/renewable systems for polygeneration” Cheater 7 in Polygeneration Systems – Design, Processes and Technologies (F. Calise, M.D. D’Accadia, L. Vanoli, M. Vicidomini), Elsevier, ISBN: 978-0-12-820625-6.
 
