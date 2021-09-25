@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research lines & projects
+title: Research lines & <em> <a href="#Projects">projects</a>
 permalink: /research/
 ---
 
@@ -17,6 +17,7 @@ D) [The water-energy-climate nexus](http://fontina-petrakopoulou.github.io/resea
 E) [Automatization of existing and development of new optimization tools](http://fontina-petrakopoulou.github.io/researchlineE/)<br>
 
 ---
+<a id="Projects"></a>
 # Projects 
 
 06/2018 – 05/2023    
