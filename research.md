@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Research lines & projects
 permalink: /research/
 ---
 
@@ -17,7 +17,7 @@ D) [The water-energy-climate nexus](http://fontina-petrakopoulou.github.io/resea
 E) [Automatization of existing and development of new optimization tools](http://fontina-petrakopoulou.github.io/researchlineE/)<br>
 
 ---
-### Projects 
+# Projects 
 
 06/2018 – 05/2023    
 **Ramón y Cajal**    
