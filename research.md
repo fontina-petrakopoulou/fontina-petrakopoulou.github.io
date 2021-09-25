@@ -1,6 +1,6 @@
 ---
 layout: page
-<!--title: Research lines & <a href="#Projects">projects</a>-->
+title: Research
 permalink: /research/
 ---
 
@@ -18,7 +18,7 @@ E) [Automatization of existing and development of new optimization tools](http:/
 
 ---
 <a id="Projects"></a>
-title: Projects
+<h2 style="color:IndianRed;">Projects</h2>
 
 06/2018 – 05/2023    
 **Ramón y Cajal**    
