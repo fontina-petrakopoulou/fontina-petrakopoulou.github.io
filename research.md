@@ -18,7 +18,7 @@ E) [Automatization of existing and development of new optimization tools](http:/
 
 ---
 <a id="Projects"></a>
-# Projects 
+title: Projects
 
 06/2018 – 05/2023    
 **Ramón y Cajal**    
