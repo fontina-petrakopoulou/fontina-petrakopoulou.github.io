@@ -10,7 +10,9 @@ permalink: /publications/
 
 ### 2021
 
-[47] Nasrollahi, H., Safaei Boroujeni, R., Shirmohammadi R., Najafi Nobar Sh., Aslani A., Amidpour, M., **Petrakopoulou F.**, 2021. “Optimization of Water Pressure of a Distribution Network within the Water–Energy Nexus”, Applied Sciences, 8371. 
+[48] Sefiddashti, A.R. Shirmohammadi R., Petrakopoulou F., 2021. <a href="https://www.mdpi.com/2076-3417/11/18/8371" target="_blank" >“Evaluation of a hybrid gas-turbine system with air injection driven by a natural-gas turboexpander", sustainability-1377454.</a> 
+
+[47] Nasrollahi, H., Safaei Boroujeni, R., Shirmohammadi R., Najafi Nobar Sh., Aslani A., Amidpour, M., **Petrakopoulou F.**, 2021. <a href="https://www.mdpi.com/2076-3417/11/18/8371" target="_blank" >“Optimization of Water Pressure of a Distribution Network within the Water–Energy Nexus”, Applied Sciences, 8371.</a>  
 
 [46] 	**Petrakopoulou F.**, 2021. <a href="/files/articles/2021_WaterCost.pdf" target="_blank" >"Defining the cost of water impact for thermoelectric power generation", Energy Reports 7, 2101-2112.</a> 
 
@@ -25,7 +27,7 @@ permalink: /publications/
 
 [42] 	Calise F., Liberato Cappiello F., Vicidomini M., **Petrakopoulou F.**, 2020. <a href="/files/articles/2020_Calise_etal.pdf" target="_blank" >"Water-Energy Nexus: a thermoeconomic analysis of polygeneration systems for small Mediterranean islands", Energy Conversion and Management 220, 113043.</a> 
 
-[41] 	de la Rocha Camba, E., **Petrakopoulou, F.**, 2020. <a href="/files/articles/2020_EduardoEnergies.pdf" target="_blank" >"Earth-cooling air tunnels for thermal power plants: initial design by CFD modelling", Energies 13, 797.</a>  
+[41] 	de la Rocha Camba, E., **Petrakopoulou, F.**, 2020. <a href="https://www.mdpi.com/1996-1073/13/4/797" target="_blank" >"Earth-cooling air tunnels for thermal power plants: initial design by CFD modelling", Energies 13, 797.</a>  
 
 [40] 	Khoshgoftar Manesh, M.H., Kabiri., S., Yazdi, M., **Petrakopoulou, F.**, 2020. <a href="/files/articles/2020_Khoshgoftar2.pdf" target="_blank" >"Exergoeconomic modeling and evaluation of a combined-cycle plant with MSF and MED desalination", Journal of Water Reuse and Desalination 10 (2): 158–172.</a> 
 
