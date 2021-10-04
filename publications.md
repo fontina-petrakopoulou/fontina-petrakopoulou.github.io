@@ -10,7 +10,9 @@ permalink: /publications/
 
 ### 2021
 
-[48] Sefiddashti, A.R. Shirmohammadi R., Petrakopoulou F., 2021. <a href="https://www.mdpi.com/2071-1050/13/19/10994" target="_blank" >“Evaluation of a hybrid gas-turbine system with air injection driven by a natural-gas turboexpander", sustainability-1377454.</a> 
+[49] **Petrakopoulou F.**, Batuecas, E., 2021. “Introduction to an exergy-based socioeconomic analysis”, accepted in Energy Conversion and Management.
+
+[48] Sefiddashti, A.R. Shirmohammadi R., **Petrakopoulou F.**, 2021. <a href="https://www.mdpi.com/2071-1050/13/19/10994" target="_blank" >“Evaluation of a hybrid gas-turbine system with air injection driven by a natural-gas turboexpander", sustainability-1377454.</a> 
 
 [47] Nasrollahi, H., Safaei Boroujeni, R., Shirmohammadi R., Najafi Nobar Sh., Aslani A., Amidpour, M., **Petrakopoulou F.**, 2021. <a href="https://www.mdpi.com/2076-3417/11/18/8371" target="_blank" >“Optimization of Water Pressure of a Distribution Network within the Water–Energy Nexus”, Applied Sciences, 8371.</a>  
 
