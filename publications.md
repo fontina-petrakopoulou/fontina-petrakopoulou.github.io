@@ -10,11 +10,15 @@ permalink: /publications/
 
 ### 2021
 
-[51] **Petrakopoulou F.**, Batuecas, E., 2021. “Introduction to an exergy-based socioeconomic analysis”, accepted in Energy Conversion and Management.
+[52] **Petrakopoulou F.**, Batuecas, E., 2021. “Introduction to an exergy-based socioeconomic analysis”, accepted in Energy Conversion and Management.
 
-[50] Calise F., Liberato Cappiello F., Dentice d’Accadia M., **Petrakopoulou F.**, Vicidomini M., 2021. "A solar-driven 5th generation district heating and cooling network with ground-source heat pumps: a thermo-economic analysis", accepted in Sustainable Cities and Society. 
+[51] Calise F., Liberato Cappiello F., Dentice d’Accadia M., **Petrakopoulou F.**, Vicidomini M., 2021. "A solar-driven 5th generation district heating and cooling network with ground-source heat pumps: a thermo-economic analysis", accepted in Sustainable Cities and Society. 
 
-[49] De la Rocha Camba, E. **Petrakopoulou F.**, 2021. "Economic analysis of a zero-water solar power plant for energy security", accepted in Applied Sciences.
+[50] De la Rocha Camba, E. **Petrakopoulou F.**, 2021. "Economic analysis of a zero-water solar power plant for energy security", accepted in Applied Sciences.
+
+[49] Sefiddashti, A.R. Shirmohammadi R., **Petrakopoulou F.**, 2021. <a href="https://www.mdpi.com/2071-1050/13/19/10994" target="_blank" >“Efficiency Enhancement of Gas Turbine Systems with Air Injection Driven by Natural Gas Turboexpanders", sustainability-1377454.</a> 
+
+[48] Shirmohammadia R., Aslani A., Ghasempour R., Romeo L.M., **Petrakopoulou F.**, 2021. "Techno-economic assessment and optimization of a solar-assisted industrial post-combustion CO2 capture and utilization plant", accepted for publication, Energy Reports.
 
 [48] Sefiddashti, A.R. Shirmohammadi R., **Petrakopoulou F.**, 2021. <a href="https://www.mdpi.com/2071-1050/13/19/10994" target="_blank" >“Efficiency Enhancement of Gas Turbine Systems with Air Injection Driven by Natural Gas Turboexpanders", sustainability-1377454.</a> 
 
