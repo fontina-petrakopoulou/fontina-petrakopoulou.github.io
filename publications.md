@@ -14,7 +14,7 @@ permalink: /publications/
 
 [51] Calise F., Liberato Cappiello F., Dentice d’Accadia M., **Petrakopoulou F.**, Vicidomini M., 2021. "A solar-driven 5th generation district heating and cooling network with ground-source heat pumps: a thermo-economic analysis", accepted in Sustainable Cities and Society. 
 
-[50] De la Rocha Camba, E. **Petrakopoulou F.**, 2021. "Economic analysis of a zero-water solar power plant for energy security", accepted in Applied Sciences.
+[50] De la Rocha Camba, E. **Petrakopoulou F.**, 2021. <a href="https://www.mdpi.com/2076-3417/11/20/9639" target="_blank" > "Economic analysis of a zero-water solar power plant for energy security", accepted in Applied Sciences.</a>
 
 [49] Sefiddashti, A.R. Shirmohammadi R., **Petrakopoulou F.**, 2021. <a href="https://www.mdpi.com/2071-1050/13/19/10994" target="_blank" >“Efficiency Enhancement of Gas Turbine Systems with Air Injection Driven by Natural Gas Turboexpanders", sustainability-1377454.</a> 
 
