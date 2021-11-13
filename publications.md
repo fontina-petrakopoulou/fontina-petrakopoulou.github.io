@@ -12,7 +12,7 @@ permalink: /publications/
 
 [52] **Petrakopoulou F.**, Batuecas, E., 2021. <a href="/files/articles/2021_ESEC_EnConvMan.pdf" target="_blank" > “Introduction to an exergy-based socioeconomic analysis”, accepted in Energy Conversion and Management, 249, 114853.</a> 
 
-[51] Calise F., Liberato Cappiello F., Dentice d’Accadia M., **Petrakopoulou F.**, Vicidomini M., 2021. "A solar-driven 5th generation district heating and cooling network with ground-source heat pumps: a thermo-economic analysis", accepted in Sustainable Cities and Society. 
+[51] Calise F., Liberato Cappiello F., Dentice d’Accadia M., **Petrakopoulou F.**, Vicidomini M., 2021. <a href="/files/articles/2021_Leganes5thGenDHC.pdf" target="_blank" >  "A solar-driven 5th generation district heating and cooling network with ground-source heat pumps: a thermo-economic analysis", Sustainable Cities and Society, 76, 103438. </a> 
 
 [50] De la Rocha Camba, E. **Petrakopoulou F.**, 2021. <a href="https://www.mdpi.com/2076-3417/11/20/9639" target="_blank" > "Economic analysis of a zero-water solar power plant for energy security", Applied Sciences 11(20), 9639.</a>
 
