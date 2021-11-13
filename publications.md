@@ -18,7 +18,7 @@ permalink: /publications/
 
 [49] Sefiddashti, A.R. Shirmohammadi R., **Petrakopoulou F.**, 2021. <a href="https://www.mdpi.com/2071-1050/13/19/10994" target="_blank" >“Efficiency Enhancement of Gas Turbine Systems with Air Injection Driven by Natural Gas Turboexpanders", sustainability-1377454.</a> 
 
-[48] Shirmohammadia R., Aslani A., Ghasempour R., Romeo L.M., **Petrakopoulou F.**, 2021. "Techno-economic assessment and optimization of a solar-assisted industrial post-combustion CO2 capture and utilization plant", accepted for publication, Energy Reports.
+[48] Shirmohammadia R., Aslani A., Ghasempour R., Romeo L.M., **Petrakopoulou F.**, 2021. <a href="https://www.sciencedirect.com/science/article/pii/S2352484721011094" target="_blank" > "Techno-economic assessment and optimization of a solar-assisted industrial post-combustion CO2 capture and utilization plant", Energy Reports 7, 7390-7404.</a> 
 
 [48] Sefiddashti, A.R. Shirmohammadi R., **Petrakopoulou F.**, 2021. <a href="https://www.mdpi.com/2071-1050/13/19/10994" target="_blank" >“Efficiency Enhancement of Gas Turbine Systems with Air Injection Driven by Natural Gas Turboexpanders", sustainability-1377454.</a> 
 
