@@ -31,7 +31,7 @@ permalink: /publications/
 
 ### 2020
 
-[44] 	**Petrakopoulou, F.**, Robinson, A., Olmeda-Delgado, M., 2020. <a href="/files/articles/2020_CoolingWaterPP_ClimateChange.pdf" target="_blank" >"Impact of climate change on power-plant operation", Journal of Cleaner Production 273, 122816.</a> 
+[44] 	**Petrakopoulou, F.**, Robinson, A., Olmeda-Delgado, M., 2020. <a href="/files/articles/2020_CoolingWaterPP_ClimateChange.pdf" target="_blank" >"Impact of climate change on fossil fuel power-plant efficiency and water use", Journal of Cleaner Production 273, 122816.</a> 
 
 [43]   Sharifi, S., Nozad Heravi, F., Shirmohammadi, R., Ghasempour, R., **Petrakopoulou, F.**, Romeo, L.M., 2020. <a href="/files/articles/2020_Sharifi_etalsolar-assistedLiBr/waterabsorption.pdf" target="_blank" >"Comprehensive thermodynamic and operational optimization of a solar-assisted LiBr/water absorption refrigeration system", Energy Reports 6, 2309-2323.</a> 
 
