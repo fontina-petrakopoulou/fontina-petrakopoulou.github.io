@@ -145,7 +145,7 @@ permalink: /publications/
 <a id="Chapters in books"></a>
 <h2 style="color:IndianRed;text-align:center;">Chapters in books</h2>
 
-[3] **Petrakopoulou F.**, De la Rocha Camba E., 2021. “Hybrid fossil fuel/renewable systems for polygeneration” Cheater 7 in Polygeneration Systems – Design, Processes and Technologies (F. Calise, M.D. D’Accadia, L. Vanoli, M. Vicidomini), Elsevier, ISBN: 978-0-12-820625-6.
+[3] **Petrakopoulou F.**, De la Rocha Camba E., 2021. “Hybrid fossil fuel/renewable systems for polygeneration” Chapter 7 in Polygeneration Systems – Design, Processes and Technologies (F. Calise, M.D. D’Accadia, L. Vanoli, M. Vicidomini), Elsevier, ISBN: 978-0-12-820625-6.
 
 [2] **Petrakopoulou F.**, Tsatsaronis G., Boyano, A., Morosuk, T., 2012. <a href="/files/articles/2012_Intech.pdf" target="_blank" >“Post-Combustion CO2 Capture with Monoethanolamine in a Combined-Cycle Power Plant: Exergetic, Economic and Environmental Assessment”, Chapter 21 in Greenhouse Gases - Emission, Measurement and Management (Dr. Guoxiang Liu), InTech (Open Access Publisher), ISBN: 978-953-51-0323-3, pp. 463-484.</a>  
 
