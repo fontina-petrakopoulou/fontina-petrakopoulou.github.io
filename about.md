@@ -8,7 +8,7 @@ permalink: /about
 
 
 <h2>Welcome!</h2>
-I am a Ramón y Cajal Professor (tenure-track) at the Department Thermal and Fluid Engineering of the University Carlos III of Madrid. I am also currently leading the <a href="http://ise.uc3m.es/research/water-energy-nexus/" target="_blank">research line Water-Energy Nexus of the Department</a>.
+I am a Ramón y Cajal Professor (accredited associate professor) at the Department Thermal and Fluid Engineering of the University Carlos III of Madrid. I am also currently leading the <a href="http://ise.uc3m.es/research/water-energy-nexus/" target="_blank">research line Water-Energy Nexus of the Department</a>.
 
 My goal is to study and develop energy conversion processes and methods that support the sustainable development in the energy sector. The tools I use are simulation software and analyses based on costs, economics and environmental impacts. By focusing on original structures, we aim to target knowledge gaps on sustainable power plants for hybrid and polygeneration (renewable- and fossil-based) for zero-emission and zero-water operation.
 
@@ -16,7 +16,7 @@ My goal is to study and develop energy conversion processes and methods that sup
 
 Come work with us and be part of a forward thinking research group. I am open to new ideas and I support innovative and attractive proposals. Contact me by e-mail with a CV and your research interests.-->
 
-Take a look at [my **research lines** here](http://fontina-petrakopoulou.github.io/research/) and a short [**Curriculum Vitae** here](http://fontina-petrakopoulou.github.io/CV/).
+Take a look at [my **research lines** here](http://fontina-petrakopoulou.github.io/research/) and a short [**Curriculum Vitae** here](http://fontina-petrakopoulou.github.io/files/_CV_Petrakopoulou.pdf).
 
 <!-- I am always looking for motivated students and researchers to come work with me and be part of a forward thinking research group. I am open to new ideas and I support innovative and attractive proposals. Contact me by e-mail with a CV and your research interests. -->
 
