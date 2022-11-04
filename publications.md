@@ -15,18 +15,18 @@ permalink: /publications/
 [54] Fernández Torres J., **Petrakopoulou F.**, 2022. <a href="/files/articles/2022_Jaime_A Closer Look at the Environmental Impact of Solar and Wind Energy.pdf" target="_blank" > “A Closer Look at the Environmental Impact of Solar and Wind Energy”, Global Challenges, 6 (8), 2200016.
 
 [53] Calise F., Liberato Cappiello F., Dentice d’Accadia M., **Petrakopoulou F.**, Vicidomini M., 2022. <a href="/files/articles/2021_Leganes5thGenDHC.pdf" target="_blank" >  "A solar-driven 5th generation district heating and cooling network with ground-source heat pumps: a thermo-economic analysis", Sustainable Cities and Society, 76, 103438. </a> 
+   
+[52] Shirmohammadi R., Aslani A., Ghasempour R., Romeo L.M., **Petrakopoulou F.**, 2021. <a href="/files/articles/2021_Exergoenvironmental_CO2util.pdf" target="_blank" > “Exergoenvironmental Analysis and Thermoeconomic Optimization of an Industrial CO2 Capture and Utilization Installation", Journal of CO2 Utilization 59, 101927.</a> 
 
 ### 2021
 
-[52] **Petrakopoulou F.**, Batuecas, E., 2021. <a href="/files/articles/2021_ESEC_EnConvMan.pdf" target="_blank" > “Introduction to an exergy-based socioeconomic analysis”, Energy Conversion and Management, 249, 114853.</a> 
+[51] **Petrakopoulou F.**, Batuecas, E., 2021. <a href="/files/articles/2021_ESEC_EnConvMan.pdf" target="_blank" > “Introduction to an exergy-based socioeconomic analysis”, Energy Conversion and Management, 249, 114853.</a> 
 
-[51] De la Rocha Camba, E. **Petrakopoulou F.**, 2021. <a href="https://www.mdpi.com/2076-3417/11/20/9639" target="_blank" > "Economic analysis of a zero-water solar power plant for energy security", Applied Sciences 11(20), 9639.</a>
+[50] De la Rocha Camba, E. **Petrakopoulou F.**, 2021. <a href="https://www.mdpi.com/2076-3417/11/20/9639" target="_blank" > "Economic analysis of a zero-water solar power plant for energy security", Applied Sciences 11(20), 9639.</a>
 
-[50] Sefiddashti, A.R. Shirmohammadi R., **Petrakopoulou F.**, 2021. <a href="https://www.mdpi.com/2071-1050/13/19/10994" target="_blank" >“Efficiency Enhancement of Gas Turbine Systems with Air Injection Driven by Natural Gas Turboexpanders", sustainability-1377454.</a> 
+[49] Sefiddashti, A.R. Shirmohammadi R., **Petrakopoulou F.**, 2021. <a href="https://www.mdpi.com/2071-1050/13/19/10994" target="_blank" >“Efficiency Enhancement of Gas Turbine Systems with Air Injection Driven by Natural Gas Turboexpanders", sustainability-1377454.</a> 
 
-[49] Shirmohammadi R., Aslani A., Ghasempour R., Romeo L.M., **Petrakopoulou F.**, 2021. <a href="https://www.sciencedirect.com/science/article/pii/S2352484721011094" target="_blank" > "Techno-economic assessment and optimization of a solar-assisted industrial post-combustion CO2 capture and utilization plant", Energy Reports 7, 7390-7404.</a> 
-
-[48] Shirmohammadi R., Aslani A., Ghasempour R., Romeo L.M., **Petrakopoulou F.**, 2021. <a href="/files/articles/2021_Exergoenvironmental_CO2util.pdf" target="_blank" > “Exergoenvironmental Analysis and Thermoeconomic Optimization of an Industrial CO2 Capture and Utilization Installation", Journal of CO2 Utilization 59, 101927.</a> 
+[48] Shirmohammadi R., Aslani A., Ghasempour R., Romeo L.M., **Petrakopoulou F.**, 2021. <a href="https://www.sciencedirect.com/science/article/pii/S2352484721011094" target="_blank" > "Techno-economic assessment and optimization of a solar-assisted industrial post-combustion CO2 capture and utilization plant", Energy Reports 7, 7390-7404.</a> 
 
 [47] Nasrollahi, H., Safaei Boroujeni, R., Shirmohammadi R., Najafi Nobar Sh., Aslani A., Amidpour, M., **Petrakopoulou F.**, 2021. <a href="https://www.mdpi.com/2076-3417/11/18/8371" target="_blank" >“Optimization of Water Pressure of a Distribution Network within the Water–Energy Nexus”, Applied Sciences, 8371.</a>  
 
