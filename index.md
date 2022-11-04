@@ -9,7 +9,7 @@ permalink: /
 <!-- ![Fontina Petrakopoulou](/files/pic2021.png){:style="float: left;margin-right: 20px;margin-top: 7px;" width="50px"} -->
 <img src="/files/figs/fontina_profile2_2021.png" alt="Fontina Petrakopoulou" width="250px" style="float: right;margin-left: 70px;margin-top: 7px;margin-bottom: 5px">
 
-I am a Ramón y Cajal Professor (tenure-track) at the Department Thermal and Fluid Engineering of the University Carlos III of Madrid. I am also currently leading the <a href="http://ise.uc3m.es/research/water-energy-nexus/" target="_blank">research line Water-Energy Nexus of the Department</a>.
+I am a Ramón y Cajal Fellow (accredited associate professor) at the Department Thermal and Fluid Engineering of the University Carlos III of Madrid. I am also currently leading the <a href="http://ise.uc3m.es/research/water-energy-nexus/" target="_blank">research line Water-Energy Nexus of the Department</a>.
 
 My goal is to study and develop energy conversion processes and methods that support the sustainable development in the energy sector. The tools I use are simulation software and analyses based on costs, economics and environmental impacts. By focusing on original structures, we aim to target knowledge gaps on sustainable power plants for hybrid and polygeneration (renewable- and fossil-based) for zero-emission and zero-water operation.
 
