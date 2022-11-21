@@ -17,7 +17,7 @@ My goal is to study and develop energy conversion processes and methods that sup
 
 Come work with us and be part of a forward thinking research group. I am open to new ideas and I support innovative and attractive proposals. Contact me by e-mail with a CV and your research interests.-->
 
-Take a look at [my **research lines** here](http://fontina-petrakopoulou.github.io/research/) and a short [**Curriculum Vitae** here] <a href="http://fontina-petrakopoulou.github.io/files/CV_Petrakopoulou.pdf" target="_blank">.
+Take a look at [my **research lines** here](http://fontina-petrakopoulou.github.io/research/) and a short [**Curriculum Vitae** here](<a href="http://fontina-petrakopoulou.github.io/files/CV_Petrakopoulou.pdf" target="_blank">).
 
 <!-- I am always looking for motivated students and researchers to come work with me and be part of a forward thinking research group. I am open to new ideas and I support innovative and attractive proposals. Contact me by e-mail with a CV and your research interests. -->
 
