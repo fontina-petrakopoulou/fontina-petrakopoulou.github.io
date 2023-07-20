@@ -8,6 +8,12 @@ permalink: /publications/
 <a id="Articles"></a>
 <h2 style="color:IndianRed;text-align:center;">Articles</h2>
 
+### 2023
+
+[57] **Petrakopoulou F.**, García-Tenorio Corcuera E., 2023. <a href="/files/articles/2022_Enrique_TotalEfficiency.pdf" target="_blank" > “Evaluating hydrogen-based electricity generation using the concept of total efficiency”, Energy Conversion & Management, accepted for publication.
+
+[56] Shirmohammadi R., Aslani A., Batuecas E., Ghasempour R., Romeo L.M., **Petrakopoulou F.**, 2023. <a href="/files/articles/2023_Reza_LCA.pdf" target="_blank" > “A comparative life cycle assessment for solar integration in CO2 capture utilized in a downstream urea synthesis plant”, Journal of CO2 Utilization, 74, 102534.
+
 ### 2022
 
 [55] **Petrakopoulou F.**, García-Tenorio Corcuera E., 2022. <a href="/files/articles/2022_Enrique_TotalEfficiency.pdf" target="_blank" > “Introducing the total efficiency to address challenges of the 21st century”, Journal of Cleaner Production, 374, 133409.
