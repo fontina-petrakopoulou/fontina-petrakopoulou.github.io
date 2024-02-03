@@ -1,7 +1,7 @@
 ---
 layout: default
 <!--title: About me-->
-permalink: /
+permalink: /about
 ---
 
 <h2>Welcome!</h2>
