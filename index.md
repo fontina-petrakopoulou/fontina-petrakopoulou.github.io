@@ -11,7 +11,7 @@ permalink: /
 
 In 2024 I took over the <a href="https://www.tu.berlin/energietechnik" target="_blank">Department Chair of Energy Engineering and Climate Protection of Technische Universität Berlin</a>.
 
-The goal the Department is to study and develop energy conversion processes and methods that support the sustainable development in the energy sector. The tools we use are simulation software and analyses based on costs, economics and environmental impacts. By focusing on original structures, we aim to target knowledge gaps on sustainable power plants for hybrid and polygeneration (renewable- and fossil-based) for zero-emission and zero-water operation.
+The goal of the Department is to study and develop energy conversion processes and methods that support the sustainable development in the energy sector. The tools we use are simulation software and analyses based on costs, economics and environmental impacts. By focusing on original structures, we aim to target knowledge gaps on sustainable power plants for hybrid and polygeneration (renewable- and fossil-based) for zero-emission and zero-water operation.
 
 <!-- We work on the simulation and optimization of energy conversion processes using thermodynamic, economic and environmental criteria. The systems we study include, among others, renewable- and fossil-based power plants, biofuel generation processes and zero-emission energy processes (including CO2 capture). 
 
