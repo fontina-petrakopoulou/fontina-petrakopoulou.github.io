@@ -17,7 +17,7 @@ The goal of the Department is to study and develop energy conversion processes a
 
 Come work with us and be part of a forward thinking research group. We are open to new ideas and we support innovative and attractive proposals. Contact me by e-mail with a CV and your research interests.-->
 
-Take a look at [my **research lines** here](http://fontina-petrakopoulou.github.io/research/) and a short [**Curriculum Vitae** here](http://fontina-petrakopoulou.github.io/files/CV_Petrakopoulou.pdf).
+Take a look at [my **research lines** here](http://fontina-petrakopoulou.github.io/research/) and a short <a href="[https://www.tu.berlin/energietechnik](http://fontina-petrakopoulou.github.io/files/CV_Petrakopoulou.pdf)" target="_blank">.
 
 <!-- We are always looking for motivated students and researchers to come work with us and be part of a forward thinking research group. We are open to new ideas and we support innovative and attractive proposals. Contact me by e-mail with a CV and your research interests. -->
 
