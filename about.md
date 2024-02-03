@@ -8,9 +8,9 @@ permalink: /about
 
 
 <h2>Welcome!</h2>
-I am a Ramón y Cajal Professor (accredited associate professor) at the Department Thermal and Fluid Engineering of the University Carlos III of Madrid. I am also currently leading the <a href="http://ise.uc3m.es/research/water-energy-nexus/" target="_blank">research line Water-Energy Nexus of the Department</a>.
+In 2024 I took over the Department Chair of Energy Engineering and Climate Protection of Technische Universität Berlin<a href="https://www.tu.berlin/energietechnik" target="_blank">. 
 
-My goal is to study and develop energy conversion processes and methods that support the sustainable development in the energy sector. The tools I use are simulation software and analyses based on costs, economics and environmental impacts. By focusing on original structures, we aim to target knowledge gaps on sustainable power plants for hybrid and polygeneration (renewable- and fossil-based) for zero-emission and zero-water operation.
+The goal the Department is to study and develop energy conversion processes and methods that support the sustainable development in the energy sector. The tools we use are simulation software and analyses based on costs, economics and environmental impacts. By focusing on original structures, we aim to target knowledge gaps on sustainable power plants for hybrid and polygeneration (renewable- and fossil-based) for zero-emission and zero-water operation.
 
 <!-- I work on the simulation and optimization of energy conversion processes using thermodynamic, economic and environmental criteria. The systems I study include, among others, renewable- and fossil-based power plants, biofuel generation processes and zero-emission energy processes (including CO2 capture). 
 
@@ -23,11 +23,25 @@ Take a look at [my **research lines** here](http://fontina-petrakopoulou.github.
 
 <br>
 **Contact**<br>
-University Carlos III of Madrid   
-Avda. de la universidad 30  
-28911 Leganés (Madrid)  
-Office: 1.1.D.3 (Edificio Betancourt)  
-email: fpetrako@ing.uc3m.es<br>
+Technische Universität Berlin    
+Institut für Energietechnik und Klimaschutz   
+Sekr. KT 1   
+Marchstr. 18    
+10587 Berlin    
+Tel.: +49 30 314-22181   
+email: fontina.petrakopoulou@tu-berlin.de<br>
 [<img src="/files/orcid-logo.png" alt="Fontina Petrakopoulou" width="60px" style="float: left;margin-right: 35px;margin-top: 6px;margin-bottom: 0px;">](http://orcid.org/0000-0001-6878-4591)
 [<img src="/files/Scholar.png" alt="Fontina Petrakopoulou" width="120px" style="float: left;margin-right:15px;margin-top: 4px;margin-bottom: 0px;">](https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en)
 [<img src="/files/researchgate-dss.png" alt="Fontina Petrakopoulou" width="30px" style="float: left;margin-right: 0px;margin-top: 4px;margin-bottom: 0px;">](https://www.researchgate.net/profile/Fontina_Petrakopoulou)
+
+
+In 2024 I took over the Department Chair of Energy Engineering and Climate Protection of Technische Universität Berlin<a href="https://www.tu.berlin/energietechnik" target="_blank">. 
+
+The goal the Department is to study and develop energy conversion processes and methods that support the sustainable development in the energy sector. The tools we use are simulation software and analyses based on costs, economics and environmental impacts. By focusing on original structures, we aim to target knowledge gaps on sustainable power plants for hybrid and polygeneration (renewable- and fossil-based) for zero-emission and zero-water operation.
+
+<!-- We work on the simulation and optimization of energy conversion processes using thermodynamic, economic and environmental criteria. The systems we study include, among others, renewable- and fossil-based power plants, biofuel generation processes and zero-emission energy processes (including CO2 capture). 
+
+Come work with us and be part of a forward thinking research group. We are open to new ideas and we support innovative and attractive proposals. Contact me by e-mail with a CV and your research interests.-->
+
+Take a look at [my **research lines** here](http://fontina-petrakopoulou.github.io/research/) and a short [**Curriculum Vitae** here](http://fontina-petrakopoulou.github.io/files/CV_Petrakopoulou.pdf).
+
