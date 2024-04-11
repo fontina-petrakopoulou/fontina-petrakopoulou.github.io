@@ -75,7 +75,7 @@ permalink: /publications/
 
 [32] **Petrakopoulou F.**, Sánchez-Delgado S., Marugán-Cruz C., Santana D., 2017. <a href="/files/articles/2017_EnConvMan_SolarCCPP.pdf" target="_blank" >"Improving the efficiency of gas turbine systems with volumetric solar receivers", Energy Conversion and Management 149, 579-592.</a>  
 
-[31]  Yolanda L., **Petrakopoulou F.**, Morosuk T., Boyano A., Tsatsaronis G., <a href="/files/articles/2017_Energy_Lara_etal.pdf" target="_blank" >“The Relationship Between Costs and Environmental Impacts in Power Plants: An Exergy-Based Study”, Energy, 138, 920-928, DOI: 10.1016/j.energy.2017.07.087.</a> 
+[31]  Yolanda L., **Petrakopoulou F.**, Morosuk T., Boyano A., Tsatsaronis G., <a href="/files/articles/2017_Energy_Lara_etal.pdf" target="_blank" >“An exergy-based study on the relationship between costs and environmental impacts in power plants”, Energy, 138, 920-928, DOI: 10.1016/j.energy.2017.07.087.</a> 
 
 [30]  **Petrakopoulou F.**, 2017. <a href="/files/articles/2017_sustainability-09-00327_questionnaire.pdf" target="_blank" >“The Social Perspective on the Renewable Energy Autonomy of Geographically Isolated Communities: Evidence from a Mediterranean Island”, Sustainability 9(3), 327; doi:10.3390/su9030327.</a> 
 
@@ -115,9 +115,9 @@ permalink: /publications/
 
 [15]	**Petrakopoulou F.**, Tsatsaronis G., Morosuk T., 2014. <a href="/files/articles/2013_WileyEnvProgr_ep11848.pdf" target="_blank" >“CO2 capture in a chemical looping combustion power plant evaluated with an advanced exergetic analysis”, Wiley - Environmental Progress and Sustainable Energy 33(3), 1017-1025.</a> 
 
-### 2013
-
 [14] 	**Petrakopoulou F.**, Tsatsaronis G., Morosuk T., 2013. <a href="/files/articles/2014_JERT.pdf" target="_blank" >“Assessment of a power plant with CO2 capture using an advanced exergoenvironmental analysis”, ASME Journal of Energy Resources Technology 136(2), 022001.</a> 
+
+### 2013
 
 [13]	**Petrakopoulou F.**, Tsatsaronis G., Morosuk T., 2013. <a href="/files/articles/2013_E&F.pdf" target="_blank" >“Evaluating the potential for improvement of an oxy-fuel power plant with CO2 capture using an advanced exergetic analysis”, ACS Energy & Fuels 27 (8), pp. 4850-4858.</a> 
 
