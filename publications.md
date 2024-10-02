@@ -10,9 +10,9 @@ permalink: /publications/
 
 ### 2024
 
-[59] **Petrakopoulou F.**, Robinson A., 2024. <a href="/files/articles/2022_Enrique_TotalEfficiency.pdf" target="_blank" > “Evaluation of a concentrated solar power plant under meteorological and climatological forcing”, Energy Reports, 11, 4776–4783.
+[59] **Petrakopoulou F.**, Robinson A., 2024. <a href="/files/articles/2024_AppEn_5thgenLeganes.pdf" target="_blank" > “Evaluation of a concentrated solar power plant under meteorological and climatological forcing”, Energy Reports, 11, 4776–4783. 
 
-[58] Calise F., Liberato Cappiello F., Cimmino L., Vicidomini M., **Petrakopoulou F.**, 2024. <a href="/files/articles/2023_Reza_LCA.pdf" target="_blank" > “Thermoeconomic analysis of a novel topology of a 5th generation district energy network for a commercial user”, Applied Energy, 371, 123718.
+[58] Calise F., Liberato Cappiello F., Cimmino L., Vicidomini M., **Petrakopoulou F.**, 2024. <a href="/files/articles/2024_EnRepHistDatapdf.pdf" target="_blank" > “Thermoeconomic analysis of a novel topology of a 5th generation district energy network for a commercial user”, Applied Energy, 371, 123718.
 
 ### 2023
 
