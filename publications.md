@@ -8,6 +8,12 @@ permalink: /publications/
 <a id="Articles"></a>
 <h2 style="color:IndianRed;text-align:center;">Articles</h2>
 
+### 2024
+
+[59] **Petrakopoulou F.**, Robinson A., 2024. <a href="/files/articles/2022_Enrique_TotalEfficiency.pdf" target="_blank" > “Evaluation of a concentrated solar power plant under meteorological and climatological forcing”, Energy Reports, 11, 4776–4783.
+
+[58] Calise F., Liberato Cappiello F., Cimmino L., Vicidomini M., **Petrakopoulou F.**, 2024. <a href="/files/articles/2023_Reza_LCA.pdf" target="_blank" > “Thermoeconomic analysis of a novel topology of a 5th generation district energy network for a commercial user”, Applied Energy, 371, 123718.
+
 ### 2023
 
 [57] **Petrakopoulou F.**, García-Tenorio Corcuera E., 2023. <a href="/files/articles/2022_Enrique_TotalEfficiency.pdf" target="_blank" > “Evaluating hydrogen-based electricity generation using the concept of total efficiency”, Energy Conversion & Management, Journal of Cleaner Production 374, 133409.
