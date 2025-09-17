@@ -8,6 +8,12 @@ permalink: /publications/
 <a id="Articles"></a>
 <h2 style="color:IndianRed;text-align:center;">Articles</h2>
 
+### 2025
+[61] García-Tenorio Corcuera E., **Petrakopoulou F.**, 2025. <a href="/files/articles/2025_CCS_TE_Enrique.pdf" target="_blank" > “Evaluating the impact of CO2 capture and storage on total efficiency: A lifecycle analysis”, Cleaner Engineering and Technology, 27, 101002.
+
+[60] Shuang Zhou, Yao Wu, Yanming Liu, Yuan Gao, Pei Yu, Rongbin Xu, Gongbo Chen, Tingting Ye, Wenhua Yu, Juan Antonio Añel, Peng Bi, Angie Bone, Kristie L. Ebi, Antonio Gasparrini, Masahiro Hashizume, Ollie Jay, Yoonhee Kim, Sarah Perkins-Kirkpatrick, Jason Kai Wei Lee, Tiantian Li, Shao Lin, Lina Madaniyazi, Jinah Park, **Fontina Petrakopoulou**, Xerxes Seposo, Aurelio Tobias, Shanshan Li and Yuming Guo, 2025. <a href="/files/articles/2025_Lethal Heat and Humidity
+Events.pdf" target="_blank" > “Lethal Heat and Humidity Events”, Annual Review of Environment and Resources, 50:9.1–9.26. 
+
 ### 2024
 
 [59] **Petrakopoulou F.**, Robinson A., 2024. <a href="/files/articles/2024_EnRepHistDatapdf.pdf" target="_blank" > “Evaluation of a concentrated solar power plant under meteorological and climatological forcing”, Energy Reports, 11, 4776–4783. 
