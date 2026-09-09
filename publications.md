@@ -9,6 +9,8 @@ permalink: /publications/
 <h2 style="color:IndianRed;text-align:center;">Articles</h2>
 
 ### 2025
+[62] Buffo M., **Petrakopoulou F.**, Lazzaretto A., 2026. <a href="/files/articles/2025_CCS_TE_Enrique.pdf" target="_blank" > “A Framework for High-Resolution, Climate-Based Energy Time Series from EURO-CORDEX Climate Projections”, Journal of Sustainable Development of Smart Energy Networks, 1(4), 2030730.
+
 [61] García-Tenorio Corcuera E., **Petrakopoulou F.**, 2025. <a href="/files/articles/2025_CCS_TE_Enrique.pdf" target="_blank" > “Evaluating the impact of CO2 capture and storage on total efficiency: A lifecycle analysis”, Cleaner Engineering and Technology, 27, 101002.
 
 [60] Shuang Zhou, Yao Wu, Yanming Liu, Yuan Gao, Pei Yu, Rongbin Xu, Gongbo Chen, Tingting Ye, Wenhua Yu, Juan Antonio Añel, Peng Bi, Angie Bone, Kristie L. Ebi, Antonio Gasparrini, Masahiro Hashizume, Ollie Jay, Yoonhee Kim, Sarah Perkins-Kirkpatrick, Jason Kai Wei Lee, Tiantian Li, Shao Lin, Lina Madaniyazi, Jinah Park, **Fontina Petrakopoulou**, Xerxes Seposo, Aurelio Tobias, Shanshan Li and Yuming Guo, 2025. <a href="/files/articles/2025_Lethal Heat and Humidity
