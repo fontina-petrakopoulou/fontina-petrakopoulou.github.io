@@ -8,8 +8,15 @@ permalink: /publications/
 <a id="Articles"></a>
 <h2 style="color:IndianRed;text-align:center;">Articles</h2>
 
-### 2025
+### 2026
+
+[64] Kießling N., Wolf D., **Petrakopoulou F.**, 2026.<ahref="/files/articles/2026_E&B_Niklas.pdf" target="_blank" > “Economic model predictive control for building multi-energy systems under evolving feed-in regulations: A comparative study with rule-based strategies”, Energy and Buildings, 370, 118017.
+
+[63] Piryaei Z., Karami M., Asghari M. M., **Petrakopoulou F.**, 2026.<ahref="/files/articles/2026_NextEn_MaryamKarami.pdf" target="_blank" > “Techno-economic-environmental assessment of a hybrid renewable polygeneration system for an off-grid rural health clinic”, Next Energy, 13, 101004.
+
 [62] Buffo M., **Petrakopoulou F.**, Lazzaretto A., 2026. <a href="/files/articles/2026_JSDSEN_Buffo_Petrakopoulou_Lazzaretto.pdf" target="_blank" > “A Framework for High-Resolution, Climate-Based Energy Time Series from EURO-CORDEX Climate Projections”, Journal of Sustainable Development of Smart Energy Networks, 1(4), 2030730.
+
+### 2025
 
 [61] García-Tenorio Corcuera E., **Petrakopoulou F.**, 2025. <a href="/files/articles/2025_CCS_TE_Enrique.pdf" target="_blank" > “Evaluating the impact of CO2 capture and storage on total efficiency: A lifecycle analysis”, Cleaner Engineering and Technology, 27, 101002.
 
