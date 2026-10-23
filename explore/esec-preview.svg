@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 380" role="img" aria-label="Cost of 1 MWh for a standard gas plant and a CO2 capture plant, split into plant costs and hidden damage costs, with a slider">
+  <rect width="600" height="380" fill="#ECF0F2"/>
+  <g font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+    <text x="32" y="52" font-size="16" font-weight="700" letter-spacing="2" fill="#4E5E68">THE HIDDEN PRICE OF POWER</text>
+
+    <text x="32" y="106" font-size="19" font-weight="700" fill="#14212A">Standard gas plant</text>
+    <rect x="32" y="118" width="296" height="40" fill="#2D5D80"/>
+    <rect x="328" y="118" width="105" height="40" fill="#C27A12"/>
+    <text x="445" y="145" font-size="19" font-weight="700" fill="#14212A">100 €</text>
+
+    <text x="32" y="198" font-size="19" font-weight="700" fill="#14212A">CO₂ capture plant</text>
+    <rect x="32" y="210" width="366" height="40" fill="#2D5D80"/>
+    <rect x="398" y="210" width="64" height="40" fill="#C27A12"/>
+    <text x="474" y="237" font-size="19" font-weight="700" fill="#14212A">108 €</text>
+
+    <rect x="32" y="276" width="16" height="16" fill="#2D5D80"/>
+    <text x="56" y="289" font-size="18" fill="#4E5E68">Plant costs</text>
+    <rect x="170" y="276" width="16" height="16" fill="#C27A12"/>
+    <text x="194" y="289" font-size="18" fill="#4E5E68">Hidden damage costs</text>
+
+    <rect x="32" y="326" width="536" height="8" rx="4" fill="#DCE3E7"/>
+    <rect x="32" y="326" width="200" height="8" rx="4" fill="#C27A12"/>
+    <circle cx="232" cy="330" r="13" fill="#F8FAFB" stroke="#C27A12" stroke-width="5"/>
+    <text x="568" y="362" font-size="17" font-style="italic" fill="#4E5E68" text-anchor="end">Drag to change the value of damage</text>
+  </g>
+</svg>
