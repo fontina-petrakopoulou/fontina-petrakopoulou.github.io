@@ -8,7 +8,7 @@ Interactive explainers of my research: try the methods yourself on examples from
 
 <div style="display:flex;flex-wrap:wrap;gap:28px;align-items:center;margin-top:24px">
   <div style="flex:1 1 320px;min-width:0">
-    <h3 style="margin-top:0"><a href="/explore/esec.html" target="_blank">Exergy-based socioeconomic analysis (ESEC)</a></h3>
+    <h3 style="margin-top:0;font-size:20px"><a href="/explore/esec.html" target="_blank" style="color:#1b3a57">Exergy-based socioeconomic analysis (ESEC)</a></h3>
     <p>What does electricity really cost society? See how hidden environmental costs change the comparison between a gas power plant and one that captures its CO₂.</p>
     <p style="font-size:15px"><em>Based on:</em> Petrakopoulou &amp; Batuecas, 2021. <a href="/files/articles/2021_ESEC_EnConvMan.pdf" target="_blank">Energy Conversion and Management 249, 114853.</a></p>
     <p><a href="/explore/esec.html" target="_blank"><b>Open the interactive page →</b></a></p>
