@@ -47,7 +47,7 @@ Events.pdf" target="_blank" > “Lethal Heat and Humidity Events”, Annual Revi
 
 ### 2021
 
-[51] **Petrakopoulou F.**, Batuecas, E., 2021. <a href="/files/articles/2021_ESEC_EnConvMan.pdf" target="_blank" > “Introduction to an exergy-based socioeconomic analysis”, Energy Conversion and Management, 249, 114853.</a> 
+<a id="esec2021"></a>[51] **Petrakopoulou F.**, Batuecas, E., 2021. <a href="/files/articles/2021_ESEC_EnConvMan.pdf" target="_blank" > “Introduction to an exergy-based socioeconomic analysis”, Energy Conversion and Management, 249, 114853.</a> 
 
 [50] De la Rocha Camba, E. **Petrakopoulou F.**, 2021. <a href="https://www.mdpi.com/2076-3417/11/20/9639" target="_blank" > "Economic analysis of a zero-water solar power plant for energy security", Applied Sciences 11(20), 9639.</a>
 
