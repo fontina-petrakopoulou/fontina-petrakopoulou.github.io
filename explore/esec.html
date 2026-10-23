@@ -1,0 +1,553 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<style>body{margin:0} img{max-width:100%} [hidden]{display:none!important}</style>
+<title>The Hidden Price of Power</title>
+<meta name="description" content="A plain-language introduction to the exergy-based socioeconomic (ESEC) analysis of energy systems.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&family=IBM+Plex+Mono:wght@400;500;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap">
+<style>
+/* Layout: one reading column (42rem) inside a 1000px frame; the interactive panels use the full frame. */
+:root {
+  --paper: #ECF0F2;
+  --surface: #F8FAFB;
+  --ink: #14212A;
+  --muted: #4E5E68;
+  --rule: #C3CED4;
+  --private: #2D5D80;
+  --damage: #C27A12;
+  --damage-ink: #8C5506;
+  --capture: #17705F;
+  --track: #DCE3E7;
+  --display: "Archivo", "Helvetica Neue", Arial, sans-serif;
+  --body: "Source Serif 4", Georgia, "Times New Roman", serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+  /* type scale */
+  --t-label: 0.8rem;
+  --t-small: 1rem;
+  --t-body: 1.125rem;
+  --t-lede: 1.3rem;
+  --t-h3: 1.3rem;
+  --t-h2: clamp(1.75rem, 3vw, 2.2rem);
+  --t-h1: clamp(2rem, 3.6vw, 2.7rem);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #0E1418; --surface: #162027; --ink: #E1E8EB; --muted: #9CABB3; --rule: #2A3740;
+    --private: #7FB0D4; --damage: #E3A13D; --damage-ink: #EDB45C; --capture: #5EC3AF; --track: #22303A;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #0E1418; --surface: #162027; --ink: #E1E8EB; --muted: #9CABB3; --rule: #2A3740;
+  --private: #7FB0D4; --damage: #E3A13D; --damage-ink: #EDB45C; --capture: #5EC3AF; --track: #22303A;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--body);
+  font-size: var(--t-body);
+  line-height: 1.62;
+  -webkit-font-smoothing: antialiased;
+}
+.wrap {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+h1, h2, h3 { font-family: var(--display); text-wrap: balance; margin: 0; color: var(--ink); }
+h1 { font-size: var(--t-h1); font-weight: 760; font-stretch: 106%; line-height: 1.1; letter-spacing: -0.012em; }
+h2 { font-size: var(--t-h2); font-weight: 720; font-stretch: 106%; line-height: 1.15; letter-spacing: -0.008em; }
+h3 { font-size: var(--t-h3); font-weight: 680; font-stretch: 102%; line-height: 1.25; }
+p { margin: 0; }
+a { color: var(--private); text-underline-offset: 0.18em; }
+strong { font-weight: 600; }
+.label {
+  font-family: var(--display); font-size: var(--t-label); font-weight: 650;
+  letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted);
+}
+.prose { max-width: 42rem; display: grid; gap: 1rem; }
+.lede { font-size: var(--t-lede); line-height: 1.5; }
+.small { font-size: var(--t-small); color: var(--muted); line-height: 1.55; }
+button { font: inherit; color: inherit; }
+:focus-visible { outline: 3px solid var(--private); outline-offset: 2px; }
+
+.source-note { font-size: 0.85rem; line-height: 1.45; color: var(--muted); margin-top: -0.4rem; }
+.source-note a { color: var(--muted); }
+.source-note a:hover { color: var(--private); }
+.masthead { border-bottom: 1px solid var(--rule); }
+.masthead .back { text-decoration: none; }
+.masthead .back:hover { color: var(--private); }
+.masthead .wrap { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 0.5rem 1.5rem; padding-block: 0.9rem; }
+
+section { padding-block: clamp(2.75rem, 6vw, 4.5rem); border-bottom: 1px solid var(--rule); }
+section > .wrap { display: grid; gap: 1.75rem; }
+.sec-head { display: grid; gap: 0.75rem; max-width: 42rem; }
+
+/* hero */
+.hero .wrap { display: grid; grid-template-columns: minmax(0, 1.2fr) minmax(0, 0.8fr); gap: clamp(2rem, 5vw, 4rem); align-items: center; }
+.hero-text { display: grid; gap: 1.1rem; min-width: 0; }
+.hero h1 em { font-style: normal; color: var(--damage-ink); }
+@media (max-width: 820px) { .hero .wrap { grid-template-columns: 1fr; } .bill { justify-self: start; } }
+
+/* cost statement */
+.bill {
+  background: var(--surface); border: 1px solid var(--rule); border-top: 5px solid var(--ink);
+  padding: 1.2rem 1.3rem; font-family: var(--body); font-size: 1.05rem; line-height: 1.4;
+  display: grid; gap: 0.9rem; min-width: 0; width: 100%; max-width: 26rem; justify-self: end;
+}
+.bill-head .sub { color: var(--muted); font-size: var(--t-small); }
+.bill-head { display: grid; gap: 0.25rem; padding-bottom: 0.9rem; border-bottom: 1px dashed var(--rule); }
+.bill-head strong { font-family: var(--display); font-size: 1.1rem; font-weight: 700; }
+.bill-line, .bill-total { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 1rem; align-items: baseline; }
+.bill-line .amt, .bill-total .amt { font-family: var(--mono); font-weight: 600; white-space: nowrap; }
+.bill-line.hid { color: var(--damage-ink); }
+.bill[data-shown="false"] .bill-line.hid .amt { opacity: 0.6; }
+.bill-total { padding-top: 0.9rem; border-top: 2px solid var(--ink); font-size: 1.15rem; font-weight: 600; }
+.reveal {
+  justify-self: start; cursor: pointer; font-family: var(--display); font-weight: 650; font-size: 1rem;
+  background: var(--damage); color: var(--surface); border: 0; padding: 0.65rem 1.1rem;
+}
+.reveal:hover { filter: brightness(1.08); }
+
+/* cards */
+.two { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.25rem; }
+@media (max-width: 760px) { .two { grid-template-columns: 1fr; } }
+.card { background: var(--surface); border: 1px solid var(--rule); padding: 1.5rem; display: grid; gap: 0.7rem; align-content: start; min-width: 0; }
+.card .k { font-family: var(--mono); font-size: 0.85rem; color: var(--damage-ink); font-weight: 600; }
+
+/* panels */
+.panel { background: var(--surface); border: 1px solid var(--rule); padding: clamp(1.1rem, 3vw, 1.9rem); display: grid; gap: 1.5rem; min-width: 0; }
+.seg-group { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+.seg-btn {
+  cursor: pointer; text-align: left; border: 1px solid var(--rule); background: var(--paper);
+  padding: 0.6rem 1rem; font-family: var(--display); font-weight: 650; font-size: 1rem;
+  transition: border-color 150ms, background 150ms;
+}
+.seg-btn:hover { border-color: var(--ink); }
+.seg-btn[aria-pressed="true"] { border-color: var(--ink); background: var(--ink); color: var(--paper); }
+.seg-btn.esec[aria-pressed="true"] { background: var(--damage); border-color: var(--damage); color: var(--surface); }
+.lens { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1.25rem; }
+@media (max-width: 700px) { .lens { grid-template-columns: 1fr; } }
+.lens div { display: grid; gap: 0.35rem; align-content: start; }
+.lens .blind { color: var(--damage-ink); }
+.lens .blind.none { color: var(--capture); }
+
+/* method */
+.oneline { font-family: var(--display); font-weight: 650; font-stretch: 102%; font-size: 1.35rem; line-height: 1.4; max-width: 44rem; border-left: 4px solid var(--damage); padding-left: 1rem; }
+.steps { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); counter-reset: step; }
+.steps li { counter-increment: step; display: grid; gap: 0.55rem; align-content: start; padding: 1.1rem 1.3rem 1.1rem 0; border-top: 3px solid var(--ink); min-width: 0; }
+.steps li + li { padding-left: 1.3rem; border-left: 1px solid var(--rule); }
+.steps li::before { content: counter(step); font-family: var(--mono); font-weight: 600; font-size: 0.95rem; color: var(--damage-ink); }
+@media (max-width: 760px) {
+  .steps { grid-template-columns: 1fr; }
+  .steps li, .steps li + li { padding: 1rem 0; border-left: 0; border-top-width: 1px; border-top-color: var(--rule); }
+  .steps li:first-child { border-top: 3px solid var(--ink); }
+}
+.aside { border-left: 3px solid var(--ink); padding-left: 1.1rem; max-width: 42rem; display: grid; gap: 0.5rem; }
+
+/* why it matters */
+.three { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1.5rem 2rem; }
+@media (max-width: 760px) { .three { grid-template-columns: 1fr; } }
+.three div { display: grid; gap: 0.5rem; align-content: start; }
+
+/* example: drag bar */
+.mode-row { display: grid; gap: 0.5rem; justify-items: start; }
+.mode-row .seg-group { display: grid; grid-template-columns: 1fr 1fr; }
+.mode-row .seg-btn { text-align: center; }
+.drag-head { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: end; gap: 1rem 2rem; }
+.drag-title { display: grid; gap: 0.4rem; max-width: 34rem; min-width: 0; }
+.drag-head output { display: grid; justify-items: end; text-align: right; gap: 0.15rem; }
+.k-big { font-family: var(--mono); font-weight: 600; font-size: 1.6rem; line-height: 1.1; color: var(--damage-ink); }
+.k-sub { font-size: var(--t-small); color: var(--muted); line-height: 1.35; }
+@media (max-width: 600px) { .drag-head output { justify-items: start; text-align: left; } }
+.range-wrap { position: relative; padding-bottom: 2.6rem; }
+input[type="range"] { -webkit-appearance: none; appearance: none; width: 100%; height: 28px; background: transparent; margin: 0; display: block; cursor: grab; touch-action: pan-y; }
+input[type="range"]:active { cursor: grabbing; }
+input[type="range"]::-webkit-slider-runnable-track { height: 8px; border-radius: 4px; background: linear-gradient(to right, var(--damage) 0 var(--fill, 40%), var(--track) var(--fill, 40%) 100%); }
+input[type="range"]::-moz-range-track { height: 8px; border-radius: 4px; background: var(--track); }
+input[type="range"]::-moz-range-progress { height: 8px; border-radius: 4px; background: var(--damage); }
+input[type="range"]::-webkit-slider-thumb { -webkit-appearance: none; width: 28px; height: 28px; border-radius: 50%; background: var(--surface); border: 4px solid var(--damage); margin-top: -10px; box-shadow: 0 1px 4px rgba(0,0,0,.25); }
+input[type="range"]::-moz-range-thumb { width: 20px; height: 20px; border-radius: 50%; background: var(--surface); border: 4px solid var(--damage); box-shadow: 0 1px 4px rgba(0,0,0,.25); }
+.tick { position: absolute; top: 34px; transform: translateX(-50%); font-family: var(--display); font-size: var(--t-label); font-weight: 600; color: var(--muted); white-space: nowrap; text-align: center; line-height: 1.25; }
+.tick::before { content: ""; position: absolute; left: 50%; top: -7px; width: 1px; height: 6px; background: var(--muted); }
+.tick.start { transform: none; text-align: left; }
+.tick.start::before { left: 0; }
+.tick.be { color: var(--capture); }
+.tick.be::before { background: var(--capture); }
+@media (max-width: 520px) { .tick .hide-sm { display: none; } }
+
+.chart { display: grid; gap: 0.9rem; }
+.bar-row { display: grid; grid-template-columns: 10.5rem minmax(0, 1fr) 6.5rem; gap: 0.3rem 1rem; align-items: center; }
+.bar-name { font-family: var(--display); font-weight: 650; font-size: 1rem; line-height: 1.25; }
+.bar-name small { display: block; font-weight: 400; color: var(--muted); font-size: 0.9rem; }
+.track { height: 2.3rem; background: var(--track); display: flex; overflow: hidden; }
+.track > span { display: block; height: 100%; }
+.s-private { background: var(--private); }
+.s-damage { background: var(--damage); }
+.bar-val { font-family: var(--mono); font-weight: 600; font-size: 1.05rem; text-align: right; white-space: nowrap; font-variant-numeric: tabular-nums; }
+@media (max-width: 600px) {
+  .bar-row { grid-template-columns: minmax(0, 1fr) auto; }
+  .bar-row .track { grid-column: 1 / -1; grid-row: 2; }
+}
+.legend { display: flex; flex-wrap: wrap; gap: 0.5rem 1.5rem; font-size: 0.95rem; color: var(--muted); }
+.legend span { display: inline-flex; align-items: center; gap: 0.5rem; }
+.legend i { width: 0.9rem; height: 0.9rem; display: inline-block; flex: none; }
+.verdict { display: grid; grid-template-columns: minmax(0, auto) minmax(0, 1fr); gap: 0.5rem 1.75rem; align-items: center; padding-top: 1.3rem; border-top: 1px solid var(--rule); }
+@media (max-width: 600px) { .verdict { grid-template-columns: 1fr; } }
+.gap-big { font-family: var(--display); font-weight: 760; font-stretch: 108%; font-size: clamp(1.9rem, 4vw, 2.4rem); line-height: 1.05; color: var(--damage-ink); }
+.gap-big.down { color: var(--capture); }
+.note { font-size: var(--t-small); color: var(--muted); }
+
+footer { padding-block: 2.5rem 3.5rem; }
+footer .wrap { display: grid; gap: 0.8rem; }
+.cite { max-width: 46rem; }
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; }
+}
+</style>
+</head>
+<body>
+<header class="masthead">
+  <div class="wrap">
+    <a class="label back" href="https://fontina-petrakopoulou.github.io/explore/">← Explore</a>
+    <span class="label">Exergy-based socioeconomic analysis</span>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="wrap">
+    <div class="hero-text">
+      <h1>Every kilowatt&#8209;hour has a <em>second price tag</em></h1>
+      <p class="source-note">This page is based on the paper <a href="https://fontina-petrakopoulou.github.io/publications/#esec2021:~:text=Introduction%20to%20an%20exergy%2Dbased%20socioeconomic%20analysis">Petrakopoulou &amp; Batuecas (2021), “Introduction to an exergy-based socioeconomic analysis”, Energy Conversion and Management 249, 114853</a>.</p>
+      <p class="lede">Electricity powers our everyday lives, but producing it also affects our climate, the air we breathe, and the natural resources we depend on. These impacts impose real costs on society that are rarely reflected in the price we pay for electricity.</p>
+      <p>The price of electricity from a gas power plant covers the fuel, the equipment and the staff who run it. The costs of its emissions, such as effects on public health, the climate and ecosystems, are left out. These hidden costs are ultimately borne by society, both today and in the future.</p>
+      <p>The <strong>exergy-based socioeconomic analysis (ESEC)</strong> is a method that puts that damage back on the bill. It helps engineers design energy systems that are not only cost-effective for their operators, but also better for society as a whole.</p>
+    </div>
+    <aside class="bill" id="bill" data-shown="false" aria-label="Example cost of one megawatt-hour">
+      <div class="bill-head">
+        <span class="label">Cost statement</span>
+        <strong>1 MWh from a gas power plant</strong>
+        <span class="sub">Roughly what 100 European homes use in a day</span>
+      </div>
+      <div class="bill-line"><span>Fuel, equipment, staff</span><span class="amt">74.07 €</span></div>
+      <div class="bill-line hid"><span>Damage to health and environment</span><span class="amt" id="dmg-amt">not on the bill</span></div>
+      <div class="bill-total"><span id="total-label">Price paid</span><span class="amt" id="total-amt">74.07 €</span></div>
+      <button class="reveal" type="button" id="reveal" aria-pressed="false">Add the hidden cost</button>
+    </aside>
+  </div>
+</section>
+
+<section id="why">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="label">Why a new method?</span>
+      <h2>Two blind spots in how we judge energy systems</h2>
+      <p>Power plants are designed years before they are built, and once built they run for decades. The choices made at the drawing board lock in costs and damage for a very long time. The tools engineers use to make those choices have two blind spots.</p>
+    </div>
+    <div class="two">
+      <div class="card">
+        <span class="k">Blind spot 1</span>
+        <h3>The price leaves out the damage</h3>
+        <p>Pollution, climate change, and health impacts come with real costs, but these are largely borne by society rather than the power plants that cause them. Economists call these <strong>external costs</strong>.</p>
+        <p>When these costs are ignored, an energy system that appears cheapest may actually be the most expensive for society, while a cleaner alternative may seem less attractive than it really is.</p>
+      </div>
+      <div class="card">
+        <span class="k">Blind spot 2</span>
+        <h3>Our tools look at one thing at a time</h3>
+        <p>One analysis identifies the cheapest design, another the cleanest, and another the most efficient. But their conclusions often differ.</p>
+        <p>For example, a power plant that captures its CO₂ emissions may be better for the climate, but it also requires additional equipment and energy. An economic analysis may favor one design, while an environmental analysis favors another. Without a common basis for comparison, it is difficult to determine which design is best for society as a whole.</p>
+      </div>
+    </div>
+
+    <div class="panel">
+      <div class="sec-head">
+        <h3>Four ways to look at a power plant</h3>
+        <p class="small">Pick a lens to see what it tells you and what it misses.</p>
+      </div>
+      <div class="seg-group" role="group" aria-label="Choose an analysis">
+        <button class="seg-btn" type="button" id="lens-money" data-lens="money" aria-pressed="true">Cost</button>
+        <button class="seg-btn" type="button" id="lens-env" data-lens="env" aria-pressed="false">Environment</button>
+        <button class="seg-btn" type="button" id="lens-exergy" data-lens="exergy" aria-pressed="false">Exergy</button>
+        <button class="seg-btn esec" type="button" id="lens-esec" data-lens="esec" aria-pressed="false">ESEC: all three</button>
+      </div>
+      <div class="lens" aria-live="polite">
+        <div><span class="label">It asks</span><p id="lens-q"></p></div>
+        <div><span class="label">Measured in</span><p id="lens-u"></p></div>
+        <div><span class="label">It misses</span><p class="blind" id="lens-b"></p></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="method">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="label">The method</span>
+      <h2>How ESEC works</h2>
+    </div>
+    <p class="oneline">Turn environmental damage into euros, add it to the plant's normal costs, and follow all of it through the plant, part by part.</p>
+    <ol class="steps">
+      <li><h3>Measure the damage</h3><p>A life cycle assessment counts the materials used to build the plant and everything it releases while it runs, from CO₂ to fine particles. It covers a wide range of impacts, from climate change to water use.</p></li>
+      <li><h3>Put a price on it</h3><p>European damage-cost estimates turn each kind of harm into euros. A kilogram of CO₂, for example, causes about 4 cents of damage. Now money and harm share one unit.</p></li>
+      <li><h3>Trace it through the plant</h3><p>An exergy analysis shows where each component wastes useful energy. The costs follow the same path, so every compressor, turbine and burner gets its true cost to society.</p></li>
+    </ol>
+    <div class="aside">
+      <h3>What is exergy?</h3>
+      <p>Energy is never destroyed; it only changes form. But it does lose quality. The energy in natural gas can drive a turbine, while the same amount of energy spread as warm air around the plant can do almost nothing. Exergy measures that quality: the part of energy that can still do useful work.</p>
+      <p>Following exergy shows exactly where a plant wastes the most. Because ESEC expresses everything in euros, it can compare a more efficient turbine, a cleaner fuel and a cheaper material on the same scale, and point to the component where an improvement does the most good.</p>
+    </div>
+  </div>
+</section>
+
+<section id="matters">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="label">Why it matters</span>
+      <h2>Better answers for engineers and for society</h2>
+      <p>Europe has to rebuild much of its energy system in the coming decades. Choosing well means counting everything a technology costs, including what it costs others.</p>
+    </div>
+    <div class="three">
+      <div><h3>Fairer comparisons</h3><p>When environmental and social costs are included, the true value of cleaner technologies becomes clearer. Energy systems can then be compared on what they really cost, not just what they cost to build and operate.</p></div>
+      <div><h3>Smarter designs</h3><p>Engineers can identify which components offer the greatest potential for improvement, understand trade-offs between cost, efficiency, and environmental impacts, and make better-informed design decisions.</p></div>
+      <div><h3>Clearer policy</h3><p>Decision makers see how large the hidden costs are, and how much a carbon price or support scheme would need to cover to make the cleaner option pay off.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="example">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="label">An example</span>
+      <h2>A gas plant versus one that captures its CO₂</h2>
+      <p>The method was tested on two gas power plants that burn the same amount of fuel. The first is a standard combined-cycle plant that releases its CO₂. The second is a proposed design based on chemical looping combustion, an emerging technology that could make CO₂ capture easier and more energy-efficient.</p>
+      <p>Capturing CO₂ takes extra equipment and energy, so on normal accounts the second plant's electricity is clearly more expensive. But the first plant causes much more climate damage. Which one is really cheaper?</p>
+    </div>
+    <div class="panel">
+      <div class="mode-row">
+        <span class="label">What to vary</span>
+        <div class="seg-group" role="group" aria-label="What the bar varies">
+          <button class="seg-btn" type="button" id="mode-all" data-mode="all" aria-pressed="true">All damage costs</button>
+          <button class="seg-btn" type="button" id="mode-co2" data-mode="co2" aria-pressed="false">CO₂ price only</button>
+        </div>
+      </div>
+      <div class="drag-head">
+        <div class="drag-title">
+          <label class="label" for="dmg">Drag to decide how much the damage counts</label>
+          <p class="small" id="dmg-help"></p>
+        </div>
+        <output id="dmg-out" for="dmg"><span class="k-big" id="k-big"></span><span class="k-sub" id="k-sub"></span></output>
+      </div>
+      <div class="range-wrap" id="range-wrap">
+        <input type="range" id="dmg" min="0" max="1" step="any" value="0" aria-describedby="dmg-note">
+      </div>
+      <div class="chart">
+        <div class="bar-row">
+          <div class="bar-name">Standard plant<small>CO₂ released</small></div>
+          <div class="track" id="bar-ref"><span class="s-private"></span><span class="s-damage"></span></div>
+          <div class="bar-val" id="val-ref"></div>
+        </div>
+        <div class="bar-row">
+          <div class="bar-name">Capture plant<small>CO₂ captured</small></div>
+          <div class="track" id="bar-clc"><span class="s-private"></span><span class="s-damage"></span></div>
+          <div class="bar-val" id="val-clc"></div>
+        </div>
+        <div class="legend">
+          <span><i style="background: var(--private)"></i>Plant costs</span>
+          <span><i style="background: var(--damage)"></i>Damage costs</span>
+          <span>Cost of electricity, € per MWh</span>
+        </div>
+      </div>
+      <div class="verdict" aria-live="polite">
+        <div class="gap-big" id="gap-big"></div>
+        <p id="gap-text"></p>
+      </div>
+      <p class="note" id="dmg-note"></p>
+    </div>
+    <div class="prose">
+      <p>With the study's own damage values, the capture plant's extra cost falls from 23.5% to 7.2%. The capture plant would become the cheaper option for society if all damage were valued about 1.7 times higher or, counting only climate damage, at a CO₂ price of about 67 € per tonne.</p>
+      <p>ESEC also reveals a trade-off. The capture plant cuts its climate impact by more than 80%, but it does worse on almost every other environmental impact, because it uses more equipment and gets less electricity from the same fuel. Putting all of these effects on one scale is exactly what the method is for.</p>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <span class="label">Read the paper</span>
+    <p class="cite">Petrakopoulou, F. and Batuecas, E. (2021). Introduction to an exergy-based socioeconomic analysis. <em>Energy Conversion and Management</em> 249, 114853. <a href="https://doi.org/10.1016/j.enconman.2021.114853">doi.org/10.1016/j.enconman.2021.114853</a> · <a href="https://fontina-petrakopoulou.github.io/publications/#esec2021:~:text=Introduction%20to%20an%20exergy%2Dbased%20socioeconomic%20analysis">See it in the publication list</a></p>
+  </div>
+</footer>
+
+<script>
+(function () {
+  // Hidden-cost statement (standard plant, €/MWh).
+  var bill = document.getElementById('bill');
+  var reveal = document.getElementById('reveal');
+  var shown = false;
+  function renderBill() {
+    bill.setAttribute('data-shown', String(shown));
+    reveal.setAttribute('aria-pressed', String(shown));
+    document.getElementById('dmg-amt').textContent = shown ? '26.20 €' : 'not on the bill';
+    document.getElementById('total-label').textContent = shown ? 'Cost to society' : 'Price paid';
+    document.getElementById('total-amt').textContent = shown ? '100.27 €' : '74.07 €';
+    reveal.textContent = shown ? 'Hide it again' : 'Add the hidden cost';
+  }
+  reveal.addEventListener('click', function () { shown = !shown; renderBill(); });
+  renderBill();
+
+  // Four lenses.
+  var LENSES = {
+    money: ['What does the plant cost to build and run?', 'Euros', 'Damage to health and the environment.', false],
+    env: ['How much harm does the plant cause?', 'Tonnes of CO₂, kilograms of particles and other impact scores', 'Money, and a way to weigh one kind of harm against another.', false],
+    exergy: ['Where does the plant waste useful energy?', 'Megawatts of lost work, part by part', 'What that waste costs, in money or in damage.', false],
+    esec: ['What does each part of the plant really cost society?', 'Euros, including the damage, for every component', 'Nothing from the other three. Its answers are only as good as the damage prices it uses.', true]
+  };
+  var lensBtns = document.querySelectorAll('[data-lens]');
+  function renderLens(key) {
+    var l = LENSES[key];
+    document.getElementById('lens-q').textContent = l[0];
+    document.getElementById('lens-u').textContent = l[1];
+    var b = document.getElementById('lens-b');
+    b.textContent = l[2];
+    b.classList.toggle('none', l[3]);
+    lensBtns.forEach(function (btn) { btn.setAttribute('aria-pressed', String(btn.dataset.lens === key)); });
+  }
+  lensBtns.forEach(function (btn) { btn.addEventListener('click', function () { renderLens(btn.dataset.lens); }); });
+  renderLens('money');
+
+  // Example: cost of electricity (€/MWh) = plant costs + damage costs.
+  // "all" scales every damage cost by k; k = 0 and k = 1 are the study's results.
+  // "co2" scales only the climate part with the CO₂ price. Climate share of the damage cost, from the
+  // LCA data: 67.5% (standard) and 24.5% (capture) of operation, about 52% of construction.
+  var PLANTS = {
+    ref: { p: 74.07, d: 100.27 - 74.07, climate: 0.675 * (100.27 - 75.00) + 0.515 * (75.00 - 74.07) },
+    clc: { p: 91.45, d: 107.53 - 91.45, climate: 0.245 * (107.53 - 92.74) + 0.519 * (92.74 - 91.45) }
+  };
+  var STUDY_CO2 = 43;
+  var BE_K = (PLANTS.clc.p - PLANTS.ref.p) / (PLANTS.ref.d - PLANTS.clc.d);
+  var BE_CO2 = STUDY_CO2 *
+    ((PLANTS.clc.p + PLANTS.clc.d - PLANTS.clc.climate) - (PLANTS.ref.p + PLANTS.ref.d - PLANTS.ref.climate)) /
+    (PLANTS.ref.climate - PLANTS.clc.climate);
+  // Both modes share one bar: the study's value and the break-even sit at the same positions,
+  // and the scale is linear between those marks in each mode.
+  var POS_STUDY = STUDY_CO2 / 150, POS_BE = BE_CO2 / 150;
+  var MODES = {
+    all: {
+      knots: [[0, 0], [POS_STUDY, 1], [POS_BE, BE_K], [1, 3]], pos: 0,
+      labels: ['Ignored', "Study's<br>values", 'Break-<br class="hide-sm">even'],
+      help: "The number multiplies all damage costs estimated in the study, from climate change to air pollution and resource use. 0× ignores the damage, 1× uses the study's estimate, 2× assumes all damage costs twice as much.",
+      note: "At 0 the damage is ignored, as in a normal cost calculation. At 1 it is priced as in the study. The other positions are an illustration built on the study's results, for the case that damage turns out to be worth more or less than today's estimates."
+    },
+    co2: {
+      knots: [[0, 0], [POS_STUDY, STUDY_CO2], [POS_BE, BE_CO2], [1, 150]], pos: POS_STUDY,
+      labels: ['0 €/t', "Study's<br>value", 'Break-<br class="hide-sm">even'],
+      help: "Only the cost of climate damage changes, set as a price per tonne of CO₂. All other damage stays at the study's values. The study used 43 € per tonne.",
+      note: "Built on the study's data: the climate part of each plant's damage cost (about two thirds for the standard plant and a quarter for the capture plant) changes in proportion to the CO₂ price, and all other damage stays fixed. At 43 € per tonne it matches the study's results. The break-even comes sooner here (about 67 €/t) than when all damage costs rise together (about 74 €/t). The capture plant's main advantage is climate, so raising only the CO₂ price favors it, while raising all damage also counts against its higher impacts in other categories."
+    }
+  };
+  var mode = 'all';
+  var MAX = 155;
+  var slider = document.getElementById('dmg');
+  var rangeWrap = document.getElementById('range-wrap');
+  var modeBtns = document.querySelectorAll('[data-mode]');
+
+  function damage(pl, v) {
+    return mode === 'all' ? v * pl.d : (pl.d - pl.climate) + pl.climate * v / STUDY_CO2;
+  }
+  function paint(id, valId, pl, v) {
+    var segs = document.getElementById(id).children;
+    var dmg = damage(pl, v);
+    segs[0].style.width = (pl.p / MAX * 100) + '%';
+    segs[1].style.width = (dmg / MAX * 100) + '%';
+    document.getElementById(valId).textContent = (pl.p + dmg).toFixed(2) + ' €';
+  }
+  function setSub(lines) {
+    var sub = document.getElementById('k-sub');
+    sub.innerHTML = '';
+    lines.forEach(function (line, i) {
+      if (i) sub.appendChild(document.createElement('br'));
+      sub.appendChild(document.createTextNode(line));
+    });
+  }
+  function toValue(pos) {
+    var k = MODES[mode].knots;
+    for (var i = 1; i < k.length; i++) {
+      if (pos <= k[i][0]) return k[i - 1][1] + (pos - k[i - 1][0]) / (k[i][0] - k[i - 1][0]) * (k[i][1] - k[i - 1][1]);
+    }
+    return k[k.length - 1][1];
+  }
+  function setMode(m) {
+    MODES[mode].pos = parseFloat(slider.value);
+    mode = m;
+    var cfg = MODES[m];
+    slider.value = cfg.pos;
+    document.getElementById('dmg-help').textContent = cfg.help;
+    document.getElementById('dmg-note').textContent = cfg.note;
+    Array.prototype.slice.call(rangeWrap.querySelectorAll('.tick')).forEach(function (t) { t.remove(); });
+    cfg.labels.forEach(function (label, i) {
+      var el = document.createElement('span');
+      el.className = 'tick' + (i === 0 ? ' start' : '') + (i === 2 ? ' be' : '');
+      el.style.left = i === 0 ? '0' : 'calc(14px + (100% - 28px) * ' + cfg.knots[i][0] + ')';
+      el.innerHTML = label;
+      rangeWrap.appendChild(el);
+    });
+    modeBtns.forEach(function (b) { b.setAttribute('aria-pressed', String(b.dataset.mode === m)); });
+    renderExample();
+  }
+  function renderExample() {
+    var pos = parseFloat(slider.value);
+    // Snap to the break-even point when the thumb is close, so 0% is easy to reach.
+    if (Math.abs(pos - POS_BE) < 0.012) { pos = POS_BE; slider.value = POS_BE; }
+    var v = toValue(pos);
+    slider.style.setProperty('--fill', (pos * 100) + '%');
+    if (mode === 'all') {
+      document.getElementById('k-big').textContent = v.toFixed(1) + '×';
+      if (v < 0.05) setSub(['Damage ignored']);
+      else setSub([
+        Math.abs(v - 1) < 0.05 ? "All damage costs at the study's estimate" : 'All damage costs × ' + v.toFixed(1),
+        'Climate part equals ' + Math.round(STUDY_CO2 * v) + ' € per tonne of CO₂'
+      ]);
+    } else {
+      document.getElementById('k-big').textContent = Math.round(v) + ' €/t';
+      setSub(['CO₂ price', "Other damage at the study's values"]);
+    }
+    paint('bar-ref', 'val-ref', PLANTS.ref, v);
+    paint('bar-clc', 'val-clc', PLANTS.clc, v);
+    var r = PLANTS.ref.p + damage(PLANTS.ref, v), c = PLANTS.clc.p + damage(PLANTS.clc, v);
+    var gap = (c / r - 1) * 100;
+    var big = document.getElementById('gap-big'), txt = document.getElementById('gap-text');
+    big.classList.toggle('down', gap < -0.05);
+    if (gap > 0.05) {
+      big.textContent = '+' + gap.toFixed(1) + '%';
+      if (mode === 'all') {
+        txt.textContent = v < 0.05
+          ? "The capture plant's electricity costs this much more when damage is ignored."
+          : 'The capture plant still costs more, but the gap shrinks as damage counts more.';
+      } else {
+        txt.textContent = 'At this CO₂ price, the capture plant still costs more.';
+      }
+    } else if (gap < -0.05) {
+      big.textContent = '−' + Math.abs(gap).toFixed(1) + '%';
+      txt.textContent = mode === 'all'
+        ? 'The capture plant is now the cheaper option for society.'
+        : 'At this CO₂ price, the capture plant is the cheaper option for society.';
+    } else {
+      big.textContent = '0%';
+      txt.textContent = 'Break-even: both plants cost society the same.';
+    }
+  }
+  slider.addEventListener('input', renderExample);
+  modeBtns.forEach(function (b) { b.addEventListener('click', function () { setMode(b.dataset.mode); }); });
+  setMode('all');
+})();
+</script>
+</body>
+</html>
