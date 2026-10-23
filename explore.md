@@ -4,12 +4,14 @@ title: Explore
 permalink: /explore/
 ---
 
-Interactive explainers of my research. Each page shows in plain language why a method is needed, how it works and why it matters, and lets you try it out on an example from a published study.
+Interactive explainers of my research: try the methods yourself on examples from published studies.
 
-<h3><a href="/explore/esec.html" target="_blank">Exergy-based socioeconomic analysis (ESEC)</a></h3>
-
-Puts the hidden costs of pollution and resource use back on the bill and traces them through an energy system, component by component. The interactive example compares a gas power plant with one that captures its CO₂, and lets you explore how the comparison changes with the value given to environmental damage.
-
-<em>Based on:</em> Petrakopoulou F., Batuecas E., 2021. <a href="/files/articles/2021_ESEC_EnConvMan.pdf" target="_blank">“Introduction to an exergy-based socioeconomic analysis”, Energy Conversion and Management, 249, 114853.</a>
-
-<a href="/explore/esec.html" target="_blank"><b>Open the interactive page →</b></a>
+<div style="display:flex;flex-wrap:wrap;gap:28px;align-items:center;margin-top:24px">
+  <div style="flex:1 1 320px;min-width:0">
+    <h3 style="margin-top:0"><a href="/explore/esec.html" target="_blank">Exergy-based socioeconomic analysis (ESEC)</a></h3>
+    <p>What does electricity really cost society? See how hidden environmental costs change the comparison between a gas power plant and one that captures its CO₂.</p>
+    <p style="font-size:15px"><em>Based on:</em> Petrakopoulou &amp; Batuecas, 2021. <a href="/files/articles/2021_ESEC_EnConvMan.pdf" target="_blank">Energy Conversion and Management 249, 114853.</a></p>
+    <p><a href="/explore/esec.html" target="_blank"><b>Open the interactive page →</b></a></p>
+  </div>
+  <a href="/explore/esec.html" target="_blank" style="flex:0 1 360px;min-width:260px"><img src="/explore/esec-preview.svg" alt="Preview of the ESEC explainer: plant costs and hidden damage costs for two power plants" style="width:100%;display:block;border:1px solid #ddd"></a>
+</div>
