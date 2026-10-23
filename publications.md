@@ -31,7 +31,7 @@ Events.pdf" target="_blank" > “Lethal Heat and Humidity Events”, Annual Revi
 
 ### 2023
 
-[57] **Petrakopoulou F.**, García-Tenorio Corcuera E., 2023. <a href="/files/articles/2022_Enrique_TotalEfficiency.pdf" target="_blank" > “Evaluating hydrogen-based electricity generation using the concept of total efficiency”, Energy Conversion & Management, Journal of Cleaner Production 374, 133409.
+[57] **Petrakopoulou F.**, García-Tenorio Corcuera E., 2023. <a href="/files/articles/2022_Enrique_TotalEfficiency.pdf" target="_blank" > “Evaluating hydrogen-based electricity generation using the concept of total efficiency”, Energy Conversion & Management 293, 117438.
 
 [56] Shirmohammadi R., Aslani A., Batuecas E., Ghasempour R., Romeo L.M., **Petrakopoulou F.**, 2023. <a href="/files/articles/2023_Reza_LCA.pdf" target="_blank" > “A comparative life cycle assessment for solar integration in CO2 capture utilized in a downstream urea synthesis plant”, Journal of CO2 Utilization, 74, 102534.
 
