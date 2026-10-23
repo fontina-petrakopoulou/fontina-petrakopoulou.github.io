@@ -1,0 +1,635 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<style>body{margin:0} img{max-width:100%} [hidden]{display:none!important}</style>
+<title>Before the Power Plant</title>
+<meta name="description" content="A plain-language, interactive introduction to total efficiency: counting the energy needed to extract, process and transport a fuel.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&family=IBM+Plex+Mono:wght@400;500;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap">
+<style>
+/* Layout: one reading column (42rem) in a 1000px frame; the journey and hydrogen panels use the full frame. */
+:root {
+  --paper: #EEF1EE;
+  --surface: #F9FBF9;
+  --ink: #15211D;
+  --muted: #4F5E58;
+  --rule: #C5D0CB;
+  --eff: #1F7A5C;
+  --eff-soft: #BFDCCF;
+  --spent: #B4532A;
+  --spent-ink: #8E3F1E;
+  --track: #DDE5E1;
+  --display: "Archivo", "Helvetica Neue", Arial, sans-serif;
+  --body: "Source Serif 4", Georgia, "Times New Roman", serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+  --t-label: 0.8rem;
+  --t-small: 1rem;
+  --t-body: 1.125rem;
+  --t-lede: 1.3rem;
+  --t-h3: 1.3rem;
+  --t-h2: clamp(1.75rem, 3vw, 2.2rem);
+  --t-h1: clamp(2rem, 3.6vw, 2.7rem);
+  --h2-grey: #8A9490;
+  --h2-turq: #2E9C9A;
+  --h2-yellow: #D8A31A;
+  --h2-green: #3E9B4F;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #0F1513; --surface: #17201D; --ink: #E2E9E6; --muted: #9DAEA7; --rule: #2B3833;
+    --eff: #5CC79F; --eff-soft: #24443A; --spent: #E07A4C; --spent-ink: #F0996F; --track: #24302C;
+    --h2-grey: #A3ADA9; --h2-turq: #4EC4C1; --h2-yellow: #E9BC45; --h2-green: #63C274;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #0F1513; --surface: #17201D; --ink: #E2E9E6; --muted: #9DAEA7; --rule: #2B3833;
+  --eff: #5CC79F; --eff-soft: #24443A; --spent: #E07A4C; --spent-ink: #F0996F; --track: #24302C;
+  --h2-grey: #A3ADA9; --h2-turq: #4EC4C1; --h2-yellow: #E9BC45; --h2-green: #63C274;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+body { background: var(--paper); color: var(--ink); font-family: var(--body); font-size: var(--t-body); line-height: 1.62; -webkit-font-smoothing: antialiased; }
+.wrap { max-width: 1000px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+h1, h2, h3 { font-family: var(--display); text-wrap: balance; margin: 0; color: var(--ink); }
+h1 { font-size: var(--t-h1); font-weight: 760; font-stretch: 106%; line-height: 1.1; letter-spacing: -0.012em; }
+h1 em { font-style: normal; color: var(--eff); }
+h2 { font-size: var(--t-h2); font-weight: 720; font-stretch: 106%; line-height: 1.15; letter-spacing: -0.008em; }
+h3 { font-size: var(--t-h3); font-weight: 680; font-stretch: 102%; line-height: 1.25; }
+p { margin: 0; }
+a { color: var(--eff); text-underline-offset: 0.18em; }
+strong { font-weight: 600; }
+.label { font-family: var(--display); font-size: var(--t-label); font-weight: 650; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.lede { font-size: var(--t-lede); line-height: 1.5; }
+.small { font-size: var(--t-small); color: var(--muted); line-height: 1.55; }
+.num { font-family: var(--mono); font-variant-numeric: tabular-nums; }
+button { font: inherit; color: inherit; }
+:focus-visible { outline: 3px solid var(--eff); outline-offset: 2px; }
+
+.masthead { border-bottom: 1px solid var(--rule); }
+.masthead .wrap { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 0.5rem 1.5rem; padding-block: 0.9rem; }
+.masthead .back { text-decoration: none; }
+.masthead .back:hover { color: var(--eff); }
+
+section { padding-block: clamp(2.75rem, 6vw, 4.5rem); border-bottom: 1px solid var(--rule); }
+section > .wrap { display: grid; gap: 1.75rem; }
+.sec-head { display: grid; gap: 0.75rem; max-width: 42rem; }
+.prose { max-width: 42rem; display: grid; gap: 1rem; }
+
+/* hero */
+.hero .wrap { display: grid; grid-template-columns: minmax(0, 1.2fr) minmax(0, 0.8fr); gap: clamp(2rem, 5vw, 4rem); align-items: center; }
+.hero-text { display: grid; gap: 1.1rem; min-width: 0; }
+.source-note { font-size: 0.85rem; line-height: 1.45; color: var(--muted); margin-top: -0.4rem; }
+.source-note a { color: var(--muted); }
+.source-note a:hover { color: var(--eff); }
+@media (max-width: 820px) { .hero .wrap { grid-template-columns: 1fr; } }
+
+.fence { background: var(--surface); border: 1px solid var(--rule); padding: 1.3rem; display: grid; gap: 1rem; min-width: 0; max-width: 26rem; width: 100%; justify-self: end; }
+@media (max-width: 820px) { .fence { justify-self: start; } }
+.fence-row { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 0.25rem 1rem; align-items: baseline; }
+.fence-row .big { font-family: var(--display); font-weight: 760; font-size: 2.1rem; line-height: 1; }
+.fence-row .big.eff { color: var(--eff); }
+.fence-row .big.spent { color: var(--spent-ink); }
+.fence-bar { grid-column: 1 / -1; height: 0.7rem; background: var(--track); }
+.fence-bar span { display: block; height: 100%; }
+.fence hr { border: 0; border-top: 1px dashed var(--rule); margin: 0; width: 100%; }
+
+/* compare table */
+.compare { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1px; background: var(--rule); border: 1px solid var(--rule); }
+.compare div { background: var(--surface); padding: 1rem; display: grid; gap: 0.35rem; align-content: start; }
+.compare .v { font-family: var(--display); font-weight: 720; font-size: 1.6rem; line-height: 1.1; }
+.compare .fuel { font-size: 0.92rem; color: var(--muted); }
+.compare .fossil .v { color: var(--spent-ink); }
+@media (max-width: 760px) { .compare { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+
+/* equation */
+.equation { display: flex; flex-wrap: wrap; align-items: center; gap: 0.75rem 1rem; font-family: var(--display); font-size: 1.1rem; font-weight: 650; }
+.frac { display: inline-grid; text-align: center; }
+.frac .top { padding: 0 0.6rem 0.35rem; border-bottom: 2px solid var(--ink); }
+.frac .bot { padding-top: 0.35rem; }
+.frac .bot b { color: var(--spent-ink); font-weight: 700; }
+.eq-name { color: var(--eff); }
+.two { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.25rem; }
+@media (max-width: 760px) { .two { grid-template-columns: 1fr; } }
+.card { background: var(--surface); border: 1px solid var(--rule); padding: 1.3rem; display: grid; gap: 0.6rem; align-content: start; min-width: 0; }
+.card .k { font-family: var(--mono); font-size: 0.85rem; color: var(--spent-ink); font-weight: 600; }
+
+/* panels */
+.panel { background: var(--surface); border: 1px solid var(--rule); padding: clamp(1.1rem, 3vw, 1.9rem); display: grid; gap: 1.5rem; min-width: 0; }
+.seg-group { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+.seg-btn { cursor: pointer; text-align: left; border: 1px solid var(--rule); background: var(--paper); padding: 0.6rem 1rem; font-family: var(--display); font-weight: 650; font-size: 1rem; transition: border-color 150ms, background 150ms; display: grid; gap: 0.1rem; }
+.seg-btn small { font-family: var(--body); font-weight: 400; font-size: 0.85rem; opacity: 0.85; }
+.seg-btn:hover { border-color: var(--ink); }
+.seg-btn[aria-pressed="true"] { border-color: var(--ink); background: var(--ink); color: var(--paper); }
+
+/* journey */
+.journey-grid { display: grid; grid-template-columns: minmax(0, 1fr) 15rem; gap: 1.75rem; align-items: start; }
+@media (max-width: 820px) { .journey-grid { grid-template-columns: 1fr; } }
+.route-scroll { overflow-x: auto; padding-bottom: 0.25rem; }
+.route { position: relative; min-width: 620px; display: grid; gap: 0.9rem; }
+.stops { display: grid; position: relative; }
+.stops::before { content: ""; position: absolute; left: 0; right: 0; top: 13px; height: 3px; background: var(--track); }
+.route-fill { position: absolute; left: 0; top: 13px; height: 3px; background: var(--spent); transition: width 300ms ease; }
+.stop { position: relative; display: grid; justify-items: center; gap: 0.4rem; text-align: center; background: none; border: 0; padding: 0; cursor: pointer; }
+.stop .dot { width: 29px; height: 29px; border-radius: 50%; background: var(--surface); border: 3px solid var(--track); display: grid; place-items: center; font-family: var(--mono); font-size: 0.72rem; font-weight: 600; color: var(--muted); transition: border-color 200ms, background 200ms; position: relative; z-index: 1; }
+.stop .name { font-family: var(--display); font-size: 0.78rem; font-weight: 600; line-height: 1.2; color: var(--muted); max-width: 6.5rem; }
+.stop.done .dot { border-color: var(--spent); color: var(--spent-ink); }
+.stop.here .dot { background: var(--spent); border-color: var(--spent); color: var(--surface); }
+.stop.here .name { color: var(--ink); }
+.stop.plant .dot { border-radius: 4px; }
+@media (max-width: 640px) { .route { min-width: 0; } .stop .name { display: none; } }
+input[type="range"] { -webkit-appearance: none; appearance: none; width: 100%; height: 28px; background: transparent; margin: 0; display: block; cursor: grab; touch-action: pan-y; }
+input[type="range"]:active { cursor: grabbing; }
+input[type="range"]::-webkit-slider-runnable-track { height: 8px; border-radius: 4px; background: linear-gradient(to right, var(--spent) 0 var(--fill, 0%), var(--track) var(--fill, 0%) 100%); }
+input[type="range"]::-moz-range-track { height: 8px; border-radius: 4px; background: var(--track); }
+input[type="range"]::-moz-range-progress { height: 8px; border-radius: 4px; background: var(--spent); }
+input[type="range"]::-webkit-slider-thumb { -webkit-appearance: none; width: 28px; height: 28px; border-radius: 50%; background: var(--surface); border: 4px solid var(--spent); margin-top: -10px; box-shadow: 0 1px 4px rgba(0,0,0,.25); }
+input[type="range"]::-moz-range-thumb { width: 20px; height: 20px; border-radius: 50%; background: var(--surface); border: 4px solid var(--spent); box-shadow: 0 1px 4px rgba(0,0,0,.25); }
+.stage-card { border-left: 4px solid var(--spent); padding-left: 1rem; display: grid; gap: 0.4rem; min-height: 7.5rem; align-content: start; }
+.stage-card .share { font-family: var(--mono); font-weight: 600; color: var(--spent-ink); }
+
+.gauge { display: grid; justify-items: center; gap: 0.35rem; text-align: center; }
+.gauge svg { width: 100%; max-width: 15rem; height: auto; display: block; }
+.gauge .g-val { font-family: var(--display); font-weight: 760; font-size: 2.4rem; line-height: 1; color: var(--eff); }
+.gauge .g-sub { font-size: 0.95rem; color: var(--muted); line-height: 1.4; }
+.gauge .g-drop { font-family: var(--mono); font-weight: 600; color: var(--spent-ink); }
+
+.distance { display: grid; gap: 0.8rem; padding-top: 1.3rem; border-top: 1px solid var(--rule); }
+.distance-head { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: 0.5rem 1rem; }
+.distance-head output { font-family: var(--mono); font-weight: 600; font-size: 1.15rem; }
+.dist-ticks { display: flex; justify-content: space-between; font-family: var(--display); font-size: var(--t-label); font-weight: 600; color: var(--muted); padding: 0 6px; }
+
+/* hydrogen */
+.swatches { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 0.6rem; }
+@media (max-width: 640px) { .swatches { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+.swatch { cursor: pointer; border: 1px solid var(--rule); background: var(--paper); padding: 0.8rem; text-align: left; display: grid; gap: 0.45rem; align-content: start; transition: border-color 150ms; }
+.swatch:hover { border-color: var(--ink); }
+.swatch[aria-pressed="true"] { border-color: var(--ink); box-shadow: inset 0 0 0 1px var(--ink); background: var(--surface); }
+.swatch .chip { width: 2.2rem; height: 2.2rem; border-radius: 50%; }
+.swatch .nm { font-family: var(--display); font-weight: 700; font-size: 1.05rem; }
+.swatch .how { font-size: 0.88rem; color: var(--muted); line-height: 1.35; }
+.h2-result { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 1.5rem; align-items: center; }
+@media (max-width: 760px) { .h2-result { grid-template-columns: 1fr; } }
+.bars { display: grid; gap: 0.8rem; }
+.bar-row { display: grid; grid-template-columns: 9rem minmax(0, 1fr) 4.5rem; gap: 0.3rem 1rem; align-items: center; }
+.bar-name { font-family: var(--display); font-weight: 650; font-size: 0.98rem; line-height: 1.25; }
+.track { height: 2rem; background: var(--track); overflow: hidden; }
+.track span { display: block; height: 100%; transition: width 450ms cubic-bezier(.2,.7,.2,1), background 300ms; }
+.bar-val { font-family: var(--mono); font-weight: 600; text-align: right; }
+@media (max-width: 600px) { .bar-row { grid-template-columns: minmax(0, 1fr) auto; } .bar-row .track { grid-column: 1 / -1; grid-row: 2; } }
+.h2-text { display: grid; gap: 0.6rem; }
+.h2-text .drop { font-family: var(--display); font-weight: 760; font-size: 2rem; line-height: 1; color: var(--spent-ink); }
+.note { font-size: var(--t-small); color: var(--muted); }
+
+/* CO2 capture waterfall */
+.ccs-controls { display: flex; flex-wrap: wrap; gap: 0.75rem 1.5rem; }
+.capture { display: grid; gap: 0.6rem; }
+.falls { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem; }
+.fall { display: grid; grid-template-rows: 15rem auto auto; gap: 0.45rem; text-align: center; min-width: 0; }
+.fall .col { display: flex; flex-direction: column; justify-content: flex-end; align-items: center; border-bottom: 1px solid var(--rule); }
+.fall .v { font-family: var(--display); font-weight: 760; font-size: 1.6rem; line-height: 1; padding-bottom: 0.4rem; }
+.fall .lost, .fall .bar { width: min(6rem, 70%); transition: height 400ms cubic-bezier(.2,.7,.2,1); }
+.fall .lost { border: 2px dashed var(--spent); border-bottom: 0; box-sizing: border-box; }
+.fall .t { font-family: var(--display); font-weight: 650; font-size: 0.92rem; line-height: 1.25; }
+.fall .d { font-family: var(--mono); font-weight: 600; font-size: 0.9rem; color: var(--spent-ink); min-height: 1.2em; }
+@media (max-width: 560px) { .fall { grid-template-rows: 12rem auto auto; } .fall .v { font-size: 1.25rem; } }
+
+/* takeaways */
+.three { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.75rem 2.5rem; max-width: 52rem; }
+@media (max-width: 760px) { .three { grid-template-columns: 1fr; } }
+.three div { display: grid; gap: 0.5rem; align-content: start; }
+
+footer { padding-block: 2.5rem 3.5rem; }
+footer .wrap { display: grid; gap: 0.8rem; }
+.cite { max-width: 46rem; }
+
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+</head>
+<body>
+<header class="masthead">
+  <div class="wrap">
+    <a class="label back" href="https://fontina-petrakopoulou.github.io/explore/">← Explore</a>
+    <span class="label">Total efficiency</span>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="wrap">
+    <div class="hero-text">
+      <h1>Efficiency starts <em>before the power plant</em></h1>
+      <p class="source-note">This page is based on three papers: <a href="https://fontina-petrakopoulou.github.io/publications/#:~:text=Introducing%20the%20total%20efficiency%20to%20address%20challenges">Petrakopoulou &amp; García-Tenorio Corcuera (2022), “Introducing the total efficiency to address challenges of the 21st century”, Journal of Cleaner Production 374, 133409</a>, <a href="https://fontina-petrakopoulou.github.io/publications/#:~:text=Evaluating%20hydrogen%2Dbased%20electricity%20generation">Petrakopoulou &amp; García-Tenorio (2023), “Evaluating hydrogen-based electricity generation using the concept of total efficiency”, Energy Conversion and Management 293, 117438</a>, and <a href="https://fontina-petrakopoulou.github.io/publications/#:~:text=Evaluating%20the%20impact%20of%20CO2%20capture%20and%20storage">García-Tenorio Corcuera &amp; Petrakopoulou (2025), “Evaluating the impact of CO₂ capture and storage on total efficiency: A lifecycle analysis”, Cleaner Engineering and Technology 27, 101002</a>.</p>
+      <p class="lede">Efficiency tells us how much of a fuel's energy a power plant turns into electricity. It is the number we use to compare power plants, set targets and write energy policy.</p>
+      <p>But efficiency only starts counting when the fuel arrives at the plant. Before that, gas and coal have to be extracted, cleaned, often liquefied, and carried for thousands of kilometres by pipeline, train and ship. Hydrogen first has to be made. All of this uses energy too, and most of it comes from more fossil fuel.</p>
+      <p><strong>Total efficiency</strong> adds that journey to the calculation, together with what happens after the plant, such as capturing and storing CO₂, so that energy sources can be compared on fair terms.</p>
+    </div>
+    <aside class="fence" aria-label="Example: gas power plant in Spain">
+      <span class="label">Gas power plant in Galicia, Spain</span>
+      <div class="fence-row">
+        <span>Efficiency at the plant</span><span class="big eff">48%</span>
+        <div class="fence-bar"><span style="width: 48.15%; background: var(--eff)"></span></div>
+      </div>
+      <hr>
+      <div class="fence-row">
+        <span>Counting the gas's journey from Egypt</span><span class="big spent">≈35%</span>
+        <div class="fence-bar"><span style="width: 34.9%; background: var(--spent)"></span></div>
+      </div>
+      <p class="small">The middle of the study's results. Depending on the published data used, the total efficiency ranges from 28% to 41%.</p>
+    </aside>
+  </div>
+</section>
+
+<section id="why">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="label">Why a new measure?</span>
+      <h2>A number that stops at the plant's fence</h2>
+      <p>On paper, fossil-fuel power plants look far more efficient than renewable ones. Typical values reported in the literature:</p>
+    </div>
+    <div class="compare">
+      <div><span class="label">Solar PV</span><span class="v">10–20%</span><span class="fuel">Fuel: sunlight, free and on site</span></div>
+      <div><span class="label">Solar thermal</span><span class="v">≈30%</span><span class="fuel">Fuel: sunlight, free and on site</span></div>
+      <div><span class="label">Wind turbine</span><span class="v">20–40%</span><span class="fuel">Fuel: wind, free and on site</span></div>
+      <div class="fossil"><span class="label">Gas combined cycle</span><span class="v">&gt;60%</span><span class="fuel">Fuel: gas, often from another continent</span></div>
+    </div>
+    <div class="prose">
+      <p>This comparison is not fair. Sun and wind are used where they arrive. Fossil fuels must be found, extracted, processed and shipped before a power plant can burn them, and conventional efficiency ignores every one of those steps. The same is true for hydrogen, which does not exist freely in nature and has to be produced first.</p>
+      <p>As Europe switches from coal to imported gas, and plans for hydrogen, these hidden steps are getting longer and more energy-hungry. A fair measure has to include them.</p>
+    </div>
+  </div>
+</section>
+
+<section id="idea">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="label">The idea</span>
+      <h2>Count the journey, not just the burn</h2>
+      <p>Total efficiency keeps the familiar definition of efficiency and adds one term to the bottom of the fraction: the energy spent to make the fuel ready for use.</p>
+    </div>
+    <div class="equation" aria-label="Total efficiency equals electricity produced divided by fuel burned in the plant plus energy to extract, process and transport the fuel">
+      <span class="eq-name">Total efficiency</span><span>=</span>
+      <span class="frac"><span class="top">Electricity produced</span><span class="bot">Fuel burned in the plant + <b>energy to extract, process and transport it</b></span></span>
+    </div>
+    <div class="two">
+      <div class="card">
+        <span class="k">Direct energy use</span>
+        <h3>Fuel burned along the way</h3>
+        <p>Diesel in mining machines and trucks, heavy fuel oil in ships, gas burned to run a liquefaction plant. These are counted directly as extra fuel.</p>
+      </div>
+      <div class="card">
+        <span class="k">Indirect energy use</span>
+        <h3>Electricity used along the way</h3>
+        <p>Pumps, compressors, conveyor belts and electric trains use electricity. The method traces it back to the fuel burned to generate it, taking into account each country's power mix.</p>
+      </div>
+    </div>
+    <p class="small" style="max-width: 42rem">The energy data for each step come from published life cycle assessment studies. Because several studies report different values for the same step, the analysis runs many combinations and reports a range.</p>
+  </div>
+</section>
+
+<section id="journey">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="label">Try it</span>
+      <h2>Follow a fuel to the power plant</h2>
+      <p>Two real power plants in Spain, two long supply chains. Drag the fuel along its route and watch what each step costs.</p>
+    </div>
+    <div class="panel">
+      <div class="seg-group" role="group" aria-label="Choose a fuel">
+        <button class="seg-btn" type="button" id="fuel-gas" data-fuel="gas" aria-pressed="true">Natural gas<small>Egypt → Galicia</small></button>
+        <button class="seg-btn" type="button" id="fuel-coal" data-fuel="coal" aria-pressed="false">Coal<small>South Africa → Mallorca</small></button>
+      </div>
+      <div class="journey-grid">
+        <div style="display: grid; gap: 1.2rem; min-width: 0">
+          <div class="route-scroll">
+            <div class="route">
+              <div class="stops" id="stops"><div class="route-fill" id="route-fill"></div></div>
+              <input type="range" id="trip" min="0" max="7" step="1" value="0" aria-label="Move the fuel along its journey">
+            </div>
+          </div>
+          <div class="stage-card" id="stage-card" aria-live="polite"></div>
+        </div>
+        <div class="gauge">
+          <svg viewBox="0 0 200 118" role="img" aria-labelledby="g-label">
+            <path d="M 20 100 A 80 80 0 0 1 180 100" fill="none" stroke="var(--track)" stroke-width="16"/>
+            <path id="g-conv" d="M 20 100 A 80 80 0 0 1 180 100" fill="none" stroke="var(--eff-soft)" stroke-width="16" pathLength="100"/>
+            <path id="g-now" d="M 20 100 A 80 80 0 0 1 180 100" fill="none" stroke="var(--eff)" stroke-width="16" pathLength="100"/>
+            <text x="20" y="116" font-size="10" fill="var(--muted)" text-anchor="middle" font-family="IBM Plex Mono, monospace">0%</text>
+            <text x="180" y="116" font-size="10" fill="var(--muted)" text-anchor="middle" font-family="IBM Plex Mono, monospace">60%</text>
+          </svg>
+          <div class="g-val" id="g-val">48%</div>
+          <div class="g-sub" id="g-label">Efficiency so far</div>
+          <div class="g-sub" id="g-drop"></div>
+        </div>
+      </div>
+
+      <div class="distance" id="distance" hidden>
+        <div class="distance-head">
+          <label class="label" for="dist">What if the coal travelled further?</label>
+          <output id="dist-out" for="dist"></output>
+        </div>
+        <input type="range" id="dist" min="0" max="6" step="1" value="2">
+        <div class="dist-ticks" aria-hidden="true"><span>½×</span><span>¾×</span><span>1×</span><span>1¼×</span><span>1½×</span><span>1¾×</span><span>2×</span></div>
+        <p class="small" id="dist-text"></p>
+      </div>
+      <p class="note" id="journey-note"></p>
+    </div>
+  </div>
+</section>
+
+<section id="hydrogen">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="label">The next fuel</span>
+      <h2>Hydrogen has to be made first</h2>
+      <p>Hydrogen burns without CO₂, which makes it a candidate fuel for future power plants. But it has to be produced, compressed or liquefied, and transported. The second study applied total efficiency to hydrogen in two existing gas power plants, one in Spain and one in Germany, assuming they switch to hydrogen.</p>
+      <p>Hydrogen is labelled by colour according to how it is made. Pick a colour and a country.</p>
+    </div>
+    <div class="panel">
+      <div class="swatches" role="group" aria-label="Choose how the hydrogen is made" id="swatches"></div>
+      <div class="seg-group" role="group" aria-label="Choose a country">
+        <button class="seg-btn" type="button" id="cty-es" data-cty="es" aria-pressed="true">Spain<small>Gas plant in Galicia, 48%</small></button>
+        <button class="seg-btn" type="button" id="cty-de" data-cty="de" aria-pressed="false">Germany<small>Gas plant in Lower Saxony, 43%</small></button>
+      </div>
+      <div class="h2-result">
+        <div class="bars">
+          <div class="bar-row"><div class="bar-name">Efficiency at the plant</div><div class="track"><span id="h2-bar-conv" style="background: var(--eff-soft)"></span></div><div class="bar-val" id="h2-val-conv"></div></div>
+          <div class="bar-row"><div class="bar-name">Total efficiency</div><div class="track"><span id="h2-bar-tot"></span></div><div class="bar-val" id="h2-val-tot"></div></div>
+        </div>
+        <div class="h2-text" aria-live="polite">
+          <div class="drop" id="h2-drop"></div>
+          <p id="h2-text"></p>
+        </div>
+      </div>
+      <p class="note">Values for hydrogen delivered by pipeline, read from the study's result charts and rounded. Delivering by truck instead changes them by less than 1.5 percentage points. Grey, turquoise and yellow hydrogen in the Spanish case use natural gas imported as liquefied gas from Egypt; in the German case the gas is piped from Norway.</p>
+    </div>
+  </div>
+</section>
+
+<section id="ccs">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="label">After the power plant</span>
+      <h2>Capturing CO₂ costs energy too</h2>
+      <p>Carbon capture and storage (CCS) removes most of the CO₂ from a power plant's exhaust and stores it underground. It is an important option for cutting emissions from gas and coal plants. But it is not free in energy terms: the chemical solvent that captures the CO₂ has to be heated to release it again, and the CO₂ then has to be compressed, piped away and injected.</p>
+      <p>The third study added these steps to total efficiency, for a gas plant and a coal plant in the UK and in Australia, with fuel from nearby fields and mines.</p>
+    </div>
+    <div class="panel">
+      <div class="ccs-controls">
+        <div class="seg-group" role="group" aria-label="Choose a power plant">
+          <button class="seg-btn" type="button" id="ccs-gas" data-ccsfuel="gas" aria-pressed="true">Gas plant<small>57% at the plant</small></button>
+          <button class="seg-btn" type="button" id="ccs-coal" data-ccsfuel="coal" aria-pressed="false">Coal plant<small>37% at the plant</small></button>
+        </div>
+        <div class="seg-group" role="group" aria-label="Choose a country">
+          <button class="seg-btn" type="button" id="ccs-uk" data-ccscty="uk" aria-pressed="true">United Kingdom<small>40% fossil power grid</small></button>
+          <button class="seg-btn" type="button" id="ccs-au" data-ccscty="au" aria-pressed="false">Australia<small>64% fossil power grid</small></button>
+        </div>
+      </div>
+      <div class="capture">
+        <div class="distance-head">
+          <label class="label" for="cap">Share of the CO₂ captured</label>
+          <output id="cap-out" for="cap">85%</output>
+        </div>
+        <input type="range" id="cap" min="85" max="100" step="1" value="85">
+        <div class="dist-ticks" aria-hidden="true"><span>85%</span><span>90%</span><span>95%</span><span>100%</span></div>
+      </div>
+      <div class="falls" id="falls" aria-live="polite"></div>
+      <p class="small" id="ccs-text"></p>
+      <p class="note">Results of the study at 85% and 100% capture; values in between are interpolated. Efficiency drops are relative to the plant's own efficiency without CO₂ capture.</p>
+    </div>
+  </div>
+</section>
+
+<section id="matters">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="label">Why it matters</span>
+      <h2>A fairer yardstick for the energy transition</h2>
+    </div>
+    <div class="three">
+      <div><h3>Fair comparisons</h3><p>Fossil, renewable and hydrogen-based electricity can be compared on the same basis, including everything it takes to bring the fuel to the plant.</p></div>
+      <div><h3>Where energy is lost</h3><p>Total efficiency shows which steps cost the most, such as long-distance shipping or liquefying gas, and where shorter supply chains or local production would help most.</p></div>
+      <div><h3>Honest numbers for CO₂ capture</h3><p>It shows the full energy price of capturing CO₂, which helps target improvements such as better solvents, heat recovery and shorter transport routes.</p></div>
+      <div><h3>Better choices for hydrogen</h3><p>It shows that hydrogen made from surplus renewable electricity close to where it is used keeps most of its value, while hydrogen made from imported gas or grid power loses most of it.</p></div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <span class="label">Read the papers</span>
+    <p class="cite">Petrakopoulou, F. and García-Tenorio Corcuera, E. (2022). Introducing the total efficiency to address challenges of the 21st century. <em>Journal of Cleaner Production</em> 374, 133409. <a href="https://doi.org/10.1016/j.jclepro.2022.133409">doi.org/10.1016/j.jclepro.2022.133409</a></p>
+    <p class="cite">Petrakopoulou, F. and García-Tenorio, E. (2023). Evaluating hydrogen-based electricity generation using the concept of total efficiency. <em>Energy Conversion and Management</em> 293, 117438. <a href="https://doi.org/10.1016/j.enconman.2023.117438">doi.org/10.1016/j.enconman.2023.117438</a></p>
+    <p class="cite">García-Tenorio Corcuera, E. and Petrakopoulou, F. (2025). Evaluating the impact of CO₂ capture and storage on total efficiency: A lifecycle analysis. <em>Cleaner Engineering and Technology</em> 27, 101002. <a href="https://doi.org/10.1016/j.clet.2025.101002">doi.org/10.1016/j.clet.2025.101002</a></p>
+  </div>
+</footer>
+
+<script>
+(function () {
+  // ---- Journey -----------------------------------------------------------
+  // Stage energy use: average of all scenarios in the 2022 study (Table 6, MJ per tonne of fuel).
+  // Start and end efficiencies: conventional efficiency and the middle of the study's range of results.
+  // Between stops, efficiency follows the method's formula, eta / (1 + share * (eta / eta_end - 1)).
+  var FUELS = {
+    gas: {
+      conv: 48.15, end: 34.9, range: '28–41%',
+      note: 'Energy per stage: average of the 72 scenarios in the study. Depending on which published data are used, the total efficiency of this plant ranges from 28.3% to 41.4%; in most scenarios it is 38–41%.',
+      stops: [
+        ['Gas field', 'Zohr field, off the coast of Egypt', 'The gas is still in the ground. Nothing has been spent yet.', 0],
+        ['Extraction', 'Drilling platforms and offshore equipment', 'Drilling rigs and offshore platforms run on diesel and electricity to bring the gas up.', 3900],
+        ['Processing', 'At the gas field', 'The gas is cleaned and dried before it can travel.', 1410],
+        ['Pipeline', 'Gas field → port of Damietta', 'Compressors push the gas through a pipeline to the coast.', 187],
+        ['Liquefaction', 'Port of Damietta, Egypt', 'The gas is cooled to about −160 °C so that it fits on a ship. This is the most energy-hungry step.', 5440],
+        ['Shipping', '4,700 km by LNG tanker', 'Tankers carry the liquefied gas across the Mediterranean and along the Atlantic coast to Ferrol.', 4570],
+        ['Regasification', 'Port of Ferrol, Spain', 'The liquid is warmed back into gas.', 800],
+        ['Power plant', 'Pipeline to Sabón, 40 km', 'A short pipeline delivers the gas to the 400 MW combined-cycle plant. Here conventional efficiency starts counting.', 40]
+      ]
+    },
+    coal: {
+      conv: 35.71, end: 27.15, range: '26.7–27.6%',
+      note: 'Energy per stage: average of the 324 scenarios in the study. Depending on which published data are used, the total efficiency of this plant ranges from 26.7% to 27.6%.',
+      stops: [
+        ['Coal mine', 'Mpumalanga, South Africa', 'The coal is still underground. Nothing has been spent yet.', 0],
+        ['Extraction', 'Underground mine', 'Mining machines run on diesel and electricity to dig the coal out.', 478],
+        ['Processing', 'Belt conveyor and mine facilities', 'A conveyor belt carries the coal to be crushed and washed.', 206],
+        ['Train', '475 km to Durban', 'Freight trains carry the coal to the port of Durban.', 2050],
+        ['Ocean ship', 'Durban → Tarragona', 'A large bulk carrier ships the coal to Spain. This is by far the most energy-hungry step.', 5730],
+        ['Coastal ship', 'Tarragona → Alcudia, Mallorca', 'The port in Mallorca is too shallow for the large carrier, so a smaller ship takes over.', 109],
+        ['Power plant', 'By truck to Es Murterar, 8 km', 'Trucks bring the coal to the power plant. Here conventional efficiency starts counting.', 4]
+      ]
+    }
+  };
+  // Coal sensitivity to transport distance (study, Table 7): % change in total efficiency.
+  var DIST = [[0.5, 12.3], [0.75, 5.8], [1, 0], [1.25, -5.2], [1.5, -9.9], [1.75, -14.1], [2, -18.0]];
+
+  var fuel = 'gas';
+  var trip = document.getElementById('trip');
+  var stopsEl = document.getElementById('stops');
+  var fill = document.getElementById('route-fill');
+  var gConv = document.getElementById('g-conv'), gNow = document.getElementById('g-now');
+  var GMAX = 60;
+
+  function eff(f, share) { return f.conv / (1 + share * (f.conv / f.end - 1)); }
+  function totalE(f) { return f.stops.reduce(function (a, s) { return a + s[3]; }, 0); }
+
+  function buildStops() {
+    var f = FUELS[fuel];
+    Array.prototype.slice.call(stopsEl.querySelectorAll('.stop')).forEach(function (s) { s.remove(); });
+    stopsEl.style.gridTemplateColumns = 'repeat(' + f.stops.length + ', minmax(0, 1fr))';
+    f.stops.forEach(function (s, i) {
+      var b = document.createElement('button');
+      b.type = 'button';
+      b.className = 'stop' + (i === f.stops.length - 1 ? ' plant' : '');
+      b.id = 'stop-' + fuel + '-' + i;
+      b.innerHTML = '<span class="dot">' + (i === 0 ? '●' : i) + '</span><span class="name">' + s[0] + '</span>';
+      b.addEventListener('click', function () { trip.value = i; renderTrip(); });
+      stopsEl.appendChild(b);
+    });
+    trip.max = f.stops.length - 1;
+    document.getElementById('journey-note').textContent = f.note;
+    document.getElementById('distance').hidden = fuel !== 'coal';
+  }
+  function renderTrip() {
+    var f = FUELS[fuel], k = parseInt(trip.value, 10), n = f.stops.length - 1;
+    var tot = totalE(f), cum = 0;
+    for (var i = 0; i <= k; i++) cum += f.stops[i][3];
+    var share = cum / tot, e = eff(f, share);
+    trip.style.setProperty('--fill', (k / n * 100) + '%');
+    var colW = 100 / f.stops.length;
+    fill.style.left = (colW / 2) + '%';
+    fill.style.width = (k * colW) + '%';
+    Array.prototype.forEach.call(stopsEl.querySelectorAll('.stop'), function (s, i) {
+      s.classList.toggle('done', i < k);
+      s.classList.toggle('here', i === k);
+      s.setAttribute('aria-current', i === k ? 'step' : 'false');
+    });
+    var st = f.stops[k];
+    var stepShare = st[3] / tot * 100;
+    document.getElementById('stage-card').innerHTML =
+      '<span class="label">Stop ' + k + ' of ' + n + '</span><h3>' + st[0] + '</h3><p class="small">' + st[1] + '</p><p>' + st[2] + '</p>' +
+      (k > 0 ? '<p class="share">' + (stepShare < 0.5 ? 'Less than 1%' : Math.round(stepShare) + '%') + ' of the energy spent on the journey</p>' : '');
+    gConv.setAttribute('stroke-dasharray', (f.conv / GMAX * 100) + ' 100');
+    gNow.setAttribute('stroke-dasharray', (e / GMAX * 100) + ' 100');
+    document.getElementById('g-val').textContent = (k === n ? '≈' : '') + Math.round(e) + '%';
+    document.getElementById('g-label').textContent = k === n ? 'Total efficiency on arrival' : 'Efficiency so far';
+    var drop = (1 - e / f.conv) * 100;
+    document.getElementById('g-drop').innerHTML = k === 0
+      ? 'Starts at the plant’s own efficiency of ' + f.conv + '%'
+      : '<span class="g-drop">−' + Math.round(drop) + '%</span> compared with ' + f.conv + '% at the plant' + (k === n ? '<br>Study’s range: ' + f.range : '');
+    renderDist();
+  }
+  function renderDist() {
+    var d = DIST[parseInt(document.getElementById('dist').value, 10)];
+    var f = FUELS.coal, e = f.end * (1 + d[1] / 100);
+    document.getElementById('dist').style.setProperty('--fill', (parseInt(document.getElementById('dist').value, 10) / 6 * 100) + '%');
+    document.getElementById('dist-out').textContent = d[0] === 1 ? 'Today’s route' : d[0] + '× the distance';
+    document.getElementById('dist-text').textContent = d[0] === 1
+      ? 'With today’s route, the coal plant’s total efficiency is about ' + f.end.toFixed(1) + '%. Drag to change the transport distance.'
+      : 'Total efficiency becomes about ' + e.toFixed(1) + '% (' + (d[1] > 0 ? '+' : '−') + Math.abs(d[1]).toFixed(1) + '%). Transport distance is one of the most decisive factors: doubling it lowers the coal plant’s total efficiency by almost a fifth.';
+  }
+  document.querySelectorAll('[data-fuel]').forEach(function (b) {
+    b.addEventListener('click', function () {
+      fuel = b.dataset.fuel;
+      document.querySelectorAll('[data-fuel]').forEach(function (x) { x.setAttribute('aria-pressed', String(x === b)); });
+      buildStops(); trip.value = 0; renderTrip();
+    });
+  });
+  trip.addEventListener('input', renderTrip);
+  document.getElementById('dist').addEventListener('input', renderDist);
+  buildStops(); renderTrip();
+
+  // ---- Hydrogen ----------------------------------------------------------
+  // Total efficiency (%), hydrogen delivered by pipeline, read from the 2023 study's Figs. 2 and 3.
+  var H2 = {
+    grey:  { name: 'Grey', color: 'var(--h2-grey)', how: 'From natural gas by steam reforming. CO₂ is released.', es: 11.5, de: 26.0,
+             es_t: 'Most of the energy goes into bringing the natural gas from Egypt as liquefied gas, before any hydrogen is made.',
+             de_t: 'Gas piped from Norway costs far less energy to deliver than liquefied gas shipped from Egypt, so much more of the value survives.' },
+    turq:  { name: 'Turquoise', color: 'var(--h2-turq)', how: 'From natural gas by pyrolysis. Carbon is left as a solid.', es: 9.0, de: 24.7,
+             es_t: 'Pyrolysis needs more natural gas per kilogram of hydrogen than steam reforming, and that gas comes a long way.',
+             de_t: 'Like grey hydrogen, it benefits from gas piped from nearby Norway.' },
+    yellow:{ name: 'Yellow', color: 'var(--h2-yellow)', how: 'By electrolysis using grid electricity.', es: 11.1, de: 8.5,
+             es_t: 'Electrolysis needs a lot of electricity, and most grid electricity is generated by burning fuel at well below 100% efficiency.',
+             de_t: 'The worst option in Germany: the energy lost generating grid power is multiplied by the energy needed for electrolysis.' },
+    green: { name: 'Green', color: 'var(--h2-green)', how: 'By electrolysis using surplus renewable electricity.', es: 43.5, de: 30.5,
+             es_t: 'The best option. The electricity is surplus renewable power, so the study counts no fuel for producing the hydrogen. Only compression and transport remain.',
+             de_t: 'The best option in Germany too: no fuel is burned to make the hydrogen.' }
+  };
+  var CONV = { es: 48.15, de: 43.0 };
+  var colour = 'green', cty = 'es';
+  var sw = document.getElementById('swatches');
+  Object.keys(H2).forEach(function (k) {
+    var h = H2[k], b = document.createElement('button');
+    b.type = 'button'; b.className = 'swatch'; b.id = 'h2-' + k; b.dataset.h2 = k;
+    b.innerHTML = '<span class="chip" style="background:' + h.color + '"></span><span class="nm">' + h.name + '</span><span class="how">' + h.how + '</span>';
+    b.addEventListener('click', function () { colour = k; renderH2(); });
+    sw.appendChild(b);
+  });
+  document.querySelectorAll('[data-cty]').forEach(function (b) {
+    b.addEventListener('click', function () { cty = b.dataset.cty; renderH2(); });
+  });
+  function renderH2() {
+    var h = H2[colour], c = CONV[cty], t = h[cty];
+    document.querySelectorAll('[data-h2]').forEach(function (b) { b.setAttribute('aria-pressed', String(b.dataset.h2 === colour)); });
+    document.querySelectorAll('[data-cty]').forEach(function (b) { b.setAttribute('aria-pressed', String(b.dataset.cty === cty)); });
+    document.getElementById('h2-bar-conv').style.width = (c / 60 * 100) + '%';
+    document.getElementById('h2-bar-tot').style.width = (t / 60 * 100) + '%';
+    document.getElementById('h2-bar-tot').style.background = h.color;
+    document.getElementById('h2-val-conv').textContent = Math.round(c) + '%';
+    document.getElementById('h2-val-tot').textContent = '≈' + Math.round(t) + '%';
+    var kept = t / c * 100;
+    document.getElementById('h2-drop').textContent = 'Keeps ' + Math.round(kept) + '% of its value';
+    document.getElementById('h2-text').textContent = h[cty + '_t'];
+  }
+  renderH2();
+
+  // ---- CO2 capture (2025 study) -------------------------------------------
+  // [conventional, CCS only at 85%, CCS only at 100%, CCS + fuel journey at 85%, at 100%]
+  var CCS = {
+    gas:  { uk: [57, 42.70, 41.28, 31.62, 30.79], au: [57, 42.55, 41.12, 29.84, 29.06] },
+    coal: { uk: [37, 23.06, 21.62, 22.82, 21.42], au: [37, 22.70, 21.25, 22.39, 20.98] }
+  };
+  var ccsFuel = 'gas', ccsCty = 'uk';
+  var cap = document.getElementById('cap');
+  var falls = document.getElementById('falls');
+  var FMAX = 60;
+  ['Plant only', 'With CO\u2082 capture', 'With CO\u2082 capture and the fuel\u2019s journey'].forEach(function (t, i) {
+    var d = document.createElement('div');
+    d.className = 'fall';
+    d.innerHTML = '<div class="col"><div class="v" id="fall-v' + i + '"></div><div class="lost" id="fall-l' + i + '"></div><div class="bar" id="fall-b' + i + '"></div></div><div class="t">' + t + '</div><div class="d" id="fall-d' + i + '"></div>';
+    falls.appendChild(d);
+  });
+  var COLORS = ['var(--eff-soft)', 'var(--eff)', 'var(--spent)'];
+  function renderCCS() {
+    var r = CCS[ccsFuel][ccsCty], c = parseInt(cap.value, 10), w = (c - 85) / 15;
+    var vals = [r[0], r[1] + (r[2] - r[1]) * w, r[3] + (r[4] - r[3]) * w];
+    cap.style.setProperty('--fill', (w * 100) + '%');
+    document.getElementById('cap-out').textContent = c + '% captured, ' + (100 - c) + '% released';
+    vals.forEach(function (v, i) {
+      document.getElementById('fall-v' + i).textContent = (i ? '\u2248' : '') + (i ? v.toFixed(1) : v) + '%';
+      var b = document.getElementById('fall-b' + i);
+      b.style.height = (v / FMAX * 13) + 'rem';
+      b.style.background = COLORS[i];
+      var lost = i ? vals[i - 1] - v : 0;
+      var l = document.getElementById('fall-l' + i);
+      l.style.height = (lost / FMAX * 13) + 'rem';
+      l.hidden = !i;
+      document.getElementById('fall-d' + i).textContent = i ? '\u2212' + lost.toFixed(1) + ' points' : '';
+    });
+    var drop = (1 - vals[2] / r[0]) * 100;
+    document.getElementById('ccs-text').textContent = ccsFuel === 'gas'
+      ? 'Counting everything, the gas plant loses about ' + Math.round(drop) + '% of its efficiency. Capturing the CO\u2082 costs a lot, and preparing and transporting the gas costs almost as much again.'
+      : 'Counting everything, the coal plant loses about ' + Math.round(drop) + '% of its efficiency. Here CO\u2082 capture dominates. Preparing and transporting the coal takes little energy (7\u201310% of the total requirement), but coal produces much more CO\u2082 per unit of electricity, and capturing it is the most energy-intensive step.';
+    document.querySelectorAll('[data-ccsfuel]').forEach(function (b) { b.setAttribute('aria-pressed', String(b.dataset.ccsfuel === ccsFuel)); });
+    document.querySelectorAll('[data-ccscty]').forEach(function (b) { b.setAttribute('aria-pressed', String(b.dataset.ccscty === ccsCty)); });
+  }
+  document.querySelectorAll('[data-ccsfuel]').forEach(function (b) { b.addEventListener('click', function () { ccsFuel = b.dataset.ccsfuel; renderCCS(); }); });
+  document.querySelectorAll('[data-ccscty]').forEach(function (b) { b.addEventListener('click', function () { ccsCty = b.dataset.ccscty; renderCCS(); }); });
+  cap.addEventListener('input', renderCCS);
+  renderCCS();
+})();
+</script>
+</body>
+</html>

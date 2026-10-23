@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 380" role="img" aria-label="A fuel's route from gas field to power plant, with efficiency falling from 48 percent at the plant to about 35 percent when the journey is counted">
+  <rect width="600" height="380" fill="#EEF1EE"/>
+  <g font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+    <text x="32" y="52" font-size="16" font-weight="700" letter-spacing="2" fill="#4F5E58">BEFORE THE POWER PLANT</text>
+
+    <line x1="48" y1="112" x2="552" y2="112" stroke="#DDE5E1" stroke-width="4"/>
+    <line x1="48" y1="112" x2="408" y2="112" stroke="#B4532A" stroke-width="4"/>
+    <g stroke-width="4">
+      <circle cx="48" cy="112" r="12" fill="#B4532A" stroke="#B4532A"/>
+      <circle cx="120" cy="112" r="12" fill="#F9FBF9" stroke="#B4532A"/>
+      <circle cx="192" cy="112" r="12" fill="#F9FBF9" stroke="#B4532A"/>
+      <circle cx="264" cy="112" r="12" fill="#F9FBF9" stroke="#B4532A"/>
+      <circle cx="336" cy="112" r="12" fill="#F9FBF9" stroke="#B4532A"/>
+      <circle cx="408" cy="112" r="14" fill="#B4532A" stroke="#B4532A"/>
+      <circle cx="480" cy="112" r="12" fill="#F9FBF9" stroke="#DDE5E1"/>
+      <rect x="540" y="100" width="24" height="24" rx="4" fill="#F9FBF9" stroke="#DDE5E1"/>
+    </g>
+    <text x="48" y="150" font-size="16" fill="#4F5E58" text-anchor="middle">Gas field</text>
+    <text x="408" y="150" font-size="16" fill="#15211D" font-weight="700" text-anchor="middle">Shipping</text>
+    <text x="552" y="150" font-size="16" fill="#4F5E58" text-anchor="middle">Plant</text>
+
+    <text x="32" y="212" font-size="18" fill="#15211D" font-weight="700">Efficiency at the plant</text>
+    <rect x="32" y="224" width="400" height="34" fill="#DDE5E1"/>
+    <rect x="32" y="224" width="321" height="34" fill="#1F7A5C"/>
+    <text x="448" y="249" font-size="22" font-weight="700" fill="#1F7A5C">48%</text>
+
+    <text x="32" y="296" font-size="18" fill="#15211D" font-weight="700">Counting the fuel's journey</text>
+    <rect x="32" y="308" width="400" height="34" fill="#DDE5E1"/>
+    <rect x="32" y="308" width="233" height="34" fill="#B4532A"/>
+    <text x="448" y="333" font-size="22" font-weight="700" fill="#8E3F1E">≈35%</text>
+  </g>
+</svg>
